@@ -1,0 +1,879 @@
+#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
+#央视
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="/sdcard/TV/logo/CCTV1.png" group-title="央视",CCTV-1 综合
+http://ott.mobaibox.com/PLTV/3/224/3221228581/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="/sdcard/TV/logo/CCTV2.png" group-title="央视",CCTV-2 财经
+http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="/sdcard/TV/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
+http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="/sdcard/TV/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
+http://ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="/sdcard/TV/logo/CCTV5.png" group-title="央视",CCTV-5 体育
+http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="/sdcard/TV/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="/sdcard/TV/logo/CCTV6.png" group-title="央视",CCTV-6 电影
+http://ott.mobaibox.com/PLTV/3/224/3221228516/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="/sdcard/TV/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
+http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="/sdcard/TV/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
+http://ott.mobaibox.com/PLTV/3/224/3221228578/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="/sdcard/TV/logo/CCTV9.png" group-title="央视",CCTV-9 纪录
+http://ott.mobaibox.com/PLTV/3/224/3221228758/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="/sdcard/TV/logo/CCTV10.png" group-title="央视",CCTV-10 科教
+http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="/sdcard/TV/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
+http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="/sdcard/TV/logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
+http://ott.mobaibox.com/PLTV/3/224/3221228657/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="/sdcard/TV/logo/CCTV13.png" group-title="央视",CCTV-13 新闻
+http://ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-logo="/sdcard/TV/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
+http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-logo="/sdcard/TV/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
+http://ott.mobaibox.com/PLTV/3/224/3221228622/index.m3u8
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="/sdcard/TV/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="/sdcard/TV/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
+http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="/sdcard/TV/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-logo="/sdcard/TV/logo/CCTV8K.png" group-title="央视",CCTV-8K 超高清
+http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+#EXTINF:-1 tvg-id="第一剧场" tvg-logo="/sdcard/TV/logo/CCTV第一剧场.png" group-title="央视",CCTV-第一剧场
+http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="/sdcard/TV/logo/CCTV怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
+#EXTINF:-1 tvg-id="风云剧场" tvg-logo="/sdcard/TV/logo/CCTV风云剧场.png" group-title="央视",CCTV-风云剧场
+http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
+#EXTINF:-1 tvg-id="风云音乐" tvg-logo="/sdcard/TV/logo/CCTV风云音乐.png" group-title="央视",CCTV-风云音乐
+http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
+#EXTINF:-1 tvg-id="风云足球" tvg-logo="/sdcard/TV/logo/CCTV风云足球.png" group-title="央视",CCTV-风云足球
+http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-logo="/sdcard/TV/logo/CCTV高尔夫网球.png" group-title="央视",CCTV-高尔夫·网球
+http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+#EXTINF:-1 tvg-id="女性时尚" tvg-logo="/sdcard/TV/logo/CCTV女性时尚.png" group-title="央视",CCTV-女性时尚
+http://ott.mobaibox.com/PLTV/3/224/3221228674/index.m3u8
+#EXTINF:-1 tvg-id="世界地理" tvg-logo="/sdcard/TV/logo/CCTV世界地理.png" group-title="央视",CCTV-世界地理
+http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
+#EXTINF:-1 tvg-id="央视台球" tvg-logo="/sdcard/TV/logo/CCTV央视台球.png" group-title="央视",CCTV-央视台球
+http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
+#EXTINF:-1 tvg-id="央视文化精品" tvg-logo="/sdcard/TV/logo/CCTV央视文化精品.png" group-title="央视",CCTV-央视文化精品
+http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
+#EXTINF:-1 tvg-id="兵器科技" tvg-logo="/sdcard/TV/logo/CCTV兵器科技.png" group-title="央视",CCTV-兵器科技
+http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
+#EXTINF:-1 tvg-id="电视指南" tvg-logo="/sdcard/TV/logo/CCTV电视指南.png" group-title="央视",CCTV-电视指南
+http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
+#EXTINF:-1 tvg-id="早期教育" tvg-logo="/sdcard/TV/logo/CETV早期教育.png" group-title="央视",CETV-早期教育
+http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
+#EXTINF:-1 tvg-id="CETV1" tvg-logo="/sdcard/TV/logo/CETV1.png" group-title="央视",CETV-1 综合教育
+webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
+#EXTINF:-1 tvg-id="CETV2" tvg-logo="/sdcard/TV/logo/CETV2.png" group-title="央视",CETV-2 教育教学
+webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
+#EXTINF:-1 tvg-id="CETV4" tvg-logo="/sdcard/TV/logo/CETV4.png" group-title="央视",CETV-4 职业教育
+webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="/sdcard/TV/logo/CGTN.png" group-title="央视",CGTN-新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
+https://english-livebkws.cgtn.com/live/encgtn_0.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="/sdcard/TV/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
+https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
+#EXTINF:-1 tvg-id="CGTN西语" tvg-logo="/sdcard/TV/logo/CGTN西语.png" group-title="央视",CGTN-西语
+https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN法语" tvg-logo="/sdcard/TV/logo/CGTN法语.png" group-title="央视",CGTN-法语
+https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-logo="/sdcard/TV/logo/CGTN阿语.png" group-title="央视",CGTN-阿语
+https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-logo="/sdcard/TV/logo/CGTN俄语.png" group-title="央视",CGTN-俄语
+https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
+#卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="/sdcard/TV/logo/安徽卫视.png" group-title="卫视",安徽卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="/sdcard/TV/logo/北京卫视.png" group-title="卫视",北京卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
+#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="/sdcard/TV/logo/重庆卫视.png" group-title="卫视",重庆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="/sdcard/TV/logo/东方卫视.png" group-title="卫视",东方卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227511/index.m3u8
+#EXTINF:-1 tvg-id="东南卫视" tvg-logo="/sdcard/TV/logo/东南卫视.png" group-title="卫视",东南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="/sdcard/TV/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="/sdcard/TV/logo/广东卫视.png" group-title="卫视",广东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227476/index.m3u8
+#EXTINF:-1 tvg-id="广西卫视" tvg-logo="/sdcard/TV/logo/广西卫视.png" group-title="卫视",广西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="/sdcard/TV/logo/贵州卫视.png" group-title="卫视",贵州卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="/sdcard/TV/logo/海南卫视.png" group-title="卫视",海南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228101/index.m3u8
+#EXTINF:-1 tvg-id="河北卫视" tvg-logo="/sdcard/TV/logo/河北卫视.png" group-title="卫视",河北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="/sdcard/TV/logo/河南卫视.png" group-title="卫视",河南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="/sdcard/TV/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="/sdcard/TV/logo/湖北卫视.png" group-title="卫视",湖北卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="/sdcard/TV/logo/湖南卫视.png" group-title="卫视",湖南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227482/index.m3u8
+#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="/sdcard/TV/logo/吉林卫视.png" group-title="卫视",吉林卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="/sdcard/TV/logo/江苏卫视.png" group-title="卫视",江苏卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227552/index.m3u8
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="/sdcard/TV/logo/江西卫视.png" group-title="卫视",江西卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="/sdcard/TV/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-logo="/sdcard/TV/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0
+#EXTINF:-1 tvg-id="青海卫视" tvg-logo="/sdcard/TV/logo/青海卫视.png" group-title="卫视",青海卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="/sdcard/TV/logo/山东卫视.png" group-title="卫视",山东卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227517/index.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-logo="/sdcard/TV/logo/四川卫视.png" group-title="卫视",四川卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228171/index.m3u8
+#EXTINF:-1 tvg-id="天津卫视" tvg-logo="/sdcard/TV/logo/天津卫视.png" group-title="卫视",天津卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
+#EXTINF:-1 tvg-id="新疆卫视" tvg-logo="/sdcard/TV/logo/新疆卫视.png" group-title="卫视",新疆卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228290/index.m3u8
+#EXTINF:-1 tvg-id="云南卫视" tvg-logo="/sdcard/TV/logo/云南卫视.png" group-title="卫视",云南卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="/sdcard/TV/logo/浙江卫视.png" group-title="卫视",浙江卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
+#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="/sdcard/TV/logo/深圳卫视.png" group-title="卫视",深圳卫视
+http://ott.mobaibox.com/PLTV/3/224/3221227555/index.m3u8
+#EXTINF:-1 tvg-id="三沙卫视" tvg-logo="/sdcard/TV/logo/三沙卫视.png" group-title="卫视",三沙卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-logo="/sdcard/TV/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://php.jdshipin.com:8880/xztv.php?id=ws
+
+#江苏
+#EXTINF:-1 tvg-id="江苏城市" tvg-logo="/sdcard/TV/logo/江苏城市.png" group-title="江苏",江苏城市
+http://ott.mobaibox.com/PLTV/3/224/3221228734/index.m3u8
+#EXTINF:-1 tvg-id="江苏新闻" tvg-logo="/sdcard/TV/logo/江苏新闻.png" group-title="江苏",江苏新闻
+http://ott.mobaibox.com/PLTV/3/224/3221228743/index.m3u8
+#EXTINF:-1 tvg-id="江苏综艺" tvg-logo="/sdcard/TV/logo/江苏综艺.png" group-title="江苏",江苏综艺
+http://ott.mobaibox.com/PLTV/3/224/3221228731/index.m3u8
+#EXTINF:-1 tvg-id="江苏影视" tvg-logo="/sdcard/TV/logo/江苏影视.png" group-title="江苏",江苏影视
+http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
+#EXTINF:-1 tvg-id="江苏教育" tvg-logo="/sdcard/TV/logo/江苏教育.png" group-title="江苏",江苏教育
+http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="/sdcard/TV/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
+http://ott.mobaibox.com/PLTV/3/224/3221228746/index.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="/sdcard/TV/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/live/ymkt_live.m3u8
+#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="/sdcard/TV/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
+#EXTVLCOPT:http-referrer=https://live.jstv.com
+https://litchi-play-encrypted-site.jstv.com/live/ymkt_live.m3u8?txSecret=2fee1d5857ff0ba403d22d8a4a4379a0&txTime=7c229cff
+webview://https://live.jstv.com/?channelId=543
+#EXTINF:-1 tvg-id="江苏国际" tvg-logo="/sdcard/TV/logo/江苏国际.png" group-title="江苏",江苏国际
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/live/jsgj_live.m3u8
+#EXTINF:-1 tvg-id="江苏国际" tvg-logo="/sdcard/TV/logo/江苏国际.png" group-title="江苏",江苏国际
+#EXTVLCOPT:http-referrer=https://live.jstv.com
+https://litchi-play-encrypted-site.jstv.com/live/jsgj_live.m3u8?txSecret=7f3eb94bc8feda0270523295c4cdfefa&txTime=7c229cff
+webview://https://live.jstv.com/?channelId=544
+#EXTINF:-1 tvg-id="南京少儿" tvg-logo="/sdcard/TV/logo/南京少儿.png" group-title="江苏",南京少儿
+http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
+#EXTINF:-1 tvg-id="南京教科" tvg-logo="/sdcard/TV/logo/南京教科.png" group-title="江苏",南京教科
+http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
+#EXTINF:-1 tvg-id="南京影视" tvg-logo="/sdcard/TV/logo/南京影视.png" group-title="江苏",南京影视
+http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
+#EXTINF:-1 tvg-id="南京文旅纪录" tvg-logo="/sdcard/TV/logo/南京文旅纪录.png" group-title="江苏",南京文旅纪录
+http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-logo="/sdcard/TV/logo/南京新闻综合.png" group-title="江苏",南京新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
+#EXTINF:-1 tvg-id="南京十八生活" tvg-logo="/sdcard/TV/logo/南京十八生活.png" group-title="江苏",南京十八·生活
+http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
+#EXTINF:-1 tvg-id="直播南京" tvg-logo="/sdcard/TV/logo/直播南京.png" group-title="江苏",直播南京
+http://ott.mobaibox.com/PLTV/3/224/3221228709/index.m3u8
+#EXTINF:-1 tvg-id="苏州4K" tvg-logo="/sdcard/TV/logo/苏州4K.png" group-title="江苏",苏州4K
+https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+#EXTINF:-1 tvg-id="昆山新闻综合" tvg-logo="/sdcard/TV/logo/昆山新闻综合.png" group-title="江苏",昆山新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228820/index.m3u8
+#EXTINF:-1 tvg-id="无锡新闻综合" tvg-logo="/sdcard/TV/logo/无锡新闻综合.png" group-title="江苏",无锡新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228103/index.m3u8
+#EXTINF:-1 tvg-id="常州新闻综合" tvg-logo="/sdcard/TV/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
+#EXTINF:-1 tvg-id="常州都市" tvg-logo="/sdcard/TV/logo/常州都市.png" group-title="江苏",常州都市
+http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
+#EXTINF:-1 tvg-id="常州生活" tvg-logo="/sdcard/TV/logo/常州生活.png" group-title="江苏",常州生活
+http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
+#EXTINF:-1 tvg-id="南通新闻综合" tvg-logo="/sdcard/TV/logo/南通新闻综合.png" group-title="江苏",南通新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228462/index.m3u8
+#EXTINF:-1 tvg-id="南通社教" tvg-logo="/sdcard/TV/logo/南通2.png" group-title="江苏",南通社教
+http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8
+#EXTINF:-1 tvg-id="南通公共崇川" tvg-logo="/sdcard/TV/logo/南通3.png" group-title="江苏",南通公共·崇川
+http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
+#EXTINF:-1 tvg-id="扬州江都台" tvg-logo="/sdcard/TV/logo/扬州江都台.png" group-title="江苏",扬州江都台
+http://ott.mobaibox.com/PLTV/3/224/3221228323/index.m3u8
+#EXTINF:-1 tvg-id="宝应新闻综合" tvg-logo="/sdcard/TV/logo/宝应新闻综合.png" group-title="江苏",宝应新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
+#EXTINF:-1 tvg-id="宝应生活资讯" tvg-logo="/sdcard/TV/logo/宝应生活资讯.png" group-title="江苏",宝应生活资讯
+http://ott.mobaibox.com/PLTV/3/224/3221228039/index.m3u8
+#EXTINF:-1 tvg-id="镇江新闻综合" tvg-logo="/sdcard/TV/logo/镇江新闻综合.png" group-title="江苏",镇江新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
+#EXTINF:-1 tvg-id="镇江社会民生" tvg-logo="/sdcard/TV/logo/镇江2.png" group-title="江苏",镇江社会民生
+http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8
+#EXTINF:-1 tvg-id="镇江城市资讯" tvg-logo="/sdcard/TV/logo/镇江3.png" group-title="江苏",镇江城市资讯
+http://ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
+#EXTINF:-1 tvg-id="泰州一套" tvg-logo="/sdcard/TV/logo/泰州1.png" group-title="江苏",泰州新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
+#EXTINF:-1 tvg-id="泰州二套" tvg-logo="/sdcard/TV/logo/泰州2.png" group-title="江苏",泰州教育
+http://ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
+#EXTINF:-1 tvg-id="泰州三套" tvg-logo="/sdcard/TV/logo/泰州3.png" group-title="江苏",泰州公共
+http://ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
+#EXTINF:-1 tvg-id="徐州新闻综合" tvg-logo="/sdcard/TV/logo/徐州1.png" group-title="江苏",徐州新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
+#EXTINF:-1 tvg-id="徐州经济生活" tvg-logo="/sdcard/TV/logo/徐州2.png" group-title="江苏",徐州经济生活
+http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="徐州文艺影视" tvg-logo="/sdcard/TV/logo/徐州3.png" group-title="江苏",徐州文艺影视
+http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
+#EXTINF:-1 tvg-id="徐州公共" tvg-logo="/sdcard/TV/logo/徐州4.png" group-title="江苏",徐州公共
+http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
+#EXTINF:-1 tvg-id="邳州综合" tvg-logo="/sdcard/TV/logo/邳州综合.png" group-title="江苏",邳州综合
+http://ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8
+#EXTINF:-1 tvg-id="新沂新闻综合" tvg-logo="/sdcard/TV/logo/新沂1.png" group-title="江苏",新沂新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221227292/index.m3u8
+#EXTINF:-1 tvg-id="沛县新闻综合" tvg-logo="/sdcard/TV/logo/沛县新闻综合.png" group-title="江苏",沛县新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
+#EXTINF:-1 tvg-id="沛县经济生活" tvg-logo="/sdcard/TV/logo/沛县经济生活.png" group-title="江苏",沛县经济生活
+http://ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
+#EXTINF:-1 tvg-id="沛县文艺影视" tvg-logo="/sdcard/TV/logo/沛县文艺影视.png" group-title="江苏",沛县文艺影视
+http://ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
+#EXTINF:-1 tvg-id="睢宁综合" tvg-logo="/sdcard/TV/logo/睢宁综合.png" group-title="江苏",睢宁综合
+http://ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8
+#EXTINF:-1 tvg-id="睢宁三农" tvg-logo="/sdcard/TV/logo/睢宁三农.png" group-title="江苏",睢宁三农
+http://ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8
+#EXTINF:-1 tvg-id="睢宁资讯" tvg-logo="/sdcard/TV/logo/睢宁资讯.png" group-title="江苏",睢宁资讯
+http://ott.mobaibox.com/PLTV/3/224/3221227701/index.m3u8
+#EXTINF:-1 tvg-id="铜山-1" tvg-logo="/sdcard/TV/logo/铜山1.png" group-title="江苏",铜山综合
+http://ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
+#EXTINF:-1 tvg-id="铜山-2" tvg-logo="/sdcard/TV/logo/铜山2.png" group-title="江苏",铜山三农
+http://ott.mobaibox.com/PLTV/3/224/3221228081/index.m3u8
+#EXTINF:-1 tvg-id="铜山-3" tvg-logo="/sdcard/TV/logo/铜山3.png" group-title="江苏",铜山影视
+http://ott.mobaibox.com/PLTV/3/224/3221228055/index.m3u8
+#EXTINF:-1 tvg-id="铜山-4" tvg-logo="/sdcard/TV/logo/铜山4.png" group-title="江苏",铜山生活
+http://ott.mobaibox.com/PLTV/3/224/3221228249/index.m3u8
+#EXTINF:-1 tvg-id="淮安综合" tvg-logo="/sdcard/TV/logo/淮安综合.png" group-title="江苏",淮安综合
+http://ott.mobaibox.com/PLTV/3/224/3221228834/index.m3u8
+#EXTINF:-1 tvg-id="淮安公共" tvg-logo="/sdcard/TV/logo/淮安公共.png" group-title="江苏",淮安公共
+http://ott.mobaibox.com/PLTV/3/224/3221228840/index.m3u8
+#EXTINF:-1 tvg-id="淮安影视娱乐" tvg-logo="/sdcard/TV/logo/淮安影视娱乐.png" group-title="江苏",淮安影视娱乐
+http://ott.mobaibox.com/PLTV/3/224/3221228837/index.m3u8
+#EXTINF:-1 tvg-id="连云港新闻综合" tvg-logo="/sdcard/TV/logo/连云港新闻综合.png" group-title="江苏",连云港新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
+#EXTINF:-1 tvg-id="连云港生活频道" tvg-logo="/sdcard/TV/logo/连云港生活频道.png" group-title="江苏",连云港生活频道
+http://ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
+#EXTINF:-1 tvg-id="赣榆新闻综合" tvg-logo="/sdcard/TV/logo/赣榆新闻综合.png" group-title="江苏",赣榆新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
+#EXTINF:-1 tvg-id="东海综合" tvg-logo="/sdcard/TV/logo/东海综合.png" group-title="江苏",东海综合
+http://ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
+#EXTINF:-1 tvg-id="东海文娱" tvg-logo="/sdcard/TV/logo/东海文娱.png" group-title="江苏",东海文娱
+http://ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8
+#EXTINF:-1 tvg-id="东海国学与家道" tvg-logo="/sdcard/TV/logo/东海国学与家道.png" group-title="江苏",东海国学与家道
+http://ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8
+#EXTINF:-1 tvg-id="灌南新闻综合" tvg-logo="/sdcard/TV/logo/灌南新闻综合.png" group-title="江苏",灌南新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228725/index.m3u8
+#EXTINF:-1 tvg-id="盐城新闻综合" tvg-logo="/sdcard/TV/logo/盐城1.png" group-title="江苏",盐城新闻综合
+http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
+#EXTINF:-1 tvg-id="盐城法制生活" tvg-logo="/sdcard/TV/logo/盐城2.png" group-title="江苏",盐城法制生活
+http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
+#EXTINF:-1 tvg-id="盐城城市公共" tvg-logo="/sdcard/TV/logo/盐城3.png" group-title="江苏",盐城城市公共
+http://ott.mobaibox.com/PLTV/3/224/3221228436/index.m3u8
+#EXTINF:-1 tvg-id="大丰新闻综合" tvg-logo="/sdcard/TV/logo/大丰1.png" group-title="江苏",大丰新闻综合
+https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+#EXTINF:-1 tvg-id="宿迁综合" tvg-logo="/sdcard/TV/logo/宿迁综合.png" group-title="江苏",宿迁综合
+http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
+#EXTINF:-1 tvg-id="宿迁公共" tvg-logo="/sdcard/TV/logo/宿迁公共.png" group-title="江苏",宿迁公共
+http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
+#EXTINF:-1 tvg-id="沭阳综合" tvg-logo="/sdcard/TV/logo/沭阳综合.png" group-title="江苏",沭阳综合
+http://ott.mobaibox.com/PLTV/3/224/3221228812/index.m3u8
+
+#江西
+#EXTINF:-1 tvg-id="南昌新闻综合" tvg-logo="/sdcard/TV/logo/南昌新闻综合.png" group-title="江西",南昌新闻综合
+http://A/ku9/js/jxtv.js?id=nczh
+webview://https://www.nctv.net.cn/live?channel=1
+#EXTINF:-1 tvg-id="南昌都市" tvg-logo="/sdcard/TV/logo/南昌都市.png" group-title="江西",南昌都市
+http://A/ku9/js/jxtv.js?id=ncds
+webview://https://www.nctv.net.cn/live?channel=2
+#EXTINF:-1 tvg-id="南昌资讯" tvg-logo="/sdcard/TV/logo/南昌资讯.png" group-title="江西",南昌资讯
+http://A/ku9/js/jxtv.js?id=nczx
+webview://https://www.nctv.net.cn/live?channel=3
+#EXTINF:-1 tvg-id="赣州新闻综合" tvg-logo="/sdcard/TV/logo/赣州新闻综合.png" group-title="江西",赣州新闻综合
+https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
+webview://https://www.newskj.net/html/rft/live.html?channelId=722b4fa2b7fa4cf9b01347414b4fbc1a&type=1&siteId=ee5e92ed238644368bd76f8adfe34401&shareAppId=ee5e92ed238644368bd76f8adfe34401
+#EXTINF:-1 tvg-id="赣州教育" tvg-logo="/sdcard/TV/logo/赣州教育.png" group-title="江西",赣州教育
+https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
+webview://https://www.newskj.net/html/rft/live.html?channelId=3f35ed90763a4c43bde6d39fb4c5ba55&type=1&siteId=ee5e92ed238644368bd76f8adfe34401&shareAppId=ee5e92ed238644368bd76f8adfe34401
+#EXTINF:-1 tvg-id="赣州公共" tvg-logo="/sdcard/TV/logo/赣州公共.png" group-title="江西",赣州公共
+https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
+webview://https://www.newskj.net/html/rft/live.html?channelId=b4b37304359f45fabce63ab429d4ce2a&type=1&siteId=ee5e92ed238644368bd76f8adfe34401&shareAppId=ee5e92ed238644368bd76f8adfe34401
+
+#北京
+#EXTINF:-1 tvg-id="北京文艺" tvg-logo="/sdcard/TV/logo/北京文艺.png" group-title="北京",北京文艺
+http://124.222.114.206/bjtv.php?id=bjwy
+#EXTINF:-1 tvg-id="纪实科教" tvg-logo="/sdcard/TV/logo/北京纪实科教.png" group-title="北京",纪实科教
+http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+#EXTINF:-1 tvg-id="北京影视" tvg-logo="/sdcard/TV/logo/北京影视.png" group-title="北京",北京影视
+http://124.222.114.206/bjtv.php?id=bjys
+#EXTINF:-1 tvg-id="北京财经" tvg-logo="/sdcard/TV/logo/北京财经.png" group-title="北京",北京财经
+http://124.222.114.206/bjtv.php?id=bjcj
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="/sdcard/TV/logo/北京体育休闲.png" group-title="北京",北京体育休闲
+http://124.222.114.206/bjtv.php?id=bjty
+#EXTINF:-1 tvg-id="北京生活" tvg-logo="/sdcard/TV/logo/北京生活.png" group-title="北京",北京生活
+http://124.222.114.206/bjtv.php?id=bjsh
+#EXTINF:-1 tvg-id="北京新闻" tvg-logo="/sdcard/TV/logo/北京新闻.png" group-title="北京",北京新闻
+http://124.222.114.206/bjtv.php?id=bjxw
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="/sdcard/TV/logo/北京卡酷少儿.png" group-title="北京",卡酷少儿
+http://124.222.114.206/bjtv.php?id=bjkk
+
+
+#上海
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="/sdcard/TV/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+webview://https://live.kankanews.com/huikan?id=2
+#EXTINF:-1 tvg-id="第一财经" tvg-logo="/sdcard/TV/logo/上海第一财经.png" group-title="上海",第一财经
+webview://https://live.kankanews.com/huikan?id=5
+#EXTINF:-1 tvg-id="五星体育" tvg-logo="/sdcard/TV/logo/上海五星体育.png" group-title="上海",五星体育
+webview://https://live.kankanews.com/huikan?id=10
+#EXTINF:-1 tvg-id="上海都市" tvg-logo="/sdcard/TV/logo/上海都市.png" group-title="上海",上海都市
+webview://https://live.kankanews.com/huikan?id=4
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-logo="/sdcard/TV/logo/上海哈哈炫动.png" group-title="上海",哈哈炫动
+webview://https://live.kankanews.com/huikan?id=9
+
+#广东
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="/sdcard/TV/logo/大湾区卫视.png" group-title="广东",大湾区卫视
+http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
+#EXTINF:-1 tvg-id="南国都市" tvg-logo="/sdcard/TV/logo/广州南国都市.png" group-title="广东",南国都市
+#EXTVLCOPT:http-referrer=https://www.gztv.com/
+http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
+http://php.jdshipin.com/TVOD/iptv.php?id=gzngds
+
+#广西
+#EXTINF:-1 tvg-id="广西综艺旅游" tvg-logo="/sdcard/TV/logo/广西综艺旅游.png" group-title="广西",广西综艺旅游
+webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
+#EXTINF:-1 tvg-id="广西都市" tvg-logo="/sdcard/TV/logo/广西都市.png" group-title="广西",广西都市
+webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
+#EXTINF:-1 tvg-id="广西影视" tvg-logo="/sdcard/TV/logo/广西影视.png" group-title="广西",广西影视
+webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
+#EXTINF:-1 tvg-id="广西新闻" tvg-logo="/sdcard/TV/logo/广西新闻.png" group-title="广西",广西新闻
+webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
+#EXTINF:-1 tvg-id="广西国际" tvg-logo="/sdcard/TV/logo/广西国际.png" group-title="广西",广西国际
+webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
+
+#内蒙古
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="/sdcard/TV/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-logo="/sdcard/TV/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
+https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+#EXTINF:-1 tvg-id="内蒙古少儿频道" tvg-logo="/sdcard/TV/logo/内蒙古少儿频道.png" group-title="内蒙古",内蒙古少儿频道
+https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-logo="/sdcard/TV/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
+https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800
+#EXTINF:-1 tvg-id="内蒙古农牧频道" tvg-logo="/sdcard/TV/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800
+#EXTINF:-1 tvg-id="呼和浩特新闻综合" tvg-logo="/sdcard/TV/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
+https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+
+#浙江
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-logo="/sdcard/TV/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+webview://https://www.cztv.com/liveTV/102
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-logo="/sdcard/TV/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+webview://https://www.cztv.com/liveTV/103
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-logo="/sdcard/TV/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+webview://https://www.cztv.com/liveTV/104
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-logo="/sdcard/TV/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+webview://https://www.cztv.com/liveTV/106
+#EXTINF:-1 tvg-id="浙江新闻" tvg-logo="/sdcard/TV/logo/浙江新闻.png" group-title="浙江",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+webview://https://www.cztv.com/liveTV/107
+#EXTINF:-1 tvg-id="浙江少儿" tvg-logo="/sdcard/TV/logo/浙江少儿.png" group-title="浙江",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+webview://https://www.cztv.com/liveTV/108
+#EXTINF:-1 tvg-id="浙江国际" tvg-logo="/sdcard/TV/logo/浙江国际.png" group-title="浙江",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+webview://https://www.cztv.com/liveTV/110
+#EXTINF:-1 tvg-id="之江纪录" tvg-logo="/sdcard/TV/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+webview://https://www.cztv.com/liveTV/112
+
+#黑龙江
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-logo="/sdcard/TV/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-logo="/sdcard/TV/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-logo="/sdcard/TV/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
+#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-logo="/sdcard/TV/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226330
+#EXTINF:-1 tvg-id="黑龙江农业科教" tvg-logo="/sdcard/TV/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业·科教
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226242
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-logo="/sdcard/TV/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
+#EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-logo="/sdcard/TV/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
+
+#NewTV
+#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="/sdcard/TV/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
+http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
+#EXTINF:-1 tvg-id="newtv热播精选" tvg-logo="/sdcard/TV/logo/NewTV热播精选.png" group-title="NewTV",热播精选
+http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
+#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-logo="/sdcard/TV/logo/NewTV潮妈辣婆.png" group-title="NewTV",潮妈辣婆
+http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
+#EXTINF:-1 tvg-id="newtv中国功夫" tvg-logo="/sdcard/TV/logo/NewTV中国功夫.png" group-title="NewTV",中国功夫
+http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
+#EXTINF:-1 tvg-id="newtv武搏世界" tvg-logo="/sdcard/TV/logo/NewTV武搏世界.png" group-title="NewTV",武搏世界
+http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
+#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-logo="/sdcard/TV/logo/NewTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
+http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
+#EXTINF:-1 tvg-id="newtv海外剧场" tvg-logo="/sdcard/TV/logo/NewTV海外剧场.png" group-title="NewTV",海外剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
+#EXTINF:-1 tvg-id="newtv金牌综艺" tvg-logo="/sdcard/TV/logo/NewTV金牌综艺.png" group-title="NewTV",金牌综艺
+http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
+#EXTINF:-1 tvg-id="newtv古装剧场" tvg-logo="/sdcard/TV/logo/NewTV古装剧场.png" group-title="NewTV",古装剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
+#EXTINF:-1 tvg-id="newtv军事评论" tvg-logo="/sdcard/TV/logo/NewTV军事评论.png" group-title="NewTV",军事评论
+http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
+#EXTINF:-1 tvg-id="newtv精品纪录" tvg-logo="/sdcard/TV/logo/NewTV精品纪录.png" group-title="NewTV",精品纪录
+http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
+#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-logo="/sdcard/TV/logo/NewTV爱情喜剧.png" group-title="NewTV",爱情喜剧
+http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
+#EXTINF:-1 tvg-id="newtv农业致富" tvg-logo="/sdcard/TV/logo/NewTV农业致富.png" group-title="NewTV",农业致富
+http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
+#EXTINF:-1 tvg-id="newtv明星大片" tvg-logo="/sdcard/TV/logo/NewTV明星大片.png" group-title="NewTV",明星大片
+http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
+#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-logo="/sdcard/TV/logo/NewTV家庭剧场.png" group-title="NewTV",家庭剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
+#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-logo="/sdcard/TV/logo/NewTV军旅剧场.png" group-title="NewTV",军旅剧场
+http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
+#EXTINF:-1 tvg-id="newtv动作电影" tvg-logo="/sdcard/TV/logo/NewTV动作电影.png" group-title="NewTV",动作电影
+http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
+#EXTINF:-1 tvg-id="newtv怡伴健康" tvg-logo="/sdcard/TV/logo/NewTV怡伴健康.png" group-title="NewTV",怡伴健康
+http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-logo="/sdcard/TV/logo/NewTV精品体育.png" group-title="NewTV",精品体育
+http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 tvg-id="newtv精品大剧" tvg-logo="/sdcard/TV/logo/NewTV精品大剧.png" group-title="NewTV",精品大剧
+http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
+#EXTINF:-1 tvg-id="newtv精品萌宠" tvg-logo="/sdcard/TV/logo/NewTV精品萌宠.png" group-title="NewTV",精品萌宠
+http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-logo="/sdcard/TV/logo/NewTV欢乐剧场.png" group-title="NewTV",欢乐剧场
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225742
+#EXTINF:-1 tvg-id="newtv东北热剧" tvg-logo="/sdcard/TV/logo/NewTV东北热剧.png" group-title="NewTV",东北热剧
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225741
+#EXTINF:-1 tvg-id="newtv超级综艺" tvg-logo="/sdcard/TV/logo/NewTV超级综艺.png" group-title="NewTV",超级综艺
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225714
+#EXTINF:-1 tvg-id="newtv超级体育" tvg-logo="/sdcard/TV/logo/NewTV超级体育.png" group-title="NewTV",超级体育
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225715
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-logo="/sdcard/TV/logo/NewTV超级电影.png" group-title="NewTV",超级电影
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225717
+#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-logo="/sdcard/TV/logo/NewTV超级电视剧.png" group-title="NewTV",超级电视剧
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221225716
+#EXTINF:-1 tvg-id="黑莓电影" tvg-logo="/sdcard/TV/logo/黑莓电影.png" group-title="NewTV",黑莓电影
+http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1 tvg-id="黑莓动画" tvg-logo="/sdcard/TV/logo/黑莓动画.png" group-title="NewTV",黑莓动画
+http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="/sdcard/TV/logo/NewTV哒啵赛事.png" group-title="NewTV",哒啵赛事
+http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
+#EXTINF:-1 tvg-id="哒啵电竞" tvg-logo="/sdcard/TV/logo/NewTV哒啵电竞.png" group-title="NewTV",哒啵电竞
+
+
+#咪咕
+#EXTINF:-1 tvg-id="抖音热歌" tvg-logo="/sdcard/TV/logo/咪咕音乐.png" group-title="咪咕",抖音热歌
+http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
+#EXTINF:-1 tvg-id="流行音乐" tvg-logo="/sdcard/TV/logo/咪咕音乐.png" group-title="咪咕",流行音乐
+http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8
+#EXTINF:-1 tvg-id="咪咕体育" tvg-logo="/sdcard/TV/logo/咪咕体育.png" group-title="咪咕",咪咕体育
+http://ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
+#EXTINF:-1 tvg-id="体坛同期声" tvg-logo="/sdcard/TV/logo/咪咕视频.png" group-title="咪咕",体坛同期声
+http://ott.mobaibox.com/PLTV/3/224/3221228713/index.m3u8
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-logo="/sdcard/TV/logo/睛彩篮球.png" group-title="咪咕",睛彩篮球
+http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-logo="/sdcard/TV/logo/睛彩竞技.png" group-title="咪咕",睛彩竞技
+http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
+#EXTINF:-1 tvg-id="睛彩青少" tvg-logo="/sdcard/TV/logo/睛彩青少.png" group-title="咪咕",睛彩青少
+http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-logo="/sdcard/TV/logo/睛彩广场舞.png" group-title="咪咕",睛彩广场舞
+http://ott.mobaibox.com/PLTV/3/224/3221228818/index.m3u8
+
+#数字
+#EXTINF:-1 tvg-id="纯享4K" tvg-logo="/sdcard/TV/logo/纯享4K.png" group-title="数字",纯享4K
+http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
+#EXTINF:-1 tvg-id="4K修复" tvg-logo="/sdcard/TV/logo/4K修复.png" group-title="数字",4K修复
+http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+#EXTINF:-1 tvg-id="居家健身" tvg-logo="/sdcard/TV/logo/居家健身.png" group-title="数字",居家健身
+http://ott.mobaibox.com/PLTV/3/224/3221228454/index.m3u8
+#EXTINF:-1 tvg-id="美食美味" tvg-logo="/sdcard/TV/logo/美食美味.png" group-title="数字",美食美味
+http://ott.mobaibox.com/PLTV/3/224/3221228562/index.m3u8
+#EXTINF:-1 tvg-id="探索纪录" tvg-logo="/sdcard/TV/logo/探索纪录.png" group-title="数字",探索纪录
+http://ott.mobaibox.com/PLTV/3/224/3221228588/index.m3u8
+#EXTINF:-1 tvg-id="热门综艺" tvg-logo="/sdcard/TV/logo/热门综艺.png" group-title="数字",热门综艺
+http://ott.mobaibox.com/PLTV/3/224/3221228591/index.m3u8
+#EXTINF:-1 tvg-id="音乐心情" tvg-logo="/sdcard/TV/logo/QQ音乐.png" group-title="数字",音乐心情
+http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
+#EXTINF:-1 tvg-id="影综金曲" tvg-logo="/sdcard/TV/logo/QQ音乐.png" group-title="数字",影综金曲
+http://ott.mobaibox.com/PLTV/3/224/3221228641/index.m3u8
+#EXTINF:-1 tvg-id="健康生活" tvg-logo="/sdcard/TV/logo/健康生活.png" group-title="数字",健康生活
+http://ott.mobaibox.com/PLTV/3/224/3221228706/index.m3u8
+#EXTINF:-1 tvg-id="相声联欢" tvg-logo="/sdcard/TV/logo/相声联欢.png" group-title="数字",相声联欢
+http://ott.mobaibox.com/PLTV/3/224/3221228717/index.m3u8
+#EXTINF:-1 tvg-id="高分电影" tvg-logo="/sdcard/TV/logo/电影.png" group-title="数字",高分电影
+http://ott.mobaibox.com/PLTV/3/224/3221228644/index.m3u8
+#EXTINF:-1 tvg-id="第一院线" tvg-logo="/sdcard/TV/logo/第一院线.png" group-title="数字",第一院线
+http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
+#EXTINF:-1 tvg-id="动物世界" tvg-logo="/sdcard/TV/logo/动物世界.png" group-title="数字",动物世界
+http://ott.mobaibox.com/PLTV/3/224/3221228559/index.m3u8
+#EXTINF:-1 tvg-id="动漫星空" tvg-logo="/sdcard/TV/logo/动漫星空.png" group-title="数字",动漫星空
+http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8
+#EXTINF:-1 tvg-id="儿童天地" tvg-logo="/sdcard/TV/logo/儿童天地.png" group-title="数字",儿童天地
+http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8
+#EXTINF:-1 tvg-id="亲宝玩具" tvg-logo="/sdcard/TV/logo/亲宝玩具.png" group-title="数字",亲宝玩具
+http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
+#EXTINF:-1 tvg-id="自然地理" tvg-logo="/sdcard/TV/logo/自然地理.png" group-title="数字",自然地理
+http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
+#EXTINF:-1 tvg-id="冰雪竞技场" tvg-logo="/sdcard/TV/logo/冰雪竞技场.png" group-title="数字",冰雪竞技场
+http://ott.mobaibox.com/PLTV/3/224/3221228737/index.m3u8
+#EXTINF:-1 tvg-id="科幻世界" tvg-logo="/sdcard/TV/logo/科幻世界.png" group-title="数字",科幻世界
+http://ott.mobaibox.com/PLTV/3/224/3221228740/index.m3u8
+#EXTINF:-1 tvg-id="怀旧MTV" tvg-logo="/sdcard/TV/logo/怀旧MTV.png" group-title="数字",怀旧MTV
+http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
+
+#港澳
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-logo="/sdcard/TV/logo/凤凰卫视香港台.png" group-title="港澳",凤凰卫视香港台
+http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-logo="/sdcard/TV/logo/凤凰卫视中文台.png" group-title="港澳",凤凰卫视中文台
+http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-logo="/sdcard/TV/logo/凤凰卫视资讯台.png" group-title="港澳",凤凰卫视资讯台
+http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="ViuTV" tvg-logo="/sdcard/TV/logo/ViuTV.png" group-title="港澳",ViuTV
+https://hkfa.2025link.site/43rd_HK_Film_Awards/viutv_99
+#EXTINF:-1 tvg-id="天映频道" tvg-logo="/sdcard/TV/logo/天映频道.png" group-title="港澳",天映频道
+https://hkfa.2025link.site/43rd_HK_Film_Awards/astro_celestial_movies
+#EXTINF:-1 tvg-id="TaiwanPlus" tvg-logo="/sdcard/TV/logo/TaiwanPlus.png" group-title="港澳",Taiwan Plus
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
+
+#少儿
+#EXTINF:-1 tvg-id="Ryan and Friends" tvg-logo="/sdcard/TV/logo/RyanandFriends.png" group-title="少儿",Ryan and Friends
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="MoonBug" tvg-logo="/sdcard/TV/logo/MoonBug.png" group-title="少儿",MoonBug
+https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Zoo Moo" tvg-logo="/sdcard/TV/logo/ZooMoo.png" group-title="少儿",Zoo Moo
+https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Kartoon Channel" tvg-logo="/sdcard/TV/logo/KartoonChannel.png" group-title="少儿",Kartoon Channel
+https://lightning-fnf-samsungaus.amagi.tv/playlist1080p.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Pet Club TV" tvg-logo="/sdcard/TV/logo/PetClubTV.png" group-title="少儿",Pet Club TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
+https://lightning-petclub-xiaomi.amagi.tv/playlist1080p.m3u8
+https://petclub-samsungaus.amagi.tv/playlist1080p.m3u8
+
+#纪录
+#EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="/sdcard/TV/logo/LoveNature.png" group-title="纪录",LOVE NATURE
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-id="Wild Earth" tvg-logo="/sdcard/TV/logo/WildEarth.png" group-title="纪录",Wild Earth
+https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
+https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="/sdcard/TV/logo/BBCEarth.png" group-title="纪录",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Nature Time" tvg-logo="/sdcard/TV/logo/NatureTime.png" group-title="纪录",Nature Time
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-au-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="History" tvg-logo="/sdcard/TV/logo/History.png" group-title="纪录",History
+https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
+#EXTINF:-1 tvg-id="RT Documentary" tvg-logo="/sdcard/TV/logo/RTDoc.png" group-title="纪录",RT Documentary
+https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="Wonder" tvg-logo="/sdcard/TV/logo/Wonder.png" group-title="纪录",Wonder
+https://lds-wonder-rakuten.amagi.tv/1080p-cc/index.m3u8
+https://lds-wonder-plex.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="4K TRAVEL" tvg-logo="/sdcard/TV/logo/4KTravel.png" group-title="纪录",4K TRAVEL
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
+#EXTINF:-1 tvg-id="Drone TV" tvg-logo="/sdcard/TV/logo/DroneTV.png" group-title="纪录",Drone TV
+https://dtc192m1s5jen.cloudfront.net/scheduler/scheduleMaster/440/variant/22100089.m3u8
+https://airvuz-dronetv-1-eu.zeasn.wurl.tv/4300.m3u8
+#EXTINF:-1 tvg-id="Xplore TV" tvg-logo="/sdcard/TV/logo/XploreTV.png" group-title="纪录",Xplore TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+https://xplore-xumo.amagi.tv/1080p-cc/index.m3u8
+https://xlpore-samsungus.amagi.tv/1080p-cc/index.m3u8
+https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/1080p-cc/index.m3u8
+
+#时尚
+#EXTINF:-1 tvg-id="FashionTV" tvg-logo="/sdcard/TV/logo/FashionTV.png" group-title="时尚",FashionTV
+https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist_1920x1080_4200k.m3u8
+https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
+#EXTINF:-1 tvg-id="FashionTV 4K" tvg-logo="/sdcard/TV/logo/FashionTV4K.png" group-title="时尚",FashionTV 4K
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Global Fashion Channel" tvg-logo="/sdcard/TV/logo/GFC.png" group-title="时尚",Global Fashion Channel
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
+https://gfcomnimedia-globalfashionchannel-1-eu.zeasn.wurl.tv/922c6175e75c50e2b24c5d480c23b703.m3u8
+#EXTINF:-1 tvg-id="Loupe 4K" tvg-logo="/sdcard/TV/logo/Loupe.png" group-title="时尚",Loupe 4K
+https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+#EXTINF:-1 tvg-id="The Design Network" tvg-logo="/sdcard/TV/logo/TheDesignNetwork.png" group-title="时尚",The Design Network
+https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
+
+#美食
+#EXTINF:-1 tvg-id="Tastemade" tvg-logo="/sdcard/TV/logo/Tastemade.png" group-title="美食",Tastemade
+https://tastemade-xumo.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Tastemade" tvg-logo="/sdcard/TV/logo/Tastemade.png" group-title="美食",Tastemade US
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade" tvg-logo="/sdcard/TV/logo/Tastemade.png" group-title="美食",Tastemade AU
+https://tastemade-aus-tmina-rakuten.amagi.tv/playlist1080-p.m3u8
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+#EXTINF:-1 tvg-id="Tastemade Intl" tvg-logo="/sdcard/TV/logo/Tastemade.png" group-title="美食",Tastemade Intl
+https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Gusto TV" tvg-logo="/sdcard/TV/logo/GustoTV.png" group-title="美食",Gusto TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
+https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
+https://gusto-xumo.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="iFood.tv" tvg-logo="/sdcard/TV/logo/iFood.tv.png" group-title="美食",iFood.tv
+https://ifood-vizio.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="The Jamie Oliver Channel" tvg-logo="/sdcard/TV/logo/JamieOliver.png" group-title="美食",The Jamie Oliver Channel
+https://jamieoliver-xumo.amagi.tv/1080p/index.m3u8
+
+#运动
+#EXTINF:-1 tvg-id="PAC 12 Insider" tvg-logo="/sdcard/TV/logo/PAC12Insider.png" group-title="运动",PAC 12 Insider
+https://pac12-samsungus.amagi.tv/playlist.m3u8
+https://pac12-firetv.amagi.tv/playlistR1080p.m3u8
+https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="Sky Sports F1" tvg-logo="/sdcard/TV/logo/SkySportsF1.png" group-title="运动",Sky Sports F1
+http://cord-cutter.net:8080/25464931/30585186/35244
+#EXTINF:-1 tvg-id="Trace Sport Stars" tvg-logo="/sdcard/TV/logo/TraceSportStars.png" group-title="运动",Trace Sport Stars
+https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
+https://trace-sportstars-tcl.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Sports Grid" tvg-logo="/sdcard/TV/logo/SportsGrid.png" group-title="运动",Sports Grid
+https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
+https://amg00315-sportsgrid-firetv.amagi.tv/playlist1080p.m3u8
+https://sportsgrid-plex.amagi.tv/playlist1080p.m3u8
+https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Sports First" tvg-logo="/sdcard/TV/logo/SportsFirst.png" group-title="运动",Sports First
+https://d4ddgdmj1cvnm.cloudfront.net/scheduler/scheduleMaster/409/variant/22100007.m3u8
+#EXTINF:-1 tvg-id="Unbeaten" tvg-logo="/sdcard/TV/logo/Unbeaten.png" group-title="运动",Unbeaten
+https://unbeaten-tcl.amagi.tv/1080p-cc/index.m3u8
+https://inverleigh-unbeaten-redbox.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="RedBull TV" tvg-logo="/sdcard/TV/logo/RedBullTV.png" group-title="运动",RedBull TV
+https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="Adventure Sports TV" tvg-logo="/sdcard/TV/logo/AdventureSportsTV.png" group-title="运动",Adventure Sports TV
+https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8
+#EXTINF:-1 tvg-id="Teton Gravity" tvg-logo="/sdcard/TV/logo/TetonGravity.png" group-title="运动",Teton Gravity Research
+https://d1ur2fy7sesb3x.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-id="Real Wild" tvg-logo="/sdcard/TV/logo/RealWild.png" group-title="运动",Real Wild
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
+https://lds-realwild-vizio.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Outside TV" tvg-logo="/sdcard/TV/logo/OutsideTV.png" group-title="运动",Outside TV
+https://outsidetv-firetv.amagi.tv/playlistR1080p.m3u8
+https://outsidetv-oando.amagi.tv/playlistR1080p.m3u8
+https://livetv-fa.tubi.video/outsidetv2/playlistR_1080p.m3u8
+#EXTINF:-1 tvg-id="Outdoor Channel" tvg-logo="/sdcard/TV/logo/Outdoor.png" group-title="运动",Outdoor Channel
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Wild TV" tvg-logo="/sdcard/TV/logo/WildTV.png" group-title="运动",Wild TV
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100058.m3u8
+#EXTINF:-1 tvg-id="Waypoint TV" tvg-logo="/sdcard/TV/logo/WayPoint.png" group-title="运动",Waypoint TV
+https://waypoint-waypointtv-firetv.amagi.tv/1080p-cc/index.m3u8
+https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m3u8
+https://aegis-cloudfront-1.tubi.video/0831606b-a9dc-4ee9-a381-52b0c9b59b2f/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Hunt Fish TV" tvg-logo="/sdcard/TV/logo/HuntFishTV.png" group-title="运动",Hunt Fish TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/bitrate2.m3u8
+
+#综合
+#EXTINF:-1 tvg-id="Young Hollywood" tvg-logo="/sdcard/TV/logo/YoungHollywood.png" group-title="综合",Young Hollywood
+https://younghollywood-rakuten-samsung.amagi.tv/1080p-cc/index.m3u8
+https://younghollywood-tcl.amagi.tv/1080p-cc/index.m3u8
+https://younghollywood-vizio.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Fox Soul" tvg-logo="/sdcard/TV/logo/FoxSoul.png" group-title="综合",Fox Soul
+https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
+https://foxsoul-vizio.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="theGrio TV" tvg-logo="/sdcard/TV/logo/TheGrio.png" group-title="综合",theGrio TV
+http://redbox-blacknewschannel-xumo.amagi.tv/1080p-cc/index.m3u8
+https://blacknewschannel-amazon.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Pulse TV" tvg-logo="/sdcard/TV/logo/PulseTV.png" group-title="综合",Pulse TV
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Wellbeing TV" tvg-logo="/sdcard/TV/logo/WellbeingTV.png" group-title="综合",Wellbeing TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 tvg-id="TV Blossom" tvg-logo="/sdcard/TV/logo/TVBlossom.png" group-title="综合",TV Blossom
+https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist1080p.m3u8
+
+#影视
+#EXTINF:-1 tvg-id="AMC Networks" tvg-logo="/sdcard/TV/logo/AMCNetworks.png" group-title="影视",AMC Networks
+https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTime.png" group-title="影视",MyTime Movie
+https://mytime-tcl.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTime.png" group-title="影视",MyTime Movie UK
+https://mytimeuk-rakuten-samsung.amagi.tv/1080p/index.m3u8
+https://appletree-mytimeau-samsung.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="MovieDome" tvg-logo="/sdcard/TV/logo/MovieDome.png" group-title="影视",MovieDome
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="/sdcard/TV/logo/MovieSphere.png" group-title="影视",MovieSphere UK
+https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="/sdcard/TV/logo/MovieSphere.png" group-title="影视",MovieSphere by LionsGate
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Universal Action" tvg-logo="/sdcard/TV/logo/UniversalAction.png" group-title="影视",Universal Action
+https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="Universal Crime" tvg-logo="/sdcard/TV/logo/UniversalCrime.png" group-title="影视",Universal Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="Universal Westerns" tvg-logo="/sdcard/TV/logo/UniversalWesterns.png" group-title="影视",Universal Westerns
+https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-logo="/sdcard/TV/logo/ActionHollywoodMovies.png" group-title="影视",Action Hollywood Movies
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="CineLife" tvg-logo="/sdcard/TV/logo/Cinelife.png" group-title="影视",CineLife
+https://magnolia-cinelife.amagi.tv/playlist1080p.m3u8
+https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
+#EXTINF:-1 tvg-id="IONTV" tvg-logo="/sdcard/TV/logo/ION.png" group-title="影视",ION
+https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
+https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
+#EXTINF:-1 tvg-id="ION Mystery" tvg-logo="/sdcard/TV/logo/IONMystery.png" group-title="影视",ION Mystery
+https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
+https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
+https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist.m3u8
+#EXTINF:-1 tvg-id="ION Plus" tvg-logo="/sdcard/TV/logo/IONPlus.png" group-title="影视",ION Plus
+https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
+https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
+#EXTINF:-1 tvg-id="Circle" tvg-logo="/sdcard/TV/logo/Circle.png" group-title="影视",Circle
+https://circle-samsung.amagi.tv/playlist.m3u8
+https://circle-roku.amagi.tv/1080p-cc/index.m3u8
+https://circle-vizio.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="GREAT! mystery" tvg-logo="/sdcard/TV/logo/GREATMystery.png" group-title="影视",GREAT! Mystery
+https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
+
+#音乐
+#EXTINF:-1 tvg-id="California Music Channel" tvg-logo="/sdcard/TV/logo/CMC.png" group-title="音乐",California Music Channel
+https://cmc-cmctv-cineverse.amagi.tv/playlist1080_p.m3u8
+https://cmc-ono.amagi.tv/playlist1080_p.m3u8
+https://cmc-kowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Trace Urban" tvg-logo="/sdcard/TV/logo/TraceUrban.png" group-title="音乐",Trace Urban
+https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00398-zeasneuropebv-traceurban-zeasn/playlist.m3u8
+https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist1080p.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Qwest TV" tvg-logo="/sdcard/TV/logo/QwestTV.png" group-title="音乐",Qwest TV
+https://qwest-jazz-plex.amagi.tv/1080p-cc/index.m3u8
+https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
+#EXTINF:-1 tvg-id="Holidayscapes" tvg-logo="/sdcard/TV/logo/Holidayscapes.png" group-title="音乐",Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master_1920x1080_4500kbps.m3u8
+#EXTINF:-1 tvg-id="Qello Concerts by Stingray" tvg-logo="/sdcard/TV/logo/QelloConcerts.png" group-title="音乐",Qello Concerts by Stingray
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Classic Rock
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/91f1e420-bb65-3ca7-97bd-d01df1ad4df1/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayClassica" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Classica
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayCMusic" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray CMusic
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayDJAZZ" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray DJAZZ
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayEasyListening" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Easy Listening
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/8254a89c-49b0-3801-833e-c8a535b9d854/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayFlashback70s" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Flashback 70s
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/208601fc-a1b0-3a27-8918-a3734147e78e/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayHitList" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Hit List
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/7f5c4019-53d1-3ece-aad4-eeab2919c146/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayHolidayHits" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Holiday Hits
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/b60fdee7-b18d-3d13-94e6-91a82593e061/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayHotCountry" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Hot Country
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/f15587f1-baba-3453-92b5-c95316b3966b/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayNaturescape" tvg-logo="/sdcard/TV/logo/StingrayNaturescape.png" group-title="音乐",Stingray Naturescape
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/5711200/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayNothinBut90s" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Nothin' But 90s
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/f5102ca4-edd7-30ac-a357-877f60db023b/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayPopAdult" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Pop Adult
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/bc9b6149-730c-3f60-9fbb-38eaec27fe03/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayEverything80s" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Remember the 80s
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/82f53b7b-ca5e-3494-9844-c2faca0e2ad7/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayRockAlternative" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Rock Alternative
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/86c450ed-9e6a-3c4f-9b87-08174d04fab6/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayRomanceLatino" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Romance Latino
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/c48b76a5-f00b-3a50-954b-ef72b1f0bd41/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingraySmoothJazz" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Smooth Jazz
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/e2d052eb-8636-3304-b427-f98cc0be8a10/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingraySoulStorm" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Soul Storm
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/33357341-efb9-3b26-b81b-f78a0f4b7617/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayTheSpa" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray The Spa
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/3db6a047-c610-359d-a79d-87adf9dc89cc/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysKPop" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Today's KPOP
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/7f580049-e104-34da-bf75-65c1708e6c1f/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Today's Latin Pop
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/04939495-ffda-3654-b847-6e66ef589ab2/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="StingrayUrbanBeat" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/f0ddd223-c745-3962-8e7b-b9ba58b428a0/1790800/manifest.m3u8
+#EXTINF:-1 tvg-id="AZ StarTV" tvg-logo="/sdcard/TV/logo/AZStarTV.png" group-title="音乐",AZ StarTV
+http://live.azstartv.com/azstar/smil:azstar.smil/chunklist_w1763745991_b2000000_slen.m3u8
+#EXTINF:-1 tvg-id="Asia Music Channel" tvg-logo="/sdcard/TV/logo/AMCTV.png" group-title="音乐",Asia Music Channel
+https://amchls.wns.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="4KURD" tvg-logo="/sdcard/TV/logo/4KURD.png" group-title="音乐",Persiana 4KURD
+https://4kuhls.persiana.live/hls/stream.m3u8
+
+#新闻
+#EXTINF:-1 tvg-id="ABC News Live" tvg-logo="/sdcard/TV/logo/ABCNewsLive.png" group-title="新闻",ABC News Live
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
+#EXTINF:-1 tvg-id="Bloomberg TV+" tvg-logo="/sdcard/TV/logo/BloombergTV+.png" group-title="新闻",Bloomberg TV+ UHD
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
+https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
+https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8
+https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg Quicktake" tvg-logo="/sdcard/TV/logo/Quicktake.png" group-title="新闻",Bloomberg Quicktake
+https://bloomberg-quicktake-1-ie.samsung.wurl.tv/manifest/playlist.m3u8
+https://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8
+https://bloomberg-quicktake-1-no.samsung.wurl.tv/manifest/playlist.m3u8
+https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
+https://bloomberg-quicktake-2-eu.rakuten.wurl.tv/f5f8fa365d17be576d8bdd4d0478f456.m3u8
+#EXTINF:-1 tvg-id="CBC News" tvg-logo="/sdcard/TV/logo/CBCNews.png" group-title="新闻",CBC News
+https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master1080P.m3u8
+#EXTINF:-1 tvg-id="CBN News" tvg-logo="/sdcard/TV/logo/CBNNews.png" group-title="新闻",CBN News
+https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="Fox LiveNow" tvg-logo="/sdcard/TV/logo/FoxLiveNOW.png" group-title="新闻",Fox LiveNOW
+https://jmp2.uk/sam-USBA300024TN.m3u8
+#EXTINF:-1 tvg-id="NBC News Now" tvg-logo="/sdcard/TV/logo/NBCNewsNow.png" group-title="新闻",NBC News Now
+https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
+https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
+#EXTINF:-1 tvg-id="NEWSMAX2" tvg-logo="/sdcard/TV/logo/NEWSMAX2.png" group-title="新闻",NEWSMAX2
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+https://newsmax-vizio.amagi.tv/playlist1080p.m3u8
+https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
+https://newsmax-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="OAN" tvg-logo="/sdcard/TV/logo/OAN.png" group-title="新闻",One America News
+https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
+https://oneamericanews-vizio.amagi.tv/playlistR1080p.m3u8
+https://oan-lg.amagi.tv/playlist1080p.m3u8
+https://oan-plus-tcl.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 tvg-id="Today Allday" tvg-logo="/sdcard/TV/logo/TodayAllday.png" group-title="新闻",Today Allday
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_channelId=88814559&ads.xumo_streamId=88814559
+#EXTINF:-1 tvg-id="BBC News" tvg-logo="/sdcard/TV/logo/BBCNews.png" group-title="新闻",BBC News
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
+#EXTINF:-1 tvg-id="GB News" tvg-logo="/sdcard/TV/logo/GBNews.png" group-title="新闻",GB News
+https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+https://jmp2.uk/sam-GBBB1600008R3.m3u8
+#EXTINF:-1 tvg-id="France24" tvg-logo="/sdcard/TV/logo/France24.png" group-title="新闻",France 24
+https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="CNA" tvg-logo="/sdcard/TV/logo/CNA.png" group-title="新闻",Channel News Asia
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="RT News" tvg-logo="/sdcard/TV/logo/RT.png" group-title="新闻",RT News
+https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
+#EXTINF:-1 tvg-id="Arirang" tvg-logo="/sdcard/TV/logo/Arirang.png" group-title="新闻",Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="Wion News" tvg-logo="/sdcard/TV/logo/WION.png" group-title="新闻",Wion News
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1 tvg-id="Aljazeera" tvg-logo="/sdcard/TV/logo/Aljazeera.png" group-title="新闻",Aljazeera
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 tvg-id="Yahoo Finance" tvg-logo="/sdcard/TV/logo/YahooFinance.png" group-title="新闻",Yahoo Finance
+https://yahoo-samsung.amagi.tv/playlist.m3u8
+https://yahoofinance-localnow.amagi.tv/1080p-cc/index.m3u8
+https://yahoo-plex.amagi.tv/1080p-cc/index.m3u8
+https://yahoo-roku-us.amagi.tv/1080p-cc/index.m3u8
+https://yahoo-vizio.amagi.tv/1080p-cc/index.m3u8
+https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
