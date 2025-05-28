@@ -287,13 +287,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228812/index.m3u8
 
 #江西
 #EXTINF:-1 tvg-id="南昌新闻综合" tvg-logo="/sdcard/TV/logo/南昌新闻综合.png" group-title="江西",南昌新闻综合
-http://A/ku9/js/jxtv.js?id=nczh
 webview://https://www.nctv.net.cn/live?channel=1
 #EXTINF:-1 tvg-id="南昌都市" tvg-logo="/sdcard/TV/logo/南昌都市.png" group-title="江西",南昌都市
-http://A/ku9/js/jxtv.js?id=ncds
 webview://https://www.nctv.net.cn/live?channel=2
 #EXTINF:-1 tvg-id="南昌资讯" tvg-logo="/sdcard/TV/logo/南昌资讯.png" group-title="江西",南昌资讯
-http://A/ku9/js/jxtv.js?id=nczx
 webview://https://www.nctv.net.cn/live?channel=3
 #EXTINF:-1 tvg-id="赣州新闻综合" tvg-logo="/sdcard/TV/logo/赣州新闻综合.png" group-title="江西",赣州新闻综合
 https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
@@ -322,7 +319,6 @@ http://124.222.114.206/bjtv.php?id=bjsh
 http://124.222.114.206/bjtv.php?id=bjxw
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="/sdcard/TV/logo/北京卡酷少儿.png" group-title="北京",卡酷少儿
 http://124.222.114.206/bjtv.php?id=bjkk
-
 
 #上海
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="/sdcard/TV/logo/上海新闻综合.png" group-title="上海",上海新闻综合
@@ -474,7 +470,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="/sdcard/TV/logo/NewTV哒啵赛事.png" group-title="NewTV",哒啵赛事
 http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-logo="/sdcard/TV/logo/NewTV哒啵电竞.png" group-title="NewTV",哒啵电竞
-
 
 #咪咕
 #EXTINF:-1 tvg-id="抖音热歌" tvg-logo="/sdcard/TV/logo/咪咕音乐.png" group-title="咪咕",抖音热歌
