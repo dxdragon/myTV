@@ -165,18 +165,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
 #EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="/sdcard/TV/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
 http://ott.mobaibox.com/PLTV/3/224/3221228746/index.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-logo="/sdcard/TV/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/ymkt_live.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="/sdcard/TV/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
-#EXTVLCOPT:http-referrer=https://live.jstv.com
-https://litchi-play-encrypted-site.jstv.com/live/ymkt_live.m3u8?txSecret=2fee1d5857ff0ba403d22d8a4a4379a0&txTime=7c229cff
 webview://https://live.jstv.com/?channelId=543
 #EXTINF:-1 tvg-id="江苏国际" tvg-logo="/sdcard/TV/logo/江苏国际.png" group-title="江苏",江苏国际
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/jsgj_live.m3u8
-#EXTINF:-1 tvg-id="江苏国际" tvg-logo="/sdcard/TV/logo/江苏国际.png" group-title="江苏",江苏国际
-#EXTVLCOPT:http-referrer=https://live.jstv.com
-https://litchi-play-encrypted-site.jstv.com/live/jsgj_live.m3u8?txSecret=7f3eb94bc8feda0270523295c4cdfefa&txTime=7c229cff
 webview://https://live.jstv.com/?channelId=544
 #EXTINF:-1 tvg-id="南京少儿" tvg-logo="/sdcard/TV/logo/南京少儿.png" group-title="江苏",南京少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8

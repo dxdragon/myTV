@@ -181,60 +181,20 @@ webview://https://www.newskj.net/html/rft/live.html?channelId=b4b37304359f45fabc
 
 #江苏
 #EXTINF:-1 tvg-id="江苏城市" tvg-logo="/sdcard/TV/logo/江苏城市.png" group-title="江苏",江苏城市
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/jscs_live.m3u8
-#EXTINF:-1 tvg-id="江苏城市" tvg-logo="/sdcard/TV/logo/江苏城市.png" group-title="江苏",江苏城市
-#EXTVLCOPT:http-referrer=https://live.jstv.com
-https://litchi-play-encrypted-site.jstv.com/live/jscs_live.m3u8?txSecret=a2c17510bdd0ab0d75409b605f903b9b&txTime=7c229cff
 webview://https://live.jstv.com/?channelId=535
 #EXTINF:-1 tvg-id="江苏新闻" tvg-logo="/sdcard/TV/logo/江苏新闻.png" group-title="江苏",江苏新闻
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/jsxw_live.m3u8
-#EXTINF:-1 tvg-id="江苏新闻" tvg-logo="/sdcard/TV/logo/江苏新闻.png" group-title="江苏",江苏新闻
-#EXTVLCOPT:http-referrer=https://live.jstv.com
-https://litchi-play-encrypted-site.jstv.com/live/jsxw_live.m3u8?txSecret=ee82fda12b2d7c935dc435ca57440bdf&txTime=7c229cff
 webview://https://live.jstv.com/?channelId=536
 #EXTINF:-1 tvg-id="江苏综艺" tvg-logo="/sdcard/TV/logo/江苏综艺.png" group-title="江苏",江苏综艺
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/jszy_live.m3u8
-#EXTINF:-1 tvg-id="江苏综艺" tvg-logo="/sdcard/TV/logo/江苏综艺.png" group-title="江苏",江苏综艺
-#EXTVLCOPT:http-referrer=https://live.jstv.com
-https://litchi-play-encrypted-site.jstv.com/live/jszy_live.m3u8?txSecret=6b5b717a9f0779f19ef735d1efa6a81b&txTime=7c229cff
 webview://https://live.jstv.com/?channelId=556
 #EXTINF:-1 tvg-id="江苏影视" tvg-logo="/sdcard/TV/logo/江苏影视.png" group-title="江苏",江苏影视
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/jsys_live.m3u8
-#EXTINF:-1 tvg-id="江苏影视" tvg-logo="/sdcard/TV/logo/江苏影视.png" group-title="江苏",江苏影视
-#EXTVLCOPT:http-referrer=https://live.jstv.com
-https://litchi-play-encrypted-site.jstv.com/live/jsys_live.m3u8?txSecret=355b8be122c6e30aef6a386f1c8278eb&txTime=7c229cff
 webview://https://live.jstv.com/?channelId=542
 #EXTINF:-1 tvg-id="江苏教育" tvg-logo="/sdcard/TV/logo/江苏教育.png" group-title="江苏",江苏教育
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/jsjy_live.m3u8
-#EXTINF:-1 tvg-id="江苏教育" tvg-logo="/sdcard/TV/logo/江苏教育.png" group-title="江苏",江苏教育
-#EXTVLCOPT:http-referrer=https://live.jstv.com
-https://litchi-play-encrypted-site.jstv.com/live/jsjy_live.m3u8?txSecret=f6fd2f7742847cdd3cbada7c84a31e66&txTime=7c229cff
 webview://https://live.jstv.com/?channelId=545
 #EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="/sdcard/TV/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/jsxx_live.m3u8
-#EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="/sdcard/TV/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
-#EXTVLCOPT:http-referrer=https://live.jstv.com
-https://litchi-play-encrypted-site.jstv.com/live/jsxx_live.m3u8?txSecret=52b2d0e0c6c8eb4515c7841cd821e3ca&txTime=7c229cff
 webview://https://live.jstv.com/?channelId=537
 #EXTINF:-1 tvg-id="优漫卡通" tvg-logo="/sdcard/TV/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/ymkt_live.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="/sdcard/TV/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
-#EXTVLCOPT:http-referrer=https://live.jstv.com
-https://litchi-play-encrypted-site.jstv.com/live/ymkt_live.m3u8?txSecret=2fee1d5857ff0ba403d22d8a4a4379a0&txTime=7c229cff
 webview://https://live.jstv.com/?channelId=543
 #EXTINF:-1 tvg-id="江苏国际" tvg-logo="/sdcard/TV/logo/江苏国际.png" group-title="江苏",江苏国际
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/live/jsgj_live.m3u8
-#EXTINF:-1 tvg-id="江苏国际" tvg-logo="/sdcard/TV/logo/江苏国际.png" group-title="江苏",江苏国际
-#EXTVLCOPT:http-referrer=https://live.jstv.com
-https://litchi-play-encrypted-site.jstv.com/live/jsgj_live.m3u8?txSecret=7f3eb94bc8feda0270523295c4cdfefa&txTime=7c229cff
 webview://https://live.jstv.com/?channelId=544
 #EXTINF:-1 tvg-id="苏州4K" tvg-logo="/sdcard/TV/logo/苏州4K.png" group-title="江苏",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
