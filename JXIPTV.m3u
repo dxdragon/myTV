@@ -613,8 +613,6 @@ https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://circle-samsung.amagi.tv/playlist.m3u8
 https://circle-roku.amagi.tv/1080p-cc/index.m3u8
 https://circle-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="GREAT! mystery" tvg-logo="/sdcard/TV/logo/GREATMystery.png" group-title="影视",GREAT! Mystery
-https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
 
 #音乐
 #EXTINF:-1 tvg-id="California Music Channel" tvg-logo="/sdcard/TV/logo/CMC.png" group-title="音乐",California Music Channel

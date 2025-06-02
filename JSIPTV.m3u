@@ -240,8 +240,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8
 #EXTINF:-1 tvg-id="睢宁三农" tvg-logo="/sdcard/TV/logo/睢宁三农.png" group-title="江苏",睢宁三农
 http://ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8
-#EXTINF:-1 tvg-id="睢宁资讯" tvg-logo="/sdcard/TV/logo/睢宁资讯.png" group-title="江苏",睢宁资讯
-http://ott.mobaibox.com/PLTV/3/224/3221227701/index.m3u8
 #EXTINF:-1 tvg-id="铜山-1" tvg-logo="/sdcard/TV/logo/铜山1.png" group-title="江苏",铜山综合
 http://ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
 #EXTINF:-1 tvg-id="铜山-2" tvg-logo="/sdcard/TV/logo/铜山2.png" group-title="江苏",铜山三农
@@ -266,8 +264,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
 #EXTINF:-1 tvg-id="东海文娱" tvg-logo="/sdcard/TV/logo/东海文娱.png" group-title="江苏",东海文娱
 http://ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8
-#EXTINF:-1 tvg-id="东海国学与家道" tvg-logo="/sdcard/TV/logo/东海国学与家道.png" group-title="江苏",东海国学与家道
-http://ott.mobaibox.com/PLTV/3/224/3221227736/index.m3u8
 #EXTINF:-1 tvg-id="灌南新闻综合" tvg-logo="/sdcard/TV/logo/灌南新闻综合.png" group-title="江苏",灌南新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228725/index.m3u8
 #EXTINF:-1 tvg-id="盐城新闻综合" tvg-logo="/sdcard/TV/logo/盐城1.png" group-title="江苏",盐城新闻综合
@@ -417,8 +413,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
 #EXTINF:-1 tvg-id="newtv中国功夫" tvg-logo="/sdcard/TV/logo/NewTV中国功夫.png" group-title="NewTV",中国功夫
 http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 tvg-id="newtv武搏世界" tvg-logo="/sdcard/TV/logo/NewTV武搏世界.png" group-title="NewTV",武搏世界
-http://ott.mobaibox.com/PLTV/3/224/3221227533/index.m3u8
 #EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-logo="/sdcard/TV/logo/NewTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
 http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1 tvg-id="newtv海外剧场" tvg-logo="/sdcard/TV/logo/NewTV海外剧场.png" group-title="NewTV",海外剧场
@@ -731,8 +725,6 @@ https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://circle-samsung.amagi.tv/playlist.m3u8
 https://circle-roku.amagi.tv/1080p-cc/index.m3u8
 https://circle-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="GREAT! mystery" tvg-logo="/sdcard/TV/logo/GREATMystery.png" group-title="影视",GREAT! Mystery
-https://linear-861.frequency.stream/dist/lg-uk/861/hls/master/playlist.m3u8
 
 #音乐
 #EXTINF:-1 tvg-id="California Music Channel" tvg-logo="/sdcard/TV/logo/CMC.png" group-title="音乐",California Music Channel
