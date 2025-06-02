@@ -316,18 +316,6 @@ http://124.222.114.206/bjtv.php?id=bjxw
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="/sdcard/TV/logo/北京卡酷少儿.png" group-title="北京",卡酷少儿
 http://124.222.114.206/bjtv.php?id=bjkk
 
-#上海
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="/sdcard/TV/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-webview://https://live.kankanews.com/huikan?id=2
-#EXTINF:-1 tvg-id="第一财经" tvg-logo="/sdcard/TV/logo/上海第一财经.png" group-title="上海",第一财经
-webview://https://live.kankanews.com/huikan?id=5
-#EXTINF:-1 tvg-id="五星体育" tvg-logo="/sdcard/TV/logo/上海五星体育.png" group-title="上海",五星体育
-webview://https://live.kankanews.com/huikan?id=10
-#EXTINF:-1 tvg-id="上海都市" tvg-logo="/sdcard/TV/logo/上海都市.png" group-title="上海",上海都市
-webview://https://live.kankanews.com/huikan?id=4
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-logo="/sdcard/TV/logo/上海哈哈炫动.png" group-title="上海",哈哈炫动
-webview://https://live.kankanews.com/huikan?id=9
-
 #广东
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="/sdcard/TV/logo/大湾区卫视.png" group-title="广东",大湾区卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
