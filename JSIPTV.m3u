@@ -92,7 +92,7 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 #卫视
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="/sdcard/TV/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-logo="/sdcard/TV/logo/北京卫视.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="/sdcard/TV/logo/北京卫视4K.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-logo="/sdcard/TV/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
@@ -240,6 +240,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8
 #EXTINF:-1 tvg-id="睢宁三农" tvg-logo="/sdcard/TV/logo/睢宁三农.png" group-title="江苏",睢宁三农
 http://ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8
+#EXTINF:-1 tvg-id="睢宁资讯" tvg-logo="/sdcard/TV/logo/睢宁资讯.png" group-title="江苏",睢宁资讯
+http://ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8
 #EXTINF:-1 tvg-id="铜山-1" tvg-logo="/sdcard/TV/logo/铜山1.png" group-title="江苏",铜山综合
 http://ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
 #EXTINF:-1 tvg-id="铜山-2" tvg-logo="/sdcard/TV/logo/铜山2.png" group-title="江苏",铜山三农
@@ -506,12 +508,16 @@ http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
 #EXTINF:-1 tvg-id="自然地理" tvg-logo="/sdcard/TV/logo/自然地理.png" group-title="数字",自然地理
 http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
+#EXTINF:-1 tvg-id="天元围棋" tvg-logo="/sdcard/TV/logo/天元围棋.png" group-title="数字",天元围棋
+http://ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 #EXTINF:-1 tvg-id="冰雪竞技场" tvg-logo="/sdcard/TV/logo/冰雪竞技场.png" group-title="数字",冰雪竞技场
 http://ott.mobaibox.com/PLTV/3/224/3221228737/index.m3u8
 #EXTINF:-1 tvg-id="科幻世界" tvg-logo="/sdcard/TV/logo/科幻世界.png" group-title="数字",科幻世界
 http://ott.mobaibox.com/PLTV/3/224/3221228740/index.m3u8
 #EXTINF:-1 tvg-id="怀旧MTV" tvg-logo="/sdcard/TV/logo/怀旧MTV.png" group-title="数字",怀旧MTV
 http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
+#EXTINF:-1 tvg-id="国学苑" tvg-logo="/sdcard/TV/logo/国学苑.png" group-title="数字",国学苑
+http://ott.mobaibox.com/PLTV/3/224/3221228843/index.m3u8
 
 #港澳
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-logo="/sdcard/TV/logo/凤凰卫视香港台.png" group-title="港澳",凤凰卫视香港台
