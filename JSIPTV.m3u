@@ -198,7 +198,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228462/index.m3u8
 #EXTINF:-1 tvg-id="南通社教" tvg-logo="/sdcard/TV/logo/南通2.png" group-title="江苏",南通社教
 http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8
-#EXTINF:-1 tvg-id="南通公共崇川" tvg-logo="/sdcard/TV/logo/南通3.png" group-title="江苏",南通公共·崇川
+#EXTINF:-1 tvg-id="南通公共崇川" tvg-logo="/sdcard/TV/logo/南通公共崇川.png" group-title="江苏",南通公共·崇川
 http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
 #EXTINF:-1 tvg-id="扬州江都台" tvg-logo="/sdcard/TV/logo/扬州江都台.png" group-title="江苏",扬州江都台
 http://ott.mobaibox.com/PLTV/3/224/3221228323/index.m3u8
