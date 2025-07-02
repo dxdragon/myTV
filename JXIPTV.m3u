@@ -91,7 +91,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226298/2/index.
 #卫视
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="/sdcard/TV/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226352/2/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-logo="/sdcard/TV/logo/北京卫视4K.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京卫视4K.png" group-title="卫视",北京卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226394/2/index.m3u8
 #EXTINF:-1 tvg-id="重庆卫视" tvg-logo="/sdcard/TV/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225612/2/index.m3u8
@@ -141,7 +141,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225485/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226351/2/index.m3u8
 #EXTINF:-1 tvg-id="浙江卫视" tvg-logo="/sdcard/TV/logo/浙江卫视.png" group-title="卫视",浙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225491/2/index.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="/sdcard/TV/logo/深圳卫视4K.png" group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/深圳卫视4K.png" group-title="卫视",深圳卫视
 https://livepull-tcms.sztv.com.cn:443/live/sz4Kpgm.m3u8
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225598/2/index.m3u8
 #EXTINF:-1 tvg-id="西藏卫视" tvg-logo="/sdcard/TV/logo/西藏卫视.png" group-title="卫视",西藏卫视
