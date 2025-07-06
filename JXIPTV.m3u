@@ -445,16 +445,10 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Wonder" tvg-logo="/sdcard/TV/logo/Wonder.png" group-title="纪录",Wonder
 https://lds-wonder-rakuten.amagi.tv/1080p-cc/index.m3u8
 https://lds-wonder-plex.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="4K TRAVEL" tvg-logo="/sdcard/TV/logo/4KTravel.png" group-title="纪录",4K TRAVEL
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
-#EXTINF:-1 tvg-id="Drone TV" tvg-logo="/sdcard/TV/logo/DroneTV.png" group-title="纪录",Drone TV
-https://dtc192m1s5jen.cloudfront.net/scheduler/scheduleMaster/440/variant/22100089.m3u8
-https://airvuz-dronetv-1-eu.zeasn.wurl.tv/4300.m3u8
 #EXTINF:-1 tvg-id="Xplore TV" tvg-logo="/sdcard/TV/logo/XploreTV.png" group-title="纪录",Xplore TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 https://xplore-xumo.amagi.tv/1080p-cc/index.m3u8
-https://xlpore-samsungus.amagi.tv/1080p-cc/index.m3u8
 https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/1080p-cc/index.m3u8
 
 #时尚
@@ -466,7 +460,6 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Global Fashion Channel" tvg-logo="/sdcard/TV/logo/GFC.png" group-title="时尚",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
-https://gfcomnimedia-globalfashionchannel-1-eu.zeasn.wurl.tv/922c6175e75c50e2b24c5d480c23b703.m3u8
 #EXTINF:-1 tvg-id="Loupe 4K" tvg-logo="/sdcard/TV/logo/Loupe.png" group-title="时尚",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="The Design Network" tvg-logo="/sdcard/TV/logo/TheDesignNetwork.png" group-title="时尚",The Design Network
@@ -482,7 +475,6 @@ https://tastemade-aus-tmina-rakuten.amagi.tv/playlist1080-p.m3u8
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
 #EXTINF:-1 tvg-id="Tastemade Intl" tvg-logo="/sdcard/TV/logo/Tastemade.png" group-title="美食",Tastemade Intl
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintlaus-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Gusto TV" tvg-logo="/sdcard/TV/logo/GustoTV.png" group-title="美食",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
@@ -497,8 +489,6 @@ https://jamieoliver-xumo.amagi.tv/1080p/index.m3u8
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 https://pac12-firetv.amagi.tv/playlistR1080p.m3u8
 https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="Sky Sports F1" tvg-logo="/sdcard/TV/logo/SkySportsF1.png" group-title="运动",Sky Sports F1
-http://cord-cutter.net:8080/25464931/30585186/35244
 #EXTINF:-1 tvg-id="Trace Sport Stars" tvg-logo="/sdcard/TV/logo/TraceSportStars.png" group-title="运动",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://trace-sportstars-tcl.amagi.tv/playlist1080p.m3u8
@@ -534,8 +524,6 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/221000
 https://waypoint-waypointtv-firetv.amagi.tv/1080p-cc/index.m3u8
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m3u8
 https://aegis-cloudfront-1.tubi.video/0831606b-a9dc-4ee9-a381-52b0c9b59b2f/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Hunt Fish TV" tvg-logo="/sdcard/TV/logo/HuntFishTV.png" group-title="运动",Hunt Fish TV
-https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/bitrate2.m3u8
 
 #综合
 #EXTINF:-1 tvg-id="Young Hollywood" tvg-logo="/sdcard/TV/logo/YoungHollywood.png" group-title="综合",Young Hollywood
@@ -543,7 +531,6 @@ https://younghollywood-rakuten-samsung.amagi.tv/1080p-cc/index.m3u8
 https://younghollywood-tcl.amagi.tv/1080p-cc/index.m3u8
 https://younghollywood-vizio.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Fox Soul" tvg-logo="/sdcard/TV/logo/FoxSoul.png" group-title="综合",Fox Soul
-https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 https://foxsoul-vizio.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Today Allday" tvg-logo="/sdcard/TV/logo/TodayAllday.png" group-title="综合",Today Allday
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
@@ -563,7 +550,6 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 #影视
 #EXTINF:-1 tvg-id="AMC Networks" tvg-logo="/sdcard/TV/logo/AMCNetworks.png" group-title="影视",AMC Networks
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTime.png" group-title="影视",MyTime Movie
 https://mytime-tcl.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTime.png" group-title="影视",MyTime Movie UK
@@ -682,7 +668,6 @@ https://bloomberg-quicktake-1-ie.samsung.wurl.tv/manifest/playlist.m3u8
 https://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8
 https://bloomberg-quicktake-1-no.samsung.wurl.tv/manifest/playlist.m3u8
 https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
-https://bloomberg-quicktake-2-eu.rakuten.wurl.tv/f5f8fa365d17be576d8bdd4d0478f456.m3u8
 #EXTINF:-1 tvg-id="CBC News" tvg-logo="/sdcard/TV/logo/CBCNews.png" group-title="新闻",CBC News
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master1080P.m3u8
 #EXTINF:-1 tvg-id="CBN News" tvg-logo="/sdcard/TV/logo/CBNNews.png" group-title="新闻",CBN News
