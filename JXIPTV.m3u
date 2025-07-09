@@ -101,7 +101,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225489/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225585/2/index.m3u8
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="/sdcard/TV/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226358/2/index.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-logo="/sdcard/TV/logo/广东卫视.png" group-title="卫视",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东卫视4K.png" group-title="卫视",广东卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225597/2/index.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-logo="/sdcard/TV/logo/广西卫视.png" group-title="卫视",广西卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226211/2/index.m3u8
@@ -127,8 +127,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225488/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225492/2/index.m3u8
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="/sdcard/TV/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225601/2/index.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-logo="/sdcard/TV/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://livestream-bt.nmtv.cn/nmtv/3208526general.m3u8?txSecret=eb5a3102dd5406c7ffeddf560b024952&txTime=76B2F9A0&token=73c24f35c8ce47e4bd95a22f1bd07d26
 #EXTINF:-1 tvg-id="青海卫视" tvg-logo="/sdcard/TV/logo/青海卫视.png" group-title="卫视",青海卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225727/2/index.m3u8
 #EXTINF:-1 tvg-id="山东卫视" tvg-logo="/sdcard/TV/logo/山东卫视.png" group-title="卫视",山东卫视
@@ -223,20 +221,6 @@ webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b6
 webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
 #EXTINF:-1 tvg-id="广西国际" tvg-logo="/sdcard/TV/logo/广西国际.png" group-title="广西",广西国际
 webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
-
-#内蒙古
-#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="/sdcard/TV/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800&token=a2d490bf6f264a0a828d70e215e7db78
-#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-logo="/sdcard/TV/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
-https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800&token=2bb353a70ce84b31afb5a477bd97750e
-#EXTINF:-1 tvg-id="内蒙古少儿频道" tvg-logo="/sdcard/TV/logo/内蒙古少儿频道.png" group-title="内蒙古",内蒙古少儿频道
-https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800&token=38a799dae76c4e7fa68cc8962992cfa8
-#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-logo="/sdcard/TV/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
-https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=c7b5c515d2bb6df442492d54955329a3&txTime=771E8800&token=97bdf75f0ffc479ead97aeb0f9fa4155
-#EXTINF:-1 tvg-id="内蒙古农牧频道" tvg-logo="/sdcard/TV/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
-https://livestream-bt.nmtv.cn/nmtv/2320general.m3u8?txSecret=4d368a175afa19737a9f5be10af24fe2&txTime=771E8800&token=778d2aaf25f1466b93e067fd9542f17a
-#EXTINF:-1 tvg-id="呼和浩特新闻综合" tvg-logo="/sdcard/TV/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
-https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800&token=acb5e8210c86486198d5fa8b10b1876a
 
 #浙江
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-logo="/sdcard/TV/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
