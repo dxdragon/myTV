@@ -144,6 +144,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227491/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228835/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="/sdcard/TV/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
+#EXTINF:-1 tvg-id="西藏卫视" tvg-logo="/sdcard/TV/logo/西藏卫视.png" group-title="卫视",西藏卫视
+http://php.jdshipin.com:8880/xztv.php?id=ws
 
 #江苏
 #EXTINF:-1 tvg-id="江苏城市" tvg-logo="/sdcard/TV/logo/江苏城市.png" group-title="江苏",江苏城市
@@ -174,8 +176,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 tvg-id="南京十八生活" tvg-logo="/sdcard/TV/logo/南京十八生活.png" group-title="江苏",南京十八·生活
 http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
-#EXTINF:-1 tvg-id="直播南京" tvg-logo="/sdcard/TV/logo/直播南京.png" group-title="江苏",直播南京
-http://ott.mobaibox.com/PLTV/3/224/3221228709/index.m3u8
 #EXTINF:-1 tvg-id="苏州4K" tvg-logo="/sdcard/TV/logo/苏州4K.png" group-title="江苏",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="昆山新闻综合" tvg-logo="/sdcard/TV/logo/昆山新闻综合.png" group-title="江苏",昆山新闻综合
@@ -295,8 +295,22 @@ https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251
 webview://https://www.newskj.net/html/rft/live.html?channelId=b4b37304359f45fabce63ab429d4ce2a&type=1&siteId=ee5e92ed238644368bd76f8adfe34401&shareAppId=ee5e92ed238644368bd76f8adfe34401
 
 #北京
+#EXTINF:-1 tvg-id="北京文艺" tvg-logo="/sdcard/TV/logo/北京文艺.png" group-title="北京",北京文艺
+http://124.222.114.206/bjtv.php?id=bjwy
 #EXTINF:-1 tvg-id="纪实科教" tvg-logo="/sdcard/TV/logo/北京纪实科教.png" group-title="北京",纪实科教
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
+#EXTINF:-1 tvg-id="北京影视" tvg-logo="/sdcard/TV/logo/北京影视.png" group-title="北京",北京影视
+http://124.222.114.206/bjtv.php?id=bjys
+#EXTINF:-1 tvg-id="北京财经" tvg-logo="/sdcard/TV/logo/北京财经.png" group-title="北京",北京财经
+http://124.222.114.206/bjtv.php?id=bjcj
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="/sdcard/TV/logo/北京体育休闲.png" group-title="北京",北京体育休闲
+http://124.222.114.206/bjtv.php?id=bjty
+#EXTINF:-1 tvg-id="北京生活" tvg-logo="/sdcard/TV/logo/北京生活.png" group-title="北京",北京生活
+http://124.222.114.206/bjtv.php?id=bjsh
+#EXTINF:-1 tvg-id="北京新闻" tvg-logo="/sdcard/TV/logo/北京新闻.png" group-title="北京",北京新闻
+http://124.222.114.206/bjtv.php?id=bjxw
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="/sdcard/TV/logo/北京卡酷少儿.png" group-title="北京",卡酷少儿
+http://124.222.114.206/bjtv.php?id=bjkk
 
 #广东
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="/sdcard/TV/logo/大湾区卫视.png" group-title="广东",大湾区卫视
@@ -343,6 +357,22 @@ webview://https://www.cztv.com/liveTV/110
 #EXTINF:-1 tvg-id="之江纪录" tvg-logo="/sdcard/TV/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 webview://https://www.cztv.com/liveTV/112
+
+#黑龙江
+#EXTINF:-1 tvg-id="黑龙江影视" tvg-logo="/sdcard/TV/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
+#EXTINF:-1 tvg-id="黑龙江文体" tvg-logo="/sdcard/TV/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
+#EXTINF:-1 tvg-id="黑龙江都市" tvg-logo="/sdcard/TV/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
+#EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-logo="/sdcard/TV/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226330
+#EXTINF:-1 tvg-id="黑龙江农业科教" tvg-logo="/sdcard/TV/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业·科教
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226242
+#EXTINF:-1 tvg-id="黑龙江少儿" tvg-logo="/sdcard/TV/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
+#EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-logo="/sdcard/TV/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
+http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
 
 #NewTV
 #EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="/sdcard/TV/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
@@ -403,7 +433,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="/sdcard/TV/logo/NewTV哒啵赛事.png" group-title="NewTV",哒啵赛事
 http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1 tvg-id="哒啵电竞" tvg-logo="/sdcard/TV/logo/NewTV哒啵电竞.png" group-title="NewTV",哒啵电竞
 
 #咪咕
 #EXTINF:-1 tvg-id="抖音热歌" tvg-logo="/sdcard/TV/logo/咪咕音乐.png" group-title="咪咕",抖音热歌
@@ -512,6 +541,8 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Wonder" tvg-logo="/sdcard/TV/logo/Wonder.png" group-title="纪录",Wonder
 https://lds-wonder-rakuten.amagi.tv/1080p-cc/index.m3u8
 https://lds-wonder-plex.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="4K TRAVEL" tvg-logo="/sdcard/TV/logo/4KTravel.png" group-title="纪录",4K TRAVEL
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
 #EXTINF:-1 tvg-id="Xplore TV" tvg-logo="/sdcard/TV/logo/XploreTV.png" group-title="纪录",Xplore TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
@@ -591,6 +622,8 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/221000
 https://waypoint-waypointtv-firetv.amagi.tv/1080p-cc/index.m3u8
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m3u8
 https://aegis-cloudfront-1.tubi.video/0831606b-a9dc-4ee9-a381-52b0c9b59b2f/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-id="Hunt Fish TV" tvg-logo="/sdcard/TV/logo/HuntFishTV.png" group-title="运动",Hunt Fish TV
+https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/bitrate2.m3u8
 
 #综合
 #EXTINF:-1 tvg-id="Young Hollywood" tvg-logo="/sdcard/TV/logo/YoungHollywood.png" group-title="综合",Young Hollywood
@@ -599,6 +632,9 @@ https://younghollywood-tcl.amagi.tv/1080p-cc/index.m3u8
 https://younghollywood-vizio.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Fox Soul" tvg-logo="/sdcard/TV/logo/FoxSoul.png" group-title="综合",Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="theGrio TV" tvg-logo="/sdcard/TV/logo/TheGrio.png" group-title="综合",theGrio TV
+http://redbox-blacknewschannel-xumo.amagi.tv/1080p-cc/index.m3u8
+https://blacknewschannel-amazon.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Today Allday" tvg-logo="/sdcard/TV/logo/TodayAllday.png" group-title="综合",Today Allday
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_channelId=88814559&ads.xumo_streamId=88814559
@@ -642,14 +678,12 @@ https://magnolia-cinelife.amagi.tv/playlist1080p.m3u8
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="IONTV" tvg-logo="/sdcard/TV/logo/ION.png" group-title="影视",ION
 https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
-https://d1mumb5jst6zw0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rqzc6u2smk8dg/ion.m3u8
 #EXTINF:-1 tvg-id="ION Mystery" tvg-logo="/sdcard/TV/logo/IONMystery.png" group-title="影视",ION Mystery
 https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
 https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist.m3u8
 #EXTINF:-1 tvg-id="ION Plus" tvg-logo="/sdcard/TV/logo/IONPlus.png" group-title="影视",ION Plus
 https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
-https://d2olmevnzmviuu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-drh5os33njrnt/ion_plus.m3u8
 #EXTINF:-1 tvg-id="Circle" tvg-logo="/sdcard/TV/logo/Circle.png" group-title="影视",Circle
 https://circle-samsung.amagi.tv/playlist.m3u8
 https://circle-roku.amagi.tv/1080p-cc/index.m3u8
