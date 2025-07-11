@@ -180,21 +180,21 @@ webview://https://www.newskj.net/html/rft/live.html?channelId=b4b37304359f45fabc
 
 #江苏
 #EXTINF:-1 tvg-id="江苏城市" tvg-logo="/sdcard/TV/logo/江苏城市.png" group-title="江苏",江苏城市
-webview://https://live.jstv.com/?channelId=535
+webview://https://live.jstv.com/?channelId=669
 #EXTINF:-1 tvg-id="江苏新闻" tvg-logo="/sdcard/TV/logo/江苏新闻.png" group-title="江苏",江苏新闻
-webview://https://live.jstv.com/?channelId=536
+webview://https://live.jstv.com/?channelId=668
 #EXTINF:-1 tvg-id="江苏综艺" tvg-logo="/sdcard/TV/logo/江苏综艺.png" group-title="江苏",江苏综艺
-webview://https://live.jstv.com/?channelId=556
+webview://https://live.jstv.com/?channelId=663
 #EXTINF:-1 tvg-id="江苏影视" tvg-logo="/sdcard/TV/logo/江苏影视.png" group-title="江苏",江苏影视
-webview://https://live.jstv.com/?channelId=542
+webview://https://live.jstv.com/?channelId=664
 #EXTINF:-1 tvg-id="江苏教育" tvg-logo="/sdcard/TV/logo/江苏教育.png" group-title="江苏",江苏教育
-webview://https://live.jstv.com/?channelId=545
+webview://https://live.jstv.com/?channelId=666
 #EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="/sdcard/TV/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
-webview://https://live.jstv.com/?channelId=537
+webview://https://live.jstv.com/?channelId=665
 #EXTINF:-1 tvg-id="优漫卡通" tvg-logo="/sdcard/TV/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
-webview://https://live.jstv.com/?channelId=543
+webview://https://live.jstv.com/?channelId=667
 #EXTINF:-1 tvg-id="江苏国际" tvg-logo="/sdcard/TV/logo/江苏国际.png" group-title="江苏",江苏国际
-webview://https://live.jstv.com/?channelId=544
+webview://https://live.jstv.com/?channelId=671
 #EXTINF:-1 tvg-id="苏州4K" tvg-logo="/sdcard/TV/logo/苏州4K.png" group-title="江苏",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 

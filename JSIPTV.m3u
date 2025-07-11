@@ -161,9 +161,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
 #EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="/sdcard/TV/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
 http://ott.mobaibox.com/PLTV/3/224/3221228746/index.m3u8
 #EXTINF:-1 tvg-id="优漫卡通" tvg-logo="/sdcard/TV/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
-webview://https://live.jstv.com/?channelId=543
+webview://https://live.jstv.com/?channelId=667
 #EXTINF:-1 tvg-id="江苏国际" tvg-logo="/sdcard/TV/logo/江苏国际.png" group-title="江苏",江苏国际
-webview://https://live.jstv.com/?channelId=544
+webview://https://live.jstv.com/?channelId=671
 #EXTINF:-1 tvg-id="南京少儿" tvg-logo="/sdcard/TV/logo/南京少儿.png" group-title="江苏",南京少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
 #EXTINF:-1 tvg-id="南京教科" tvg-logo="/sdcard/TV/logo/南京教科.png" group-title="江苏",南京教科
