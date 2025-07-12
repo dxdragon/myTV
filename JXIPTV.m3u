@@ -198,18 +198,24 @@ https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 #北京
 #EXTINF:-1 tvg-id="北京文艺" tvg-logo="/sdcard/TV/logo/北京文艺.png" group-title="北京",北京文艺
 http://124.222.114.206/bjtv.php?id=bjwy
+http://qtest-play.btime.cn/live/btv_sn_20170706_s2.m3u8
 #EXTINF:-1 tvg-id="纪实科教" tvg-logo="/sdcard/TV/logo/北京纪实科教.png" group-title="北京",纪实科教
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226365/2/index.m3u8
 #EXTINF:-1 tvg-id="北京影视" tvg-logo="/sdcard/TV/logo/北京影视.png" group-title="北京",北京影视
 http://124.222.114.206/bjtv.php?id=bjys
+http://qtest-play.btime.cn/live/btv_sn_20170706_s4.m3u8
 #EXTINF:-1 tvg-id="北京财经" tvg-logo="/sdcard/TV/logo/北京财经.png" group-title="北京",北京财经
 http://124.222.114.206/bjtv.php?id=bjcj
+http://qtest-play.btime.cn/live/btv_sn_20170706_s5.m3u8
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="/sdcard/TV/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://124.222.114.206/bjtv.php?id=bjty
+http://qtest-play.btime.cn/live/btv_sn_20170706_s6.m3u8
 #EXTINF:-1 tvg-id="北京生活" tvg-logo="/sdcard/TV/logo/北京生活.png" group-title="北京",北京生活
 http://124.222.114.206/bjtv.php?id=bjsh
+http://qtest-play.btime.cn/live/btv_sn_20170706_s7.m3u8
 #EXTINF:-1 tvg-id="北京新闻" tvg-logo="/sdcard/TV/logo/北京新闻.png" group-title="北京",北京新闻
 http://124.222.114.206/bjtv.php?id=bjxw
+http://qtest-play.btime.cn/live/btv_sn_20170706_s9.m3u8
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="/sdcard/TV/logo/北京卡酷少儿.png" group-title="北京",卡酷少儿
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226362/2/index.m3u8
 
