@@ -416,8 +416,6 @@ https://lightning-petclub-xiaomi.amagi.tv/playlist1080p.m3u8
 https://petclub-samsungaus.amagi.tv/playlist1080p.m3u8
 
 #纪录
-#EXTINF:-1 tvg-id="LOVE NATURE" tvg-logo="/sdcard/TV/logo/LoveNature.png" group-title="纪录",LOVE NATURE
-http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 tvg-id="Wild Earth" tvg-logo="/sdcard/TV/logo/WildEarth.png" group-title="纪录",Wild Earth
 https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
@@ -439,10 +437,6 @@ https://xplore-xumo.amagi.tv/1080p-cc/index.m3u8
 https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/1080p-cc/index.m3u8
 
 #时尚
-#EXTINF:-1 tvg-id="FashionTV" tvg-logo="/sdcard/TV/logo/FashionTV.png" group-title="时尚",FashionTV
-https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist_1920x1080_4200k.m3u8
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist_1920x1080_4200k.m3u8
 #EXTINF:-1 tvg-id="FashionTV 4K" tvg-logo="/sdcard/TV/logo/FashionTV4K.png" group-title="时尚",FashionTV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Global Fashion Channel" tvg-logo="/sdcard/TV/logo/GFC.png" group-title="时尚",Global Fashion Channel
