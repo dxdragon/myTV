@@ -363,6 +363,18 @@ webview://https://www.cztv.com/liveTV/110
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 webview://https://www.cztv.com/liveTV/112
 
+#内蒙古
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="/sdcard/TV/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-logo="/sdcard/TV/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+#EXTINF:-1 tvg-id="内蒙古少儿频道" tvg-logo="/sdcard/TV/logo/内蒙古少儿频道.png" group-title="内蒙古",内蒙古少儿频道
+http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-logo="/sdcard/TV/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
+http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
+#EXTINF:-1 tvg-id="内蒙古农牧频道" tvg-logo="/sdcard/TV/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
+
 #黑龙江
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-logo="/sdcard/TV/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
@@ -378,6 +390,18 @@ http://php.jdshipin.com/TVOD/hljyd.php?id=3221226242
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-logo="/sdcard/TV/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
+
+#吉林
+#EXTINF:-1 tvg-id="吉林都市" tvg-logo="/sdcard/TV/logo/吉林都市.png" group-title="吉林",吉林都市
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/7e8474e6daea44ccaa5aa2300191439e/index.m3u8
+#EXTINF:-1 tvg-id="吉林生活" tvg-logo="/sdcard/TV/logo/吉林生活.png" group-title="吉林",吉林生活
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/0a76740c72b74fabae611845aa21e06a/index.m3u8
+#EXTINF:-1 tvg-id="吉林影视" tvg-logo="/sdcard/TV/logo/吉林影视.png" group-title="吉林",吉林影视
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/906341e6f19b4c4bacdc89941eb85d12/index.m3u8
+#EXTINF:-1 tvg-id="吉林乡村" tvg-logo="/sdcard/TV/logo/吉林乡村.png" group-title="吉林",吉林乡村
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/3ffc4824dce54b92be185555923ce382/index.m3u8
+#EXTINF:-1 tvg-id="吉林综艺文化" tvg-logo="/sdcard/TV/logo/吉林综艺文化.png" group-title="吉林",吉林综艺·文化
+https://lsfb.avap.jilintv.cn/zqvk7vpj/channel/b3925adaf01e41f287f482f0aea3d233/index.m3u8
 
 #NewTV
 #EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="/sdcard/TV/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
@@ -532,6 +556,8 @@ https://lightning-petclub-xiaomi.amagi.tv/playlist1080p.m3u8
 https://petclub-samsungaus.amagi.tv/playlist1080p.m3u8
 
 #纪录
+#EXTINF:-1 tvg-id="Love Nature" tvg-logo="/sdcard/TV/logo/LoveNature.png" group-title="纪录",Love Nature
+https://jmp2.uk/sam-USBA3400003IP.m3u8
 #EXTINF:-1 tvg-id="Wild Earth" tvg-logo="/sdcard/TV/logo/WildEarth.png" group-title="纪录",Wild Earth
 https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
