@@ -377,19 +377,19 @@ http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 
 #黑龙江
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-logo="/sdcard/TV/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江文体" tvg-logo="/sdcard/TV/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-logo="/sdcard/TV/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-logo="/sdcard/TV/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226330
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江农业科教" tvg-logo="/sdcard/TV/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业·科教
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226242
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-logo="/sdcard/TV/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-logo="/sdcard/TV/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 
 #吉林
 #EXTINF:-1 tvg-id="吉林都市" tvg-logo="/sdcard/TV/logo/吉林都市.png" group-title="吉林",吉林都市
@@ -444,18 +444,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-id="newtv精品萌宠" tvg-logo="/sdcard/TV/logo/NewTV精品萌宠.png" group-title="NewTV",精品萌宠
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
-#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-logo="/sdcard/TV/logo/NewTV欢乐剧场.png" group-title="NewTV",欢乐剧场
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225742
-#EXTINF:-1 tvg-id="newtv东北热剧" tvg-logo="/sdcard/TV/logo/NewTV东北热剧.png" group-title="NewTV",东北热剧
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225741
-#EXTINF:-1 tvg-id="newtv超级综艺" tvg-logo="/sdcard/TV/logo/NewTV超级综艺.png" group-title="NewTV",超级综艺
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225714
-#EXTINF:-1 tvg-id="newtv超级体育" tvg-logo="/sdcard/TV/logo/NewTV超级体育.png" group-title="NewTV",超级体育
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225715
-#EXTINF:-1 tvg-id="newtv超级电影" tvg-logo="/sdcard/TV/logo/NewTV超级电影.png" group-title="NewTV",超级电影
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225717
-#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-logo="/sdcard/TV/logo/NewTV超级电视剧.png" group-title="NewTV",超级电视剧
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225716
 #EXTINF:-1 tvg-id="黑莓电影" tvg-logo="/sdcard/TV/logo/黑莓电影.png" group-title="NewTV",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-logo="/sdcard/TV/logo/黑莓动画.png" group-title="NewTV",黑莓动画

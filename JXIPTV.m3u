@@ -253,19 +253,19 @@ http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 
 #黑龙江
 #EXTINF:-1 tvg-id="黑龙江影视" tvg-logo="/sdcard/TV/logo/黑龙江影视.png" group-title="黑龙江",黑龙江影视
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226298
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江文体" tvg-logo="/sdcard/TV/logo/黑龙江文体.png" group-title="黑龙江",黑龙江文体
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226239
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江都市" tvg-logo="/sdcard/TV/logo/黑龙江都市.png" group-title="黑龙江",黑龙江都市
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226301
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江新闻法治" tvg-logo="/sdcard/TV/logo/黑龙江新闻法治.png" group-title="黑龙江",黑龙江新闻法治
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226330
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226330/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江农业科教" tvg-logo="/sdcard/TV/logo/黑龙江农业科教.png" group-title="黑龙江",黑龙江农业·科教
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226242
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226242/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江少儿" tvg-logo="/sdcard/TV/logo/黑龙江少儿.png" group-title="黑龙江",黑龙江少儿
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226304
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226304/index.m3u8
 #EXTINF:-1 tvg-id="哈尔滨新闻综合" tvg-logo="/sdcard/TV/logo/哈尔滨新闻综合.png" group-title="黑龙江",哈尔滨新闻综合
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226434
+http://[2409:8087:1a15:10d1::32]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226434/index.m3u8
 
 #吉林
 #EXTINF:-1 tvg-id="吉林都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉林都市.png" group-title="吉林",吉林都市
