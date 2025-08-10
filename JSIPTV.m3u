@@ -543,8 +543,6 @@ https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/1080p
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Global Fashion Channel" tvg-logo="/sdcard/TV/logo/GFC.png" group-title="时尚",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
-#EXTINF:-1 tvg-id="Loupe 4K" tvg-logo="/sdcard/TV/logo/Loupe.png" group-title="时尚",Loupe 4K
-https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="The Design Network" tvg-logo="/sdcard/TV/logo/TheDesignNetwork.png" group-title="时尚",The Design Network
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
 
@@ -588,8 +586,6 @@ https://inverleigh-unbeaten-redbox.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="RedBull TV" tvg-logo="/sdcard/TV/logo/RedBullTV.png" group-title="运动",RedBull TV
 https://d348r1iu8hx0nx.cloudfront.net/playlist.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="Adventure Sports TV" tvg-logo="/sdcard/TV/logo/AdventureSportsTV.png" group-title="运动",Adventure Sports TV
-https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8
 #EXTINF:-1 tvg-id="Teton Gravity" tvg-logo="/sdcard/TV/logo/TetonGravity.png" group-title="运动",Teton Gravity Research
 https://d1ur2fy7sesb3x.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 tvg-id="Real Wild" tvg-logo="/sdcard/TV/logo/RealWild.png" group-title="运动",Real Wild
@@ -607,8 +603,6 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/221000
 https://waypoint-waypointtv-firetv.amagi.tv/1080p-cc/index.m3u8
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m3u8
 https://aegis-cloudfront-1.tubi.video/0831606b-a9dc-4ee9-a381-52b0c9b59b2f/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Hunt Fish TV" tvg-logo="/sdcard/TV/logo/HuntFishTV.png" group-title="运动",Hunt Fish TV
-https://streams2.sofast.tv/sofastplayout/WiseM3U8_2/bitrate2.m3u8
 
 #综合
 #EXTINF:-1 tvg-id="Young Hollywood" tvg-logo="/sdcard/TV/logo/YoungHollywood.png" group-title="综合",Young Hollywood
@@ -623,9 +617,6 @@ https://blacknewschannel-amazon.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Today Allday" tvg-logo="/sdcard/TV/logo/TodayAllday.png" group-title="综合",Today Allday
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_channelId=88814559&ads.xumo_streamId=88814559
-#EXTINF:-1 tvg-id="theGrio TV" tvg-logo="/sdcard/TV/logo/TheGrio.png" group-title="综合",theGrio TV
-http://redbox-blacknewschannel-xumo.amagi.tv/1080p-cc/index.m3u8
-https://blacknewschannel-amazon.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Pulse TV" tvg-logo="/sdcard/TV/logo/PulseTV.png" group-title="综合",Pulse TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Wellbeing TV" tvg-logo="/sdcard/TV/logo/WellbeingTV.png" group-title="综合",Wellbeing TV
@@ -643,8 +634,6 @@ https://mytime-tcl.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTime.png" group-title="影视",MyTime Movie UK
 https://mytimeuk-rakuten-samsung.amagi.tv/1080p/index.m3u8
 https://appletree-mytimeau-samsung.amagi.tv/1080p/index.m3u8
-#EXTINF:-1 tvg-id="MovieDome" tvg-logo="/sdcard/TV/logo/MovieDome.png" group-title="影视",MovieDome
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="/sdcard/TV/logo/MovieSphere.png" group-title="影视",MovieSphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="/sdcard/TV/logo/MovieSphere.png" group-title="影视",MovieSphere by LionsGate
