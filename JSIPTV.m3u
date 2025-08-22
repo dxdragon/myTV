@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.cn/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://gh-proxy.com/raw.githubusercontent.com/mytv-android/myEPG/refs/heads/master/output/epg.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="/sdcard/TV/logo/CCTV1.png" group-title="央视",CCTV-1 综合
