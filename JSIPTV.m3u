@@ -525,6 +525,7 @@ https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="MoonBug" tvg-logo="/sdcard/TV/logo/MoonBug.png" group-title="少儿",MoonBug
 https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
+https://jmp2.uk/stvp-USBB11000015Q
 #EXTINF:-1 tvg-id="Zoo Moo" tvg-logo="/sdcard/TV/logo/ZooMoo.png" group-title="少儿",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
@@ -543,6 +544,7 @@ https://jmp2.uk/sam-USBA3400003IP.m3u8
 #EXTINF:-1 tvg-id="Wild Earth" tvg-logo="/sdcard/TV/logo/WildEarth.png" group-title="纪录",Wild Earth
 https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
+https://jmp2.uk/stvp-US3800007CR
 #EXTINF:-1 tvg-id="BBC Earth" tvg-logo="/sdcard/TV/logo/BBCEarth.png" group-title="纪录",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Nature Time" tvg-logo="/sdcard/TV/logo/NatureTime.png" group-title="纪录",Nature Time
@@ -561,6 +563,8 @@ https://xplore-xumo.amagi.tv/1080p-cc/index.m3u8
 https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/1080p-cc/index.m3u8
 
 #时尚
+#EXTINF:-1 tvg-id="Loupe 4K" tvg-logo="/sdcard/TV/logo/Loupe.png" group-title="时尚",Loupe 4K
+https://jmp2.uk/stvp-USBB1000002TK
 #EXTINF:-1 tvg-id="FashionTV 4K" tvg-logo="/sdcard/TV/logo/FashionTV4K.png" group-title="时尚",FashionTV 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Global Fashion Channel" tvg-logo="/sdcard/TV/logo/GFC.png" group-title="时尚",Global Fashion Channel
@@ -617,6 +621,7 @@ https://lds-realwild-vizio.amagi.tv/1080p-cc/index.m3u8
 https://outsidetv-firetv.amagi.tv/playlistR1080p.m3u8
 https://outsidetv-oando.amagi.tv/playlistR1080p.m3u8
 https://livetv-fa.tubi.video/outsidetv2/playlistR_1080p.m3u8
+https://jmp2.uk/stvp-USAJ3504707A
 #EXTINF:-1 tvg-id="Outdoor Channel" tvg-logo="/sdcard/TV/logo/Outdoor.png" group-title="运动",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="Wild TV" tvg-logo="/sdcard/TV/logo/WildTV.png" group-title="运动",Wild TV
@@ -625,6 +630,7 @@ https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/221000
 https://waypoint-waypointtv-firetv.amagi.tv/1080p-cc/index.m3u8
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m3u8
 https://aegis-cloudfront-1.tubi.video/0831606b-a9dc-4ee9-a381-52b0c9b59b2f/1080p-cc/index.m3u8
+https://jmp2.uk/stvp-USBB440002055
 
 #综合
 #EXTINF:-1 tvg-id="Young Hollywood" tvg-logo="/sdcard/TV/logo/YoungHollywood.png" group-title="综合",Young Hollywood
@@ -637,6 +643,7 @@ https://foxsoul-vizio.amagi.tv/playlist1080p.m3u8
 http://redbox-blacknewschannel-xumo.amagi.tv/1080p-cc/index.m3u8
 https://blacknewschannel-amazon.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Today Allday" tvg-logo="/sdcard/TV/logo/TodayAllday.png" group-title="综合",Today Allday
+https://jmp2.uk/stvp-USBB32000251N
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_channelId=88814559&ads.xumo_streamId=88814559
 #EXTINF:-1 tvg-id="Pulse TV" tvg-logo="/sdcard/TV/logo/PulseTV.png" group-title="综合",Pulse TV
@@ -785,6 +792,7 @@ https://oneamericanews-vizio.amagi.tv/playlistR1080p.m3u8
 https://oan-lg.amagi.tv/playlist1080p.m3u8
 https://oan-plus-tcl.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="BBC News" tvg-logo="/sdcard/TV/logo/BBCNews.png" group-title="新闻",BBC News
+https://jmp2.uk/stvp-US4000033L
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="GB News" tvg-logo="/sdcard/TV/logo/GBNews.png" group-title="新闻",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
