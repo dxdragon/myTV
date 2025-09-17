@@ -560,10 +560,6 @@ https://xplore-xumo.amagi.tv/1080p-cc/index.m3u8
 https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/1080p-cc/index.m3u8
 
 #时尚
-#EXTINF:-1 tvg-id="Loupe 4K" tvg-logo="/sdcard/TV/logo/Loupe.png" group-title="时尚",Loupe 4K
-https://d1mc7j87d84vqe.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-d102ouk2nzqfu/5e6a6b86-e4cf-4dac-bee7-ffec796ffe47/5.m3u8
-#EXTINF:-1 tvg-id="FashionTV 4K" tvg-logo="/sdcard/TV/logo/FashionTV4K.png" group-title="时尚",FashionTV 4K
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Global Fashion Channel" tvg-logo="/sdcard/TV/logo/GFC.png" group-title="时尚",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
 #EXTINF:-1 tvg-id="The Design Network" tvg-logo="/sdcard/TV/logo/TheDesignNetwork.png" group-title="时尚",The Design Network
@@ -637,7 +633,6 @@ https://foxsoul-vizio.amagi.tv/playlist1080p.m3u8
 http://redbox-blacknewschannel-xumo.amagi.tv/1080p-cc/index.m3u8
 https://blacknewschannel-amazon.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Today Allday" tvg-logo="/sdcard/TV/logo/TodayAllday.png" group-title="综合",Today Allday
-https://d37kx062o4ii0p.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mqdi5hybrfg3u/35a03215-4888-4683-9323-b4070a71fb82/4.m3u8
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_channelId=88814559&ads.xumo_streamId=88814559
 #EXTINF:-1 tvg-id="Pulse TV" tvg-logo="/sdcard/TV/logo/PulseTV.png" group-title="综合",Pulse TV
@@ -756,22 +751,12 @@ https://4kuhls.persiana.live/hls/stream.m3u8
 #新闻
 #EXTINF:-1 tvg-id="ABC News Live" tvg-logo="/sdcard/TV/logo/ABCNewsLive.png" group-title="新闻",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-#EXTINF:-1 tvg-id="Bloomberg TV+" tvg-logo="/sdcard/TV/logo/BloombergTV+.png" group-title="新闻",Bloomberg TV+ UHD
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/playlist.m3u8
-https://bloomberg-bloombergtv-1-gb.samsung.wurl.tv/manifest/playlist.m3u8
-https://bloomberg-bloombergtv-1-it.samsung.wurl.tv/manifest/playlist.m3u8
-https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Bloomberg Quicktake" tvg-logo="/sdcard/TV/logo/Quicktake.png" group-title="新闻",Bloomberg Quicktake
-https://bloomberg-quicktake-1-ie.samsung.wurl.tv/manifest/playlist.m3u8
-https://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8
-https://bloomberg-quicktake-1-no.samsung.wurl.tv/manifest/playlist.m3u8
 https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBC News" tvg-logo="/sdcard/TV/logo/CBCNews.png" group-title="新闻",CBC News
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master1080P.m3u8
 #EXTINF:-1 tvg-id="CBN News" tvg-logo="/sdcard/TV/logo/CBNNews.png" group-title="新闻",CBN News
 https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="Fox LiveNow" tvg-logo="/sdcard/TV/logo/FoxLiveNOW.png" group-title="新闻",Fox LiveNOW
-https://d3tlzddkbbpp5n.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/7ecd087e-fcd3-4bad-9515-688fbda0320e/3.m3u8
 #EXTINF:-1 tvg-id="NBC News Now" tvg-logo="/sdcard/TV/logo/NBCNewsNow.png" group-title="新闻",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
@@ -787,7 +772,6 @@ https://oneamericanews-vizio.amagi.tv/playlistR1080p.m3u8
 https://oan-lg.amagi.tv/playlist1080p.m3u8
 https://oan-plus-tcl.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-id="BBC News" tvg-logo="/sdcard/TV/logo/BBCNews.png" group-title="新闻",BBC News
-https://d1kvlt93j1bc49.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/9d1df92c-a57c-4a9e-bc14-909170d066cc/5.m3u8
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="GB News" tvg-logo="/sdcard/TV/logo/GBNews.png" group-title="新闻",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
