@@ -176,20 +176,36 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226412/2/index.
 
 #江苏
 #EXTINF:-1 tvg-id="江苏城市" tvg-logo="/sdcard/TV/logo/江苏城市.png" group-title="江苏",江苏城市
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/jscspro.m3u8
 webview://https://live.jstv.com/?channelId=669
 #EXTINF:-1 tvg-id="江苏新闻" tvg-logo="/sdcard/TV/logo/江苏新闻.png" group-title="江苏",江苏新闻
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/jsxwpro.m3u8
 webview://https://live.jstv.com/?channelId=668
 #EXTINF:-1 tvg-id="江苏综艺" tvg-logo="/sdcard/TV/logo/江苏综艺.png" group-title="江苏",江苏综艺
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/jszypro.m3u8
 webview://https://live.jstv.com/?channelId=663
 #EXTINF:-1 tvg-id="江苏影视" tvg-logo="/sdcard/TV/logo/江苏影视.png" group-title="江苏",江苏影视
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/jsyspro.m3u8
 webview://https://live.jstv.com/?channelId=664
 #EXTINF:-1 tvg-id="江苏教育" tvg-logo="/sdcard/TV/logo/江苏教育.png" group-title="江苏",江苏教育
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/jsjypro.m3u8
 webview://https://live.jstv.com/?channelId=666
 #EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="/sdcard/TV/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/jsxxpro.m3u8
 webview://https://live.jstv.com/?channelId=665
 #EXTINF:-1 tvg-id="优漫卡通" tvg-logo="/sdcard/TV/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/ymktpro.m3u8
 webview://https://live.jstv.com/?channelId=667
 #EXTINF:-1 tvg-id="江苏国际" tvg-logo="/sdcard/TV/logo/江苏国际.png" group-title="江苏",江苏国际
+#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
+https://zjcn-live-play.jstv.com/jsgjpro.m3u8
 webview://https://live.jstv.com/?channelId=671
 #EXTINF:-1 tvg-id="苏州4K" tvg-logo="/sdcard/TV/logo/苏州4K.png" group-title="江苏",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
