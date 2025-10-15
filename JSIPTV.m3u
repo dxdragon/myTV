@@ -192,6 +192,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
 #EXTINF:-1 tvg-id="南京十八生活" tvg-logo="/sdcard/TV/logo/南京十八生活.png" group-title="江苏",南京十八·生活
 http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
+#EXTINF:-1 tvg-id="苏州新闻综合" tvg-logo="/sdcard/TV/logo/苏州新闻综合.png" group-title="江苏",苏州新闻综合
+https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
+#EXTINF:-1 tvg-id="苏州社会经济" tvg-logo="/sdcard/TV/logo/苏州社会经济.png" group-title="江苏",苏州社会经济
+https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
 #EXTINF:-1 tvg-id="苏州4K" tvg-logo="/sdcard/TV/logo/苏州4K.png" group-title="江苏",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="昆山新闻综合" tvg-logo="/sdcard/TV/logo/昆山新闻综合.png" group-title="江苏",昆山新闻综合
@@ -489,9 +493,9 @@ http://ott.mobaibox.com/PLTV/3/224/3221228559/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8
 #EXTINF:-1 tvg-id="儿童天地" tvg-logo="/sdcard/TV/logo/儿童天地.png" group-title="数字",儿童天地
 http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8
-#EXTINF:-1 tvg-id="亲宝玩具" tvg-logo="/sdcard/TV/logo/亲宝玩具.png" group-title="数字",亲宝玩具
+#EXTINF:-1 tvg-id="亲子玩具" tvg-logo="/sdcard/TV/logo/亲子玩具.png" group-title="数字",亲子玩具
 http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
-#EXTINF:-1 tvg-id="自然地理" tvg-logo="/sdcard/TV/logo/自然地理.png" group-title="数字",自然地理
+#EXTINF:-1 tvg-id="自然风景" tvg-logo="/sdcard/TV/logo/自然风景.png" group-title="数字",自然风景
 http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
 #EXTINF:-1 tvg-id="天元围棋" tvg-logo="/sdcard/TV/logo/天元围棋.png" group-title="数字",天元围棋
 http://ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
@@ -499,7 +503,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228737/index.m3u8
 #EXTINF:-1 tvg-id="科幻世界" tvg-logo="/sdcard/TV/logo/科幻世界.png" group-title="数字",科幻世界
 http://ott.mobaibox.com/PLTV/3/224/3221228740/index.m3u8
-#EXTINF:-1 tvg-id="怀旧MTV" tvg-logo="/sdcard/TV/logo/怀旧MTV.png" group-title="数字",怀旧MTV
+#EXTINF:-1 tvg-id="KTV热歌" tvg-logo="/sdcard/TV/logo/KTV热歌.png" group-title="数字",KTV热歌
 http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
 #EXTINF:-1 tvg-id="国学苑" tvg-logo="/sdcard/TV/logo/国学苑.png" group-title="数字",国学苑
 http://ott.mobaibox.com/PLTV/3/224/3221228843/index.m3u8
