@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://gh-proxy.com/raw.githubusercontent.com/mytv-android/myEPG/refs/heads/master/output/epg.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://gh-proxy.com/raw.githubusercontent.com/mytv-android/myEPG/master/output/epg.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="/sdcard/TV/logo/CCTV1.png" group-title="央视",CCTV-1 综合
@@ -68,6 +68,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
 #EXTINF:-1 tvg-id="早期教育" tvg-logo="/sdcard/TV/logo/CETV早期教育.png" group-title="央视",CETV-早期教育
 http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="/sdcard/TV/logo/CETV1.png" group-title="央视",CETV-1 综合教育
+http://ott.mobaibox.com/PLTV/3/224/3221225909/index.m3u8
 webview://https://tv.gxtv.cn/channel/channelivePlay_ffa6b6e1b32b4a16a73eb3ef66f8bfc7.html
 #EXTINF:-1 tvg-id="CETV2" tvg-logo="/sdcard/TV/logo/CETV2.png" group-title="央视",CETV-2 教育教学
 webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
@@ -138,6 +139,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228880/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-logo="/sdcard/TV/logo/山西卫视.png" group-title="卫视",山西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228870/index.m3u8
+#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="/sdcard/TV/logo/陕西卫视.png" group-title="卫视",陕西卫视
+http://ott.mobaibox.com/PLTV/4/224/3221227022/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="/sdcard/TV/logo/四川卫视4K.png" group-title="卫视",四川卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228877/index.m3u8
 #EXTINF:-1 tvg-id="天津卫视" tvg-logo="/sdcard/TV/logo/天津卫视.png" group-title="卫视",天津卫视
@@ -335,7 +338,9 @@ http://124.222.114.206/bjtv.php?id=bjsh
 http://124.222.114.206/bjtv.php?id=bjxw
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="/sdcard/TV/logo/北京卡酷少儿.png" group-title="北京",卡酷少儿
 http://124.222.114.206/bjtv.php?id=bjkk
-#EXTINF:-1 tvg-id="EETV" tvg-logo="/sdcard/TV/logo/EETV.png" group-title="北京",生态环境
+
+#湖南
+#EXTINF:-1 tvg-id="茶" tvg-logo="/sdcard/TV/logo/湖南茶频道.png" group-title="湖南",茶频道
 http://ott.mobaibox.com/PLTV/3/224/3221228917/index.m3u8
 
 #广东
@@ -345,6 +350,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.gztv.com/
 http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=gzngds
+#EXTINF:-1 tvg-id="广东珠江" tvg-logo="/sdcard/TV/logo/广东珠江.png" group-title="广东",广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 tvg-id="广东体育" tvg-logo="/sdcard/TV/logo/广东体育.png" group-title="广东",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 #广西
 #EXTINF:-1 tvg-id="广西综艺旅游" tvg-logo="/sdcard/TV/logo/广西综艺旅游.png" group-title="广西",广西综艺旅游
@@ -499,6 +508,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
 #EXTINF:-1 tvg-id="天元围棋" tvg-logo="/sdcard/TV/logo/天元围棋.png" group-title="数字",天元围棋
 http://ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
+#EXTINF:-1 tvg-id="时尚美妆" tvg-logo="/sdcard/TV/logo/时尚美妆.png" group-title="数字",时尚美妆
+http://ott.mobaibox.com/PLTV/3/224/3221228703/index.m3u8
 #EXTINF:-1 tvg-id="冰雪竞技场" tvg-logo="/sdcard/TV/logo/冰雪竞技场.png" group-title="数字",冰雪竞技场
 http://ott.mobaibox.com/PLTV/3/224/3221228737/index.m3u8
 #EXTINF:-1 tvg-id="科幻世界" tvg-logo="/sdcard/TV/logo/科幻世界.png" group-title="数字",科幻世界
