@@ -67,10 +67,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226321/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226359/2/index.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV1.png" group-title="央视",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225917/2/index.m3u8
-#EXTINF:-1 tvg-id="CETV2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV2.png" group-title="央视",CETV-2 教育教学
-webview://https://tv.gxtv.cn/channel/channelivePlay_80d0ffb42c114eaf9663708629ff0a3e.html
-#EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV4.png" group-title="央视",CETV-4 职业教育
-webview://https://tv.gxtv.cn/channel/channelivePlay_67eace939278435bb4bca90800fb4225.html
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN.png" group-title="央视",CGTN-新闻
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226369/2/index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
@@ -178,35 +174,27 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226412/2/index.
 #EXTINF:-1 tvg-id="江苏城市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏城市.png" group-title="江苏",江苏城市
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/jscspro.m3u8
-webview://https://live.jstv.com/?channelId=669
 #EXTINF:-1 tvg-id="江苏新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏新闻.png" group-title="江苏",江苏新闻
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/jsxwpro.m3u8
-webview://https://live.jstv.com/?channelId=668
 #EXTINF:-1 tvg-id="江苏综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏综艺.png" group-title="江苏",江苏综艺
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/jszypro.m3u8
-webview://https://live.jstv.com/?channelId=663
 #EXTINF:-1 tvg-id="江苏影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏影视.png" group-title="江苏",江苏影视
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/jsyspro.m3u8
-webview://https://live.jstv.com/?channelId=664
 #EXTINF:-1 tvg-id="江苏教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏教育.png" group-title="江苏",江苏教育
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/jsjypro.m3u8
-webview://https://live.jstv.com/?channelId=666
 #EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/jsxxpro.m3u8
-webview://https://live.jstv.com/?channelId=665
 #EXTINF:-1 tvg-id="优漫卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/ymktpro.m3u8
-webview://https://live.jstv.com/?channelId=667
 #EXTINF:-1 tvg-id="江苏国际" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏国际.png" group-title="江苏",江苏国际
 #EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
 https://zjcn-live-play.jstv.com/jsgjpro.m3u8
-webview://https://live.jstv.com/?channelId=671
 #EXTINF:-1 tvg-id="苏州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/苏州新闻综合.png" group-title="江苏",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-id="苏州社会经济" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/苏州社会经济.png" group-title="江苏",苏州社会经济
@@ -239,18 +227,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226203/2/index.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36 Edg/136.0.0.0
 http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=gzngds
-
-#广西
-#EXTINF:-1 tvg-id="广西综艺旅游" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广西综艺旅游.png" group-title="广西",广西综艺旅游
-webview://https://tv.gxtv.cn/channel/channelivePlay_f3335975f9fe11e88bcfe41f13b60c62.html
-#EXTINF:-1 tvg-id="广西都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广西都市.png" group-title="广西",广西都市
-webview://https://tv.gxtv.cn/channel/channelivePlay_fdbaf085f9fe11e88bcfe41f13b60c62.html
-#EXTINF:-1 tvg-id="广西影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广西影视.png" group-title="广西",广西影视
-webview://https://tv.gxtv.cn/channel/channelivePlay_5e923d82058e11e9ba67e41f13b60c62.html
-#EXTINF:-1 tvg-id="广西新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广西新闻.png" group-title="广西",广西新闻
-webview://https://tv.gxtv.cn/channel/channelivePlay_9dfd8600075811e9ba67e41f13b60c62.html
-#EXTINF:-1 tvg-id="广西国际" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广西国际.png" group-title="广西",广西国际
-webview://https://tv.gxtv.cn/channel/channelivePlay_bfa17b64157f11e999f0e41f13b60c62.html
+#EXTINF:-1 tvg-id="广东珠江" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东珠江.png" group-title="广东",广东珠江
+http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
+#EXTINF:-1 tvg-id="广东体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东体育.png" group-title="广东",广东体育
+http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 #内蒙古
 #EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
@@ -267,28 +247,20 @@ http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 #浙江
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-webview://https://www.cztv.com/liveTV/102
 #EXTINF:-1 tvg-id="浙江经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-webview://https://www.cztv.com/liveTV/103
 #EXTINF:-1 tvg-id="浙江教科影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-webview://https://www.cztv.com/liveTV/104
 #EXTINF:-1 tvg-id="浙江民生休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-webview://https://www.cztv.com/liveTV/106
 #EXTINF:-1 tvg-id="浙江新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江新闻.png" group-title="浙江",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-webview://https://www.cztv.com/liveTV/107
 #EXTINF:-1 tvg-id="浙江少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江少儿.png" group-title="浙江",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-webview://https://www.cztv.com/liveTV/108
 #EXTINF:-1 tvg-id="浙江国际" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江国际.png" group-title="浙江",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-webview://https://www.cztv.com/liveTV/110
 #EXTINF:-1 tvg-id="之江纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-webview://https://www.cztv.com/liveTV/112
 
 #湖南
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖南金鹰纪实.png" group-title="湖南",金鹰纪实
