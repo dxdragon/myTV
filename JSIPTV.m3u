@@ -645,14 +645,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-id="CineLife" tvg-logo="/sdcard/TV/logo/Cinelife.png" group-title="影视",CineLife
 https://magnolia-cinelife.amagi.tv/playlist1080p.m3u8
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="IONTV" tvg-logo="/sdcard/TV/logo/ION.png" group-title="影视",ION
-https://scripps-ion-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ION Mystery" tvg-logo="/sdcard/TV/logo/IONMystery.png" group-title="影视",ION Mystery
-https://scripps-ionmystery-1-us.xumo.wurl.tv/playlist.m3u8
-https://livetv-fa.tubi.video/ion-mystery/playlist.m3u8
-https://aegis-cloudfront-1.tubi.video/b11b44b8-461f-4034-becb-9bb14ee45be2/playlist.m3u8
-#EXTINF:-1 tvg-id="ION Plus" tvg-logo="/sdcard/TV/logo/IONPlus.png" group-title="影视",ION Plus
-https://ion-ion-plus-1-us.xumo.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Circle" tvg-logo="/sdcard/TV/logo/Circle.png" group-title="影视",Circle
 https://circle-samsung.amagi.tv/playlist.m3u8
 https://circle-roku.amagi.tv/1080p-cc/index.m3u8
@@ -718,22 +710,12 @@ https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/7f580049-e
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/04939495-ffda-3654-b847-6e66ef589ab2/1790800/manifest.m3u8
 #EXTINF:-1 tvg-id="StingrayUrbanBeat" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/f0ddd223-c745-3962-8e7b-b9ba58b428a0/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="AZ StarTV" tvg-logo="/sdcard/TV/logo/AZStarTV.png" group-title="音乐",AZ StarTV
-http://live.azstartv.com/azstar/smil:azstar.smil/chunklist_w1763745991_b2000000_slen.m3u8
-#EXTINF:-1 tvg-id="Asia Music Channel" tvg-logo="/sdcard/TV/logo/AMCTV.png" group-title="音乐",Asia Music Channel
-https://amchls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="4KURD" tvg-logo="/sdcard/TV/logo/4KURD.png" group-title="音乐",Persiana 4KURD
-https://4kuhls.persiana.live/hls/stream.m3u8
 
 #新闻
 #EXTINF:-1 tvg-id="ABC News Live" tvg-logo="/sdcard/TV/logo/ABCNewsLive.png" group-title="新闻",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-#EXTINF:-1 tvg-id="Bloomberg Quicktake" tvg-logo="/sdcard/TV/logo/Quicktake.png" group-title="新闻",Bloomberg Quicktake
-https://bloomberg-quicktake-4-nz.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CBC News" tvg-logo="/sdcard/TV/logo/CBCNews.png" group-title="新闻",CBC News
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master1080P.m3u8
-#EXTINF:-1 tvg-id="CBN News" tvg-logo="/sdcard/TV/logo/CBNNews.png" group-title="新闻",CBN News
-https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/us-east-1/734546207001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="NBC News Now" tvg-logo="/sdcard/TV/logo/NBCNewsNow.png" group-title="新闻",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
@@ -754,8 +736,6 @@ https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="France24" tvg-logo="/sdcard/TV/logo/France24.png" group-title="新闻",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-logo="/sdcard/TV/logo/CNA.png" group-title="新闻",Channel News Asia
-https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="RT News" tvg-logo="/sdcard/TV/logo/RT.png" group-title="新闻",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Wion News" tvg-logo="/sdcard/TV/logo/WION.png" group-title="新闻",Wion News
