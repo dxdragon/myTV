@@ -528,10 +528,9 @@ https://lds-wonder-plex.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="4K TRAVEL" tvg-logo="/sdcard/TV/logo/4KTravel.png" group-title="纪录",4K TRAVEL
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
 #EXTINF:-1 tvg-id="Xplore TV" tvg-logo="/sdcard/TV/logo/XploreTV.png" group-title="纪录",Xplore TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 https://xplore-xumo.amagi.tv/1080p-cc/index.m3u8
-https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/1080p-cc/index.m3u8
+https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
 
 #时尚
 #EXTINF:-1 tvg-id="Fashion TV" tvg-logo="/sdcard/TV/logo/FashionTV.png" group-title="时尚",Fashion TV
