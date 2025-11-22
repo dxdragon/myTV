@@ -491,8 +491,44 @@ http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视资讯台.png" group-title="港澳",凤凰卫视资讯台
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB翡翠台.png" group-title="港澳",TVB翡翠台
+http://mytv.cdn.loc.cc/o12.php?id=fct
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB明珠台.png" group-title="港澳",TVB明珠台
+http://mytv.cdn.loc.cc/o12.php?id=mzt
+#EXTINF:-1 tvg-id="TVB PLUS" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVBPlus.png" group-title="港澳",TVB Plus
+https://cdn6.101.qzz.io/163189/tvbp
+#EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB无线新闻台.png" group-title="港澳",TVB无线新闻台
+https://cdn6.101.qzz.io/163189/wxxw
+#EXTINF:-1 tvg-id="now新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/now新闻台.png" group-title="港澳",now新闻台
+https://cdn.163189.xyz/163189/now
+#EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK31.png" group-title="港澳",RTHK31
+http://cdn.163189.xyz/163189/rthk31
+#EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK32.png" group-title="港澳",RTHK32
+http://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 tvg-id="HOY77" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HOYTV.png" group-title="港澳",HOY 77
+https://cdn6.101.qzz.io/163189/hoy
+#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ViuTV.png" group-title="港澳",Viu TV
+http://cdn.163189.xyz/163189/viu
+#EXTINF:-1 tvg-id="天映CM+" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/天映频道.png" group-title="港澳",天映频道
+http://122.53.222.9:9981/stream/channelid/1069391940?profile=pass
 #EXTINF:-1 tvg-id="TaiwanPlus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TaiwanPlus.png" group-title="港澳",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-id="龙华电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华电影.png" group-title="港澳",龙华电影
+http://cdn8.163189.xyz/163189/lhdy
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华戏剧.png" group-title="港澳",龙华戏剧
+http://cdn8.163189.xyz/163189/lhxj
+#EXTINF:-1 tvg-id="龙华偶像" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华偶像.png" group-title="港澳",龙华偶像
+http://cdn8.163189.xyz/163189/lhox
+#EXTINF:-1 tvg-id="龙华经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华经典.png" group-title="港澳",龙华经典
+http://cdn8.163189.xyz/163189/lhjd
+#EXTINF:-1 tvg-id="龙华日韩" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华日韩.png" group-title="港澳",龙华日韩
+http://cdn8.163189.xyz/163189/lhrh
+#EXTINF:-1 tvg-id="新加波5频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加波5频道.png" group-title="港澳",新加波5频道
+https://cdn6.101.qzz.io/163189/ch5
+#EXTINF:-1 tvg-id="新加波8频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加波8频道.png" group-title="港澳",新加波8频道
+https://cdn6.101.qzz.io/163189/ch8
+#EXTINF:-1 tvg-id="新加波U频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加波U频道.png" group-title="港澳",新加波U频道
+https://cdn6.101.qzz.io/163189/chu
 
 #少儿
 #EXTINF:-1 tvg-id="Ryan and Friends" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RyanandFriends.png" group-title="少儿",Ryan and Friends
