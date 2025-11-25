@@ -281,7 +281,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
 #EXTINF:-1 tvg-id="东海文娱" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/东海文娱.png" group-title="江苏",东海文娱
 http://ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8
-#EXTINF:-1 tvg-id="灌南新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/灌南新闻综合.png" group-title="江苏",灌南新闻综合
+#EXTINF:-1 tvg-id="灌南综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/灌南综合.png" group-title="江苏",灌南综合
 http://ott.mobaibox.com/PLTV/3/224/3221228725/index.m3u8
 #EXTINF:-1 tvg-id="盐城新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/盐城1.png" group-title="江苏",盐城新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
@@ -484,7 +484,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
 #EXTINF:-1 tvg-id="国学苑" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/国学苑.png" group-title="数字",国学苑
 http://ott.mobaibox.com/PLTV/3/224/3221228843/index.m3u8
 
-#港澳
+#港台
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视香港台.png" group-title="港澳",凤凰卫视香港台
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视中文台.png" group-title="港澳",凤凰卫视中文台
@@ -661,8 +661,6 @@ https://mytime-tcl.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MyTime.png" group-title="影视",MyTime Movie UK
 https://mytimeuk-rakuten-samsung.amagi.tv/1080p/index.m3u8
 https://appletree-mytimeau-samsung.amagi.tv/1080p/index.m3u8
-#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MovieSphere.png" group-title="影视",MovieSphere AU
-https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MovieSphere.png" group-title="影视",MovieSphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MovieSphere.png" group-title="影视",MovieSphere by LionsGate
@@ -676,7 +674,7 @@ https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ActionHollywoodMovies.png" group-title="影视",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="CineLife" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Cinelife.png" group-title="影视",CineLife
+#EXTINF:-1 tvg-id="CineLife" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CineLife.png" group-title="影视",CineLife
 https://magnolia-cinelife.amagi.tv/playlist1080p.m3u8
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="Circle" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Circle.png" group-title="影视",Circle
