@@ -280,6 +280,14 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="之江纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="宁波新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
+http://115.204.243.222:8686/udp/233.50.201.168:5140
+#EXTINF:-1 tvg-id="宁波经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁波经济生活.png" group-title="浙江",宁波经济生活
+http://115.204.243.222:8686/udp/233.50.201.178:5140
+#EXTINF:-1 tvg-id="宁波都市文体" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁波都市文体.png" group-title="浙江",宁波都市文体
+http://115.204.243.222:8686/udp/233.50.201.179:5140
+#EXTINF:-1 tvg-id="宁波影视剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁波影视剧.png" group-title="浙江",宁波影视剧
+http://115.204.243.222:8686/udp/233.50.201.180:5140
 
 #湖南
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖南金鹰纪实.png" group-title="湖南",金鹰纪实

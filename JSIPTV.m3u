@@ -201,7 +201,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228820/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228853/index.m3u8
 #EXTINF:-1 tvg-id="无锡都市资讯" tvg-logo="/sdcard/TV/logo/无锡都市资讯.png" group-title="江苏",无锡都市资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228914/index.m3u8
-#EXTINF:-1 tvg-id="常州新闻综合" tvg-logo="/sdcard/TV/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+#EXTINF:-1 tvg-id="常州新闻" tvg-logo="/sdcard/TV/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
 #EXTINF:-1 tvg-id="常州都市" tvg-logo="/sdcard/TV/logo/常州都市.png" group-title="江苏",常州都市
 http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
@@ -377,6 +377,14 @@ https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
 #EXTINF:-1 tvg-id="之江纪录" tvg-logo="/sdcard/TV/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
+#EXTINF:-1 tvg-id="宁波新闻综合" tvg-logo="/sdcard/TV/logo/宁波新闻综合.png" group-title="浙江",宁波新闻综合
+http://115.204.243.222:8686/udp/233.50.201.168:5140
+#EXTINF:-1 tvg-id="宁波经济生活" tvg-logo="/sdcard/TV/logo/宁波经济生活.png" group-title="浙江",宁波经济生活
+http://115.204.243.222:8686/udp/233.50.201.178:5140
+#EXTINF:-1 tvg-id="宁波都市文体" tvg-logo="/sdcard/TV/logo/宁波都市文体.png" group-title="浙江",宁波都市文体
+http://115.204.243.222:8686/udp/233.50.201.179:5140
+#EXTINF:-1 tvg-id="宁波影视剧" tvg-logo="/sdcard/TV/logo/宁波影视剧.png" group-title="浙江",宁波影视剧
+http://115.204.243.222:8686/udp/233.50.201.180:5140
 
 #内蒙古
 #EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="/sdcard/TV/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
