@@ -188,38 +188,31 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226408/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226411/2/index.m3u8
 #EXTINF:-1 tvg-id="赣州公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/赣州公共.png" group-title="江西",赣州公共
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226412/2/index.m3u8
+#EXTINF:-1 tvg-id="瑞金综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/瑞金综合.png" group-title="江西",瑞金综合
+http://play-a2.quklive.com/live/1760408109205119.m3u8
+#EXTINF:-1 tvg-id="宁都综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁都综合.png" group-title="江西",宁都综合
+http://play-a2.quklive.com/live/1749084198822069.m3u8
 #EXTINF:-1 tvg-id="九江新闻综合频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226417/2/index.m3u8
+http://play-sh13.quklive.com/live/1757386374062009.m3u8?auth_key=2074409953-1dae95326c7943b28c3dbf66f89354be-0-2837005cdaa6ccd097b866975abe466a
 #EXTINF:-1 tvg-id="九江公共频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江公共频道.png" group-title="江西",九江公共频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226420/2/index.m3u8
+http://play-sh13.quklive.com/live/1757386400403349.m3u8?auth_key=2074410330-9138a1677cea4015b7334a66a9f7952e-0-80e8dd4c82311ea7461dd8df8ca922aa
 #EXTINF:-1 tvg-id="九江教育频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江教育频道.png" group-title="江西",九江教育频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226423/2/index.m3u8
+http://play-sh13.quklive.com/live/1757386418265193.m3u8?auth_key=2074410488-9eee5f4ee84540729319cc9af9a7bdb6-0-b8af9f64ba30f377a2bb03a0f0e70037
+#EXTINF:-1 tvg-id="上饶新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上饶新闻综合.png" group-title="江西",上饶新闻综合
+http://hls.quklive.com/live/play-sh-21.quklive.com/1758679893354090.m3u8?auth_key=2079617060-d88f59f738b64d69b58ac542b98edc52-0-af8b48e2d891ba488c9878f25460e7e5
+#EXTINF:-1 tvg-id="上饶经济旅游" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上饶经济旅游.png" group-title="江西",上饶经济旅游
+http://hls.quklive.com/live/play-sh-21.quklive.com/1758679936307088.m3u8?auth_key=2079617536-ebdadda3459e4ffbad4899a77d78551c-0-e123b1d1dd2ccc62a65941dda465eb1f
+#EXTINF:-1 tvg-id="广丰综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广丰综合.png" group-title="江西",广丰综合
+https://play-a2.quklive.com/live/1754033359790055.m3u8
+#EXTINF:-1 tvg-id="丰城新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/丰城新闻综合.png" group-title="江西",丰城新闻综合
+http://play-sh13.quklive.com/live/1753663315049013.m3u8?auth_key=2079618218-43a81f8882264506923871b82faf8326-0-1b2ac19fffa1a603da6cb6e67161ac25
+#EXTINF:-1 tvg-id="景德镇新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/景德镇新闻综合.png" group-title="江西",景德镇新闻综合
+http://play-sh.quklive.com/live/1724916607073321.m3u8
 
 #江苏
-#EXTINF:-1 tvg-id="江苏城市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏城市.png" group-title="江苏",江苏城市
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jscspro.m3u8
-#EXTINF:-1 tvg-id="江苏新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏新闻.png" group-title="江苏",江苏新闻
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jsxwpro.m3u8
-#EXTINF:-1 tvg-id="江苏综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏综艺.png" group-title="江苏",江苏综艺
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jszypro.m3u8
-#EXTINF:-1 tvg-id="江苏影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏影视.png" group-title="江苏",江苏影视
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jsyspro.m3u8
-#EXTINF:-1 tvg-id="江苏教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏教育.png" group-title="江苏",江苏教育
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jsjypro.m3u8
-#EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jsxxpro.m3u8
-#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/ymktpro.m3u8
-#EXTINF:-1 tvg-id="江苏国际" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏国际.png" group-title="江苏",江苏国际
-#EXTVLCOPT:http-referrer=https://api.chinaaudiovisual.cn
-https://zjcn-live-play.jstv.com/jsgjpro.m3u8
 #EXTINF:-1 tvg-id="苏州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/苏州新闻综合.png" group-title="江苏",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
 #EXTINF:-1 tvg-id="苏州社会经济" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/苏州社会经济.png" group-title="江苏",苏州社会经济
