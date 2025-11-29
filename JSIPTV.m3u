@@ -269,7 +269,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228847/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
 #EXTINF:-1 tvg-id="连云港生活频道" tvg-logo="/sdcard/TV/logo/连云港生活频道.png" group-title="江苏",连云港生活频道
 http://ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
-#EXTINF:-1 tvg-id="赣榆新闻综合" tvg-logo="/sdcard/TV/logo/赣榆新闻综合.png" group-title="江苏",赣榆新闻综合
+#EXTINF:-1 tvg-id="赣榆综合" tvg-logo="/sdcard/TV/logo/赣榆综合.png" group-title="江苏",赣榆综合
 http://ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
 #EXTINF:-1 tvg-id="东海综合" tvg-logo="/sdcard/TV/logo/东海综合.png" group-title="江苏",东海综合
 http://ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
