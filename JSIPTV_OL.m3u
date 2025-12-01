@@ -467,7 +467,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228641/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228706/index.m3u8
 #EXTINF:-1 tvg-id="相声联欢" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/相声联欢.png" group-title="数字",相声联欢
 http://ott.mobaibox.com/PLTV/3/224/3221228717/index.m3u8
-#EXTINF:-1 tvg-id="高分电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/电影.png" group-title="数字",高分电影
+#EXTINF:-1 tvg-id="高分电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/高分电影.png" group-title="数字",高分电影
 http://ott.mobaibox.com/PLTV/3/224/3221228644/index.m3u8
 #EXTINF:-1 tvg-id="第一院线" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/第一院线.png" group-title="数字",第一院线
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
