@@ -2,7 +2,7 @@
 
 #央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-logo="/sdcard/TV/logo/CCTV1.png" group-title="央视",CCTV-1 综合
-http://ott.mobaibox.com/PLTV/3/224/3221228732/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228581/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2" tvg-logo="/sdcard/TV/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3" tvg-logo="/sdcard/TV/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
@@ -273,8 +273,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
 #EXTINF:-1 tvg-id="东海综合" tvg-logo="/sdcard/TV/logo/东海综合.png" group-title="江苏",东海综合
 http://ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
-#EXTINF:-1 tvg-id="东海文娱" tvg-logo="/sdcard/TV/logo/东海文娱.png" group-title="江苏",东海文娱
-http://ott.mobaibox.com/PLTV/3/224/3221227739/index.m3u8
 #EXTINF:-1 tvg-id="灌南综合" tvg-logo="/sdcard/TV/logo/灌南综合.png" group-title="江苏",灌南综合
 http://ott.mobaibox.com/PLTV/3/224/3221228725/index.m3u8
 #EXTINF:-1 tvg-id="盐城新闻综合" tvg-logo="/sdcard/TV/logo/盐城新闻综合.png" group-title="江苏",盐城新闻综合
@@ -341,7 +339,7 @@ http://124.222.114.206/bjtv.php?id=bjkk
 http://ott.mobaibox.com/PLTV/3/224/3221228917/index.m3u8
 
 #广东
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="/sdcard/TV/logo/大湾区卫视.png" group-title="广东",大湾区卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="/sdcard/TV/logo/广东大湾区卫视.png" group-title="广东",大湾区卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="/sdcard/TV/logo/广州南国都市.png" group-title="广东",南国都市
 #EXTVLCOPT:http-referrer=https://www.gztv.com/
@@ -395,7 +393,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
 #EXTINF:-1 tvg-id="newtv海外剧场" tvg-logo="/sdcard/TV/logo/NewTV海外剧场.png" group-title="NewTV",海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
-#EXTINF:-1 tvg-id="newtv金牌综艺" tvg-logo="/sdcard/TV/logo/NewTV金牌综艺.png" group-title="NewTV",金牌综艺
+#EXTINF:-1 tvg-id="newtv谍战大剧" tvg-logo="/sdcard/TV/logo/NewTV谍战大剧.png" group-title="NewTV",谍战大剧
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
 #EXTINF:-1 tvg-id="newtv古装剧场" tvg-logo="/sdcard/TV/logo/NewTV古装剧场.png" group-title="NewTV",古装剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
@@ -435,7 +433,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
 #EXTINF:-1 tvg-id="流行音乐" tvg-logo="/sdcard/TV/logo/咪咕音乐.png" group-title="咪咕",流行音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8
-#EXTINF:-1 tvg-id="咪咕体育" tvg-logo="/sdcard/TV/logo/咪咕体育.png" group-title="咪咕",咪咕体育
+#EXTINF:-1 tvg-id="咪视界" tvg-logo="/sdcard/TV/logo/咪视界.png" group-title="咪咕",咪视界
 http://ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
 #EXTINF:-1 tvg-id="体坛同期声" tvg-logo="/sdcard/TV/logo/咪咕视频.png" group-title="咪咕",体坛同期声
 http://ott.mobaibox.com/PLTV/3/224/3221228713/index.m3u8
@@ -660,7 +658,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsu
 https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Wellbeing TV" tvg-logo="/sdcard/TV/logo/WellbeingTV.png" group-title="综合",Wellbeing TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="TV Blossom" tvg-logo="/sdcard/TV/logo/TVBlossom.png" group-title="综合",TV Blossom
+#EXTINF:-1 tvg-id="Blossom" tvg-logo="/sdcard/TV/logo/Blossom.png" group-title="综合",Blossom TV
 https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-logo="/sdcard/TV/logo/Arirang.png" group-title="综合",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -668,14 +666,14 @@ http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklis
 #影视
 #EXTINF:-1 tvg-id="AMC Networks" tvg-logo="/sdcard/TV/logo/AMCNetworks.png" group-title="影视",AMC Networks
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTime.png" group-title="影视",MyTime Movie
+#EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTimeMovie.png" group-title="影视",MyTime Movie
 https://mytime-tcl.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTime.png" group-title="影视",MyTime Movie UK
+#EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTimeMovie.png" group-title="影视",MyTime Movie UK
 https://mytimeuk-rakuten-samsung.amagi.tv/1080p/index.m3u8
 https://appletree-mytimeau-samsung.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="/sdcard/TV/logo/MovieSphere.png" group-title="影视",MovieSphere UK
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="/sdcard/TV/logo/MovieSphere.png" group-title="影视",MovieSphere by LionsGate
+#EXTINF:-1 tvg-id="MovieSpherebyLionsgate" tvg-logo="/sdcard/TV/logo/MovieSpherebyLionsgate.png" group-title="影视",MovieSphere by LionsGate
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Universal Action" tvg-logo="/sdcard/TV/logo/UniversalAction.png" group-title="影视",Universal Action
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
@@ -714,11 +712,11 @@ https://plextv.ott-channels.stingray.com/holidayscapes/master_1920x1080_4500kbps
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8
 #EXTINF:-1 tvg-id="StingrayClassicRock" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/91f1e420-bb65-3ca7-97bd-d01df1ad4df1/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Classica
+#EXTINF:-1 tvg-id="StingrayClassica" tvg-logo="/sdcard/TV/logo/StingrayClassica.png" group-title="音乐",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayCMusic" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray CMusic
+#EXTINF:-1 tvg-id="StingrayCMusic" tvg-logo="/sdcard/TV/logo/StingrayMovieMusic.png" group-title="音乐",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayDJAZZ" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray DJAZZ
+#EXTINF:-1 tvg-id="StingrayDJazz" tvg-logo="/sdcard/TV/logo/StingrayDJazz.png" group-title="音乐",Stingray DJazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
 #EXTINF:-1 tvg-id="StingrayEasyListening" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/8254a89c-49b0-3801-833e-c8a535b9d854/1790800/manifest.m3u8
@@ -782,12 +780,10 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-sa
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-logo="/sdcard/TV/logo/CNA.png" group-title="新闻",Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="RT News" tvg-logo="/sdcard/TV/logo/RT.png" group-title="新闻",RT News
+#EXTINF:-1 tvg-id="RT News" tvg-logo="/sdcard/TV/logo/RTNews.png" group-title="新闻",RT News
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="Wion News" tvg-logo="/sdcard/TV/logo/WION.png" group-title="新闻",Wion News
+#EXTINF:-1 tvg-id="Wion News" tvg-logo="/sdcard/TV/logo/WionNews.png" group-title="新闻",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
-#EXTINF:-1 tvg-id="Aljazeera" tvg-logo="/sdcard/TV/logo/Aljazeera.png" group-title="新闻",Aljazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 tvg-id="Yahoo Finance" tvg-logo="/sdcard/TV/logo/YahooFinance.png" group-title="新闻",Yahoo Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 https://yahoofinance-localnow.amagi.tv/1080p-cc/index.m3u8
