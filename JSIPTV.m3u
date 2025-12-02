@@ -576,6 +576,9 @@ https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_
 https://xplore-xumo.amagi.tv/1080p-cc/index.m3u8
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="Wild Stuff" tvg-logo="/sdcard/TV/logo/WildStuff.png" group-title="纪录",Wild Stuff
+https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
+https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 
 #时尚
 #EXTINF:-1 tvg-id="Fashion TV" tvg-logo="/sdcard/TV/logo/FashionTV.png" group-title="时尚",Fashion TV
@@ -649,16 +652,11 @@ https://foxsoul-vizio.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="theGrio TV" tvg-logo="/sdcard/TV/logo/TheGrio.png" group-title="综合",theGrio TV
 http://redbox-blacknewschannel-xumo.amagi.tv/1080p-cc/index.m3u8
 https://blacknewschannel-amazon.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Today Allday" tvg-logo="/sdcard/TV/logo/TodayAllday.png" group-title="综合",Today Allday
+#EXTINF:-1 tvg-id="Today All Day" tvg-logo="/sdcard/TV/logo/TodayAllDay.png" group-title="综合",Today All Day
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_channelId=88814559&ads.xumo_streamId=88814559
-#EXTINF:-1 tvg-id="Pulse TV" tvg-logo="/sdcard/TV/logo/PulseTV.png" group-title="综合",Pulse TV
-https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
-https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
 #EXTINF:-1 tvg-id="Wellbeing TV" tvg-logo="/sdcard/TV/logo/WellbeingTV.png" group-title="综合",Wellbeing TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="Blossom" tvg-logo="/sdcard/TV/logo/Blossom.png" group-title="综合",Blossom TV
-https://amg00437-amg00437c3-firetv-us-5409.playouts.now.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Arirang" tvg-logo="/sdcard/TV/logo/Arirang.png" group-title="综合",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 
@@ -686,7 +684,7 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-id="CineLife" tvg-logo="/sdcard/TV/logo/CineLife.png" group-title="影视",CineLife
 https://magnolia-cinelife.amagi.tv/playlist1080p.m3u8
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Circle" tvg-logo="/sdcard/TV/logo/Circle.png" group-title="影视",Circle
+#EXTINF:-1 tvg-id="Circle Country" tvg-logo="/sdcard/TV/logo/CircleCountry.png" group-title="影视",Circle Country
 https://circle-samsung.amagi.tv/playlist.m3u8
 https://circle-roku.amagi.tv/1080p-cc/index.m3u8
 https://circle-vizio.amagi.tv/1080p-cc/index.m3u8
