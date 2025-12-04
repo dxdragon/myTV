@@ -576,7 +576,7 @@ https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m
 https://aegis-cloudfront-1.tubi.video/0831606b-a9dc-4ee9-a381-52b0c9b59b2f/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Outdoor America" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/OutdoorAmerica.png" group-title="户外",Outdoor America
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="PursuitUP" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PursuitUP.png" group-title="户外",PursuitUP
+#EXTINF:-1 tvg-id="PursuitUP" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PursuitUp.png" group-title="户外",PursuitUP
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 
 #综合
