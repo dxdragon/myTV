@@ -279,8 +279,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228725/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
 #EXTINF:-1 tvg-id="盐城法制生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/盐城法制生活.png" group-title="江苏",盐城法制生活
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 tvg-id="大丰综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大丰综合.png" group-title="江苏",大丰综合
+#EXTINF:-1 tvg-id="大丰新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大丰新闻综合.png" group-title="江苏",大丰新闻综合
 https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+#EXTINF:-1 tvg-id="大丰生活综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大丰生活综艺.png" group-title="江苏",大丰生活综艺
+https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 #EXTINF:-1 tvg-id="宿迁综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宿迁综合.png" group-title="江苏",宿迁综合
 http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
 #EXTINF:-1 tvg-id="宿迁公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宿迁公共.png" group-title="江苏",宿迁公共
@@ -513,8 +515,10 @@ https://cdn6.101.qzz.io/163189/wxxw
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK31.png" group-title="港台",RTHK31
 http://cdn.163189.xyz/163189/rthk31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK32.png" group-title="港台",RTHK32
 http://cdn.163189.xyz/163189/rthk32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 #EXTINF:-1 tvg-id="HOY77" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HOY77.png" group-title="港台",HOY 77
 https://cdn6.101.qzz.io/163189/hoy
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ViuTV.png" group-title="港台",Viu TV

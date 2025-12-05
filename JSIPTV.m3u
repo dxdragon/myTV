@@ -279,8 +279,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228725/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
 #EXTINF:-1 tvg-id="盐城法制生活" tvg-logo="/sdcard/TV/logo/盐城法制生活.png" group-title="江苏",盐城法制生活
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 tvg-id="大丰综合" tvg-logo="/sdcard/TV/logo/大丰综合.png" group-title="江苏",大丰综合
+#EXTINF:-1 tvg-id="大丰新闻综合" tvg-logo="/sdcard/TV/logo/大丰新闻综合.png" group-title="江苏",大丰新闻综合
 https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
+#EXTINF:-1 tvg-id="大丰生活综艺" tvg-logo="/sdcard/TV/logo/大丰生活综艺.png" group-title="江苏",大丰生活综艺
+https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
 #EXTINF:-1 tvg-id="宿迁综合" tvg-logo="/sdcard/TV/logo/宿迁综合.png" group-title="江苏",宿迁综合
 http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
 #EXTINF:-1 tvg-id="宿迁公共" tvg-logo="/sdcard/TV/logo/宿迁公共.png" group-title="江苏",宿迁公共
