@@ -446,7 +446,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
 #EXTINF:-1 tvg-id="newtv军事评论" tvg-logo="/sdcard/TV/logo/NewTV军事评论.png" group-title="NewTV",军事评论
 http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品纪录" tvg-logo="/sdcard/TV/logo/NewTV精品纪录.png" group-title="NewTV",精品纪录
+#EXTINF:-1 tvg-id="newtv烽烟剧场" tvg-logo="/sdcard/TV/logo/NewTV烽烟剧场.png" group-title="NewTV",烽烟剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
 #EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-logo="/sdcard/TV/logo/NewTV爱情喜剧.png" group-title="NewTV",爱情喜剧
 http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
