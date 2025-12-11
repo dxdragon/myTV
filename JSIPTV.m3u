@@ -382,7 +382,7 @@ http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000026105/bestzb/inde
 #湖南
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖南金鹰纪实.png" group-title="湖南",金鹰纪实
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000031203/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="茶" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/logo/湖南茶频道.png" group-title="湖南",茶频道
+#EXTINF:-1 tvg-id="茶" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖南茶频道.png" group-title="湖南",茶频道
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000031209/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖南金鹰卡通.png" group-title="湖南",金鹰卡通
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000040024/bestzb/index.m3u8
