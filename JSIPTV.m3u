@@ -516,8 +516,6 @@ http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288004/bestzb/inde
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288008/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="宝宝动画" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",宝宝动画
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288002/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="戏曲精选" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",戏曲精选
-http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288012/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="热门综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",热门综艺
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288011/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="健康养生" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",健康养生
