@@ -1,658 +1,658 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/raw.githubusercontent.com/mytv-android/myEPG/master/output/epg.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #央视
-#EXTINF:-1 tvg-id="CCTV1" tvg-logo="/sdcard/TV/logo/CCTV1.png" group-title="央视",CCTV-1 综合
+#EXTINF:-1 tvg-id="CCTV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV1.png" group-title="央视",CCTV-1 综合
 http://ott.mobaibox.com/PLTV/3/224/3221228581/index.m3u8
-#EXTINF:-1 tvg-id="CCTV2" tvg-logo="/sdcard/TV/logo/CCTV2.png" group-title="央视",CCTV-2 财经
+#EXTINF:-1 tvg-id="CCTV2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV2.png" group-title="央视",CCTV-2 财经
 http://ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
-#EXTINF:-1 tvg-id="CCTV3" tvg-logo="/sdcard/TV/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
+#EXTINF:-1 tvg-id="CCTV3" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV3.png" group-title="央视",CCTV-3 综艺
 http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-logo="/sdcard/TV/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
+#EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-logo="/sdcard/TV/logo/CCTV5.png" group-title="央视",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV5.png" group-title="央视",CCTV-5 体育
 http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="/sdcard/TV/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="CCTV5+" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://ott.mobaibox.com/PLTV/3/224/3221227502/index.m3u8
-#EXTINF:-1 tvg-id="CCTV6" tvg-logo="/sdcard/TV/logo/CCTV6.png" group-title="央视",CCTV-6 电影
+#EXTINF:-1 tvg-id="CCTV6" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV6.png" group-title="央视",CCTV-6 电影
 http://ott.mobaibox.com/PLTV/3/224/3221228516/index.m3u8
-#EXTINF:-1 tvg-id="CCTV7" tvg-logo="/sdcard/TV/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
+#EXTINF:-1 tvg-id="CCTV7" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV7.png" group-title="央视",CCTV-7 国防军事
 http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8" tvg-logo="/sdcard/TV/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
+#EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
 http://ott.mobaibox.com/PLTV/3/224/3221228578/index.m3u8
-#EXTINF:-1 tvg-id="CCTV9" tvg-logo="/sdcard/TV/logo/CCTV9.png" group-title="央视",CCTV-9 纪录
+#EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV9.png" group-title="央视",CCTV-9 纪录
 http://ott.mobaibox.com/PLTV/3/224/3221227614/index.m3u8
-#EXTINF:-1 tvg-id="CCTV10" tvg-logo="/sdcard/TV/logo/CCTV10.png" group-title="央视",CCTV-10 科教
+#EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV10.png" group-title="央视",CCTV-10 科教
 http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
-#EXTINF:-1 tvg-id="CCTV11" tvg-logo="/sdcard/TV/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
+#EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
 http://ott.mobaibox.com/PLTV/3/224/3221227720/index.m3u8
-#EXTINF:-1 tvg-id="CCTV12" tvg-logo="/sdcard/TV/logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
+#EXTINF:-1 tvg-id="CCTV12" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV12.png" group-title="央视",CCTV-12 社会与法
 http://ott.mobaibox.com/PLTV/3/224/3221227637/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-logo="/sdcard/TV/logo/CCTV13.png" group-title="央视",CCTV-13 新闻
+#EXTINF:-1 tvg-id="CCTV13" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://ott.mobaibox.com/PLTV/3/224/3221227387/index.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-logo="/sdcard/TV/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
+#EXTINF:-1 tvg-id="CCTV14" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV14.png" group-title="央视",CCTV-14 少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227693/index.m3u8
-#EXTINF:-1 tvg-id="CCTV15" tvg-logo="/sdcard/TV/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
+#EXTINF:-1 tvg-id="CCTV15" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228622/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-logo="/sdcard/TV/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
+#EXTINF:-1 tvg-id="CCTV16" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://ott.mobaibox.com/PLTV/3/224/3221228314/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-logo="/sdcard/TV/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
+#EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="/sdcard/TV/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://ott.mobaibox.com/PLTV/3/224/3221228472/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8K" tvg-logo="/sdcard/TV/logo/CCTV8K.png" group-title="央视",CCTV-8K 超高清
+#EXTINF:-1 tvg-id="CCTV8K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 http://ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
-#EXTINF:-1 tvg-id="第一剧场" tvg-logo="/sdcard/TV/logo/CCTV第一剧场.png" group-title="央视",CCTV-第一剧场
+#EXTINF:-1 tvg-id="第一剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV第一剧场.png" group-title="央视",CCTV-第一剧场
 http://ott.mobaibox.com/PLTV/3/224/3221228659/index.m3u8
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="/sdcard/TV/logo/CCTV怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
+#EXTINF:-1 tvg-id="怀旧剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV怀旧剧场.png" group-title="央视",CCTV-怀旧剧场
 http://ott.mobaibox.com/PLTV/3/224/3221228671/index.m3u8
-#EXTINF:-1 tvg-id="风云剧场" tvg-logo="/sdcard/TV/logo/CCTV风云剧场.png" group-title="央视",CCTV-风云剧场
+#EXTINF:-1 tvg-id="风云剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV风云剧场.png" group-title="央视",CCTV-风云剧场
 http://ott.mobaibox.com/PLTV/3/224/3221228662/index.m3u8
-#EXTINF:-1 tvg-id="风云音乐" tvg-logo="/sdcard/TV/logo/CCTV风云音乐.png" group-title="央视",CCTV-风云音乐
+#EXTINF:-1 tvg-id="风云音乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV风云音乐.png" group-title="央视",CCTV-风云音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
-#EXTINF:-1 tvg-id="风云足球" tvg-logo="/sdcard/TV/logo/CCTV风云足球.png" group-title="央视",CCTV-风云足球
+#EXTINF:-1 tvg-id="风云足球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV风云足球.png" group-title="央视",CCTV-风云足球
 http://ott.mobaibox.com/PLTV/3/224/3221228668/index.m3u8
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-logo="/sdcard/TV/logo/CCTV高尔夫网球.png" group-title="央视",CCTV-高尔夫·网球
+#EXTINF:-1 tvg-id="高尔夫网球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV高尔夫网球.png" group-title="央视",CCTV-高尔夫·网球
 http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
-#EXTINF:-1 tvg-id="女性时尚" tvg-logo="/sdcard/TV/logo/CCTV女性时尚.png" group-title="央视",CCTV-女性时尚
+#EXTINF:-1 tvg-id="女性时尚" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV女性时尚.png" group-title="央视",CCTV-女性时尚
 http://ott.mobaibox.com/PLTV/3/224/3221228674/index.m3u8
-#EXTINF:-1 tvg-id="世界地理" tvg-logo="/sdcard/TV/logo/CCTV世界地理.png" group-title="央视",CCTV-世界地理
+#EXTINF:-1 tvg-id="世界地理" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV世界地理.png" group-title="央视",CCTV-世界地理
 http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
-#EXTINF:-1 tvg-id="央视台球" tvg-logo="/sdcard/TV/logo/CCTV央视台球.png" group-title="央视",CCTV-央视台球
+#EXTINF:-1 tvg-id="央视台球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV央视台球.png" group-title="央视",CCTV-央视台球
 http://ott.mobaibox.com/PLTV/3/224/3221228683/index.m3u8
-#EXTINF:-1 tvg-id="央视文化精品" tvg-logo="/sdcard/TV/logo/CCTV央视文化精品.png" group-title="央视",CCTV-央视文化精品
+#EXTINF:-1 tvg-id="央视文化精品" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV央视文化精品.png" group-title="央视",CCTV-央视文化精品
 http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
-#EXTINF:-1 tvg-id="兵器科技" tvg-logo="/sdcard/TV/logo/CCTV兵器科技.png" group-title="央视",CCTV-兵器科技
+#EXTINF:-1 tvg-id="兵器科技" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV兵器科技.png" group-title="央视",CCTV-兵器科技
 http://ott.mobaibox.com/PLTV/3/224/3221228686/index.m3u8
-#EXTINF:-1 tvg-id="电视指南" tvg-logo="/sdcard/TV/logo/CCTV电视指南.png" group-title="央视",CCTV-电视指南
+#EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV电视指南.png" group-title="央视",CCTV-电视指南
 http://ott.mobaibox.com/PLTV/3/224/3221228689/index.m3u8
-#EXTINF:-1 tvg-id="早期教育" tvg-logo="/sdcard/TV/logo/CETV早期教育.png" group-title="央视",CETV-早期教育
+#EXTINF:-1 tvg-id="早期教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV早期教育.png" group-title="央视",CETV-早期教育
 http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
-#EXTINF:-1 tvg-id="CETV1" tvg-logo="/sdcard/TV/logo/CETV1.png" group-title="央视",CETV-1 综合教育
+#EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV1.png" group-title="央视",CETV-1 综合教育
 http://ott.mobaibox.com/PLTV/3/224/3221225909/index.m3u8
-#EXTINF:-1 tvg-id="CETV4" tvg-logo="/sdcard/TV/logo/CETV4.png" group-title="央视",CETV-4 职业教育
+#EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV4.png" group-title="央视",CETV-4 职业教育
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031126/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-logo="/sdcard/TV/logo/CGTN.png" group-title="央视",CGTN-新闻
+#EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN.png" group-title="央视",CGTN-新闻
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="/sdcard/TV/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
 https://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
-#EXTINF:-1 tvg-id="CGTN西语" tvg-logo="/sdcard/TV/logo/CGTN西语.png" group-title="央视",CGTN-西语
+#EXTINF:-1 tvg-id="CGTN西语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN西语.png" group-title="央视",CGTN-西语
 https://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN法语" tvg-logo="/sdcard/TV/logo/CGTN法语.png" group-title="央视",CGTN-法语
+#EXTINF:-1 tvg-id="CGTN法语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN法语.png" group-title="央视",CGTN-法语
 https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-logo="/sdcard/TV/logo/CGTN阿语.png" group-title="央视",CGTN-阿语
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN阿语.png" group-title="央视",CGTN-阿语
 https://arabic-liveali.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-logo="/sdcard/TV/logo/CGTN俄语.png" group-title="央视",CGTN-俄语
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN俄语.png" group-title="央视",CGTN-俄语
 https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
-#EXTINF:-1 tvg-id="AI直播" tvg-logo="/sdcard/TV/logo/AI直播.png" group-title="央视",AI直播
+#EXTINF:-1 tvg-id="AI直播" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AI直播.png" group-title="央视",AI直播
 http://ott.mobaibox.com/PLTV/3/224/3221228873/index.m3u8
-#EXTINF:-1 tvg-id="中国天气" tvg-logo="/sdcard/TV/logo/中国天气.png" group-title="央视",中国天气
+#EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中国天气.png" group-title="央视",中国天气
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000005000031974/bestzb/index.m3u8
 
 #卫视
-#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="/sdcard/TV/logo/安徽卫视.png" group-title="卫视",安徽卫视
+#EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/安徽卫视.png" group-title="卫视",安徽卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227558/index.m3u8
-#EXTINF:-1 tvg-id="北京卫视" tvg-logo="/sdcard/TV/logo/北京卫视4K.png" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-id="北京卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京卫视4K.png" group-title="卫视",北京卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228890/index.m3u8
-#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="/sdcard/TV/logo/重庆卫视.png" group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-id="重庆卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/重庆卫视.png" group-title="卫视",重庆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228133/index.m3u8
-#EXTINF:-1 tvg-id="东方卫视" tvg-logo="/sdcard/TV/logo/东方卫视4K.png" group-title="卫视",东方卫视
+#EXTINF:-1 tvg-id="东方卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/东方卫视4K.png" group-title="卫视",东方卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228956/index.m3u8
-#EXTINF:-1 tvg-id="东南卫视" tvg-logo="/sdcard/TV/logo/东南卫视.png" group-title="卫视",东南卫视
+#EXTINF:-1 tvg-id="东南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/东南卫视.png" group-title="卫视",东南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227670/index.m3u8
-#EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="/sdcard/TV/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
+#EXTINF:-1 tvg-id="甘肃卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
-#EXTINF:-1 tvg-id="广东卫视" tvg-logo="/sdcard/TV/logo/广东卫视4K.png" group-title="卫视",广东卫视
+#EXTINF:-1 tvg-id="广东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东卫视4K.png" group-title="卫视",广东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228838/index.m3u8
-#EXTINF:-1 tvg-id="广西卫视" tvg-logo="/sdcard/TV/logo/广西卫视.png" group-title="卫视",广西卫视
+#EXTINF:-1 tvg-id="广西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广西卫视.png" group-title="卫视",广西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228183/index.m3u8
-#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="/sdcard/TV/logo/贵州卫视.png" group-title="卫视",贵州卫视
+#EXTINF:-1 tvg-id="贵州卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/贵州卫视.png" group-title="卫视",贵州卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228136/index.m3u8
-#EXTINF:-1 tvg-id="海南卫视" tvg-logo="/sdcard/TV/logo/海南卫视.png" group-title="卫视",海南卫视
+#EXTINF:-1 tvg-id="海南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/海南卫视.png" group-title="卫视",海南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228101/index.m3u8
-#EXTINF:-1 tvg-id="河北卫视" tvg-logo="/sdcard/TV/logo/河北卫视.png" group-title="卫视",河北卫视
+#EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河北卫视.png" group-title="卫视",河北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228106/index.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="/sdcard/TV/logo/河南卫视.png" group-title="卫视",河南卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南卫视.png" group-title="卫视",河南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228221/index.m3u8
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="/sdcard/TV/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227514/index.m3u8
-#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="/sdcard/TV/logo/湖北卫视.png" group-title="卫视",湖北卫视
+#EXTINF:-1 tvg-id="湖北卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖北卫视.png" group-title="卫视",湖北卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227479/index.m3u8
-#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="/sdcard/TV/logo/湖南卫视4K.png" group-title="卫视",湖南卫视
+#EXTINF:-1 tvg-id="湖南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖南卫视4K.png" group-title="卫视",湖南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228883/index.m3u8
-#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="/sdcard/TV/logo/吉林卫视.png" group-title="卫视",吉林卫视
+#EXTINF:-1 tvg-id="吉林卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉林卫视.png" group-title="卫视",吉林卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228130/index.m3u8
-#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="/sdcard/TV/logo/江苏卫视4K.png" group-title="卫视",江苏卫视
+#EXTINF:-1 tvg-id="江苏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏卫视4K.png" group-title="卫视",江苏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228897/index.m3u8
-#EXTINF:-1 tvg-id="江西卫视" tvg-logo="/sdcard/TV/logo/江西卫视.png" group-title="卫视",江西卫视
+#EXTINF:-1 tvg-id="江西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江西卫视.png" group-title="卫视",江西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228109/index.m3u8
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="/sdcard/TV/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227485/index.m3u8
-#EXTINF:-1 tvg-id="内蒙古卫视" tvg-logo="/sdcard/TV/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
 http://ott.mobaibox.com/PLTV/3/224/3221225836/index.m3u8
-#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="/sdcard/TV/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221225842/index.m3u8
-#EXTINF:-1 tvg-id="青海卫视" tvg-logo="/sdcard/TV/logo/青海卫视.png" group-title="卫视",青海卫视
+#EXTINF:-1 tvg-id="青海卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/青海卫视.png" group-title="卫视",青海卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227554/index.m3u8
-#EXTINF:-1 tvg-id="山东卫视" tvg-logo="/sdcard/TV/logo/山东卫视4K.png" group-title="卫视",山东卫视
+#EXTINF:-1 tvg-id="山东卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山东卫视4K.png" group-title="卫视",山东卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228880/index.m3u8
-#EXTINF:-1 tvg-id="山西卫视" tvg-logo="/sdcard/TV/logo/山西卫视.png" group-title="卫视",山西卫视
+#EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山西卫视.png" group-title="卫视",山西卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228870/index.m3u8
-#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="/sdcard/TV/logo/陕西卫视.png" group-title="卫视",陕西卫视
+#EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://ott.mobaibox.com/PLTV/4/224/3221227022/index.m3u8
-#EXTINF:-1 tvg-id="四川卫视" tvg-logo="/sdcard/TV/logo/四川卫视4K.png" group-title="卫视",四川卫视
+#EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/四川卫视4K.png" group-title="卫视",四川卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228877/index.m3u8
-#EXTINF:-1 tvg-id="天津卫视" tvg-logo="/sdcard/TV/logo/天津卫视.png" group-title="卫视",天津卫视
+#EXTINF:-1 tvg-id="天津卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/天津卫视.png" group-title="卫视",天津卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227488/index.m3u8
-#EXTINF:-1 tvg-id="新疆卫视" tvg-logo="/sdcard/TV/logo/新疆卫视.png" group-title="卫视",新疆卫视
+#EXTINF:-1 tvg-id="新疆卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新疆卫视.png" group-title="卫视",新疆卫视
 http://ott.mobaibox.com/PLTV/3/224/3221225844/index.m3u8
-#EXTINF:-1 tvg-id="云南卫视" tvg-logo="/sdcard/TV/logo/云南卫视.png" group-title="卫视",云南卫视
+#EXTINF:-1 tvg-id="云南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/云南卫视.png" group-title="卫视",云南卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227571/index.m3u8
-#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="/sdcard/TV/logo/浙江卫视4K.png" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-id="浙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江卫视4K.png" group-title="卫视",浙江卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228900/index.m3u8
-#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="/sdcard/TV/logo/深圳卫视4K.png" group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-id="深圳卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/深圳卫视4K.png" group-title="卫视",深圳卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228835/index.m3u8
-#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="/sdcard/TV/logo/兵团卫视.png" group-title="卫视",兵团卫视
+#EXTINF:-1 tvg-id="兵团卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/兵团卫视.png" group-title="卫视",兵团卫视
 http://ott.mobaibox.com/PLTV/3/224/3221227025/index.m3u8
-#EXTINF:-1 tvg-id="三沙卫视" tvg-logo="/sdcard/TV/logo/三沙卫视.png" group-title="卫视",三沙卫视
+#EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228626/index.m3u8
-#EXTINF:-1 tvg-id="厦门卫视" tvg-logo="/sdcard/TV/logo/厦门卫视.png" group-title="卫视",厦门卫视
+#EXTINF:-1 tvg-id="厦门卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/厦门卫视.png" group-title="卫视",厦门卫视
 http://ott.mobaibox.com/PLTV/3/224/3221226996/index.m3u8
-#EXTINF:-1 tvg-id="西藏卫视" tvg-logo="/sdcard/TV/logo/西藏卫视.png" group-title="卫视",西藏卫视
+#EXTINF:-1 tvg-id="西藏卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/西藏卫视.png" group-title="卫视",西藏卫视
 http://ott.mobaibox.com/PLTV/3/224/3221226376/index.m3u8
 
 #江苏
-#EXTINF:-1 tvg-id="江苏城市" tvg-logo="/sdcard/TV/logo/江苏城市.png" group-title="江苏",江苏城市
+#EXTINF:-1 tvg-id="江苏城市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏城市.png" group-title="江苏",江苏城市
 http://ott.mobaibox.com/PLTV/3/224/3221225929/index.m3u8
-#EXTINF:-1 tvg-id="江苏新闻" tvg-logo="/sdcard/TV/logo/江苏新闻.png" group-title="江苏",江苏新闻
+#EXTINF:-1 tvg-id="江苏新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏新闻.png" group-title="江苏",江苏新闻
 http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
-#EXTINF:-1 tvg-id="江苏综艺" tvg-logo="/sdcard/TV/logo/江苏综艺.png" group-title="江苏",江苏综艺
+#EXTINF:-1 tvg-id="江苏综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏综艺.png" group-title="江苏",江苏综艺
 http://ott.mobaibox.com/PLTV/3/224/3221225931/index.m3u8
-#EXTINF:-1 tvg-id="江苏影视" tvg-logo="/sdcard/TV/logo/江苏影视.png" group-title="江苏",江苏影视
+#EXTINF:-1 tvg-id="江苏影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏影视.png" group-title="江苏",江苏影视
 http://ott.mobaibox.com/PLTV/3/224/3221228728/index.m3u8
-#EXTINF:-1 tvg-id="江苏教育" tvg-logo="/sdcard/TV/logo/江苏教育.png" group-title="江苏",江苏教育
+#EXTINF:-1 tvg-id="江苏教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏教育.png" group-title="江苏",江苏教育
 http://ott.mobaibox.com/PLTV/3/224/3221228613/index.m3u8
-#EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="/sdcard/TV/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
 http://ott.mobaibox.com/PLTV/3/224/3221225935/index.m3u8
-#EXTINF:-1 tvg-id="南京新闻综合" tvg-logo="/sdcard/TV/logo/南京新闻综合.png" group-title="江苏",南京新闻综合
+#EXTINF:-1 tvg-id="南京新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南京新闻综合.png" group-title="江苏",南京新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227213/index.m3u8
-#EXTINF:-1 tvg-id="南京影视" tvg-logo="/sdcard/TV/logo/南京影视.png" group-title="江苏",南京影视
+#EXTINF:-1 tvg-id="南京影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南京影视.png" group-title="江苏",南京影视
 http://ott.mobaibox.com/PLTV/3/224/3221227719/index.m3u8
-#EXTINF:-1 tvg-id="南京十八生活" tvg-logo="/sdcard/TV/logo/南京十八生活.png" group-title="江苏",南京十八·生活
+#EXTINF:-1 tvg-id="南京十八生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南京十八生活.png" group-title="江苏",南京十八·生活
 http://ott.mobaibox.com/PLTV/3/224/3221227178/index.m3u8
-#EXTINF:-1 tvg-id="南京文旅纪录" tvg-logo="/sdcard/TV/logo/南京文旅纪录.png" group-title="江苏",南京文旅纪录
+#EXTINF:-1 tvg-id="南京文旅纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南京文旅纪录.png" group-title="江苏",南京文旅纪录
 http://ott.mobaibox.com/PLTV/3/224/3221227722/index.m3u8
-#EXTINF:-1 tvg-id="南京教科" tvg-logo="/sdcard/TV/logo/南京教科.png" group-title="江苏",南京教科
+#EXTINF:-1 tvg-id="南京教科" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南京教科.png" group-title="江苏",南京教科
 http://ott.mobaibox.com/PLTV/3/224/3221227194/index.m3u8
-#EXTINF:-1 tvg-id="南京少儿" tvg-logo="/sdcard/TV/logo/南京少儿.png" group-title="江苏",南京少儿
+#EXTINF:-1 tvg-id="南京少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南京少儿.png" group-title="江苏",南京少儿
 http://ott.mobaibox.com/PLTV/3/224/3221227733/index.m3u8
-#EXTINF:-1 tvg-id="苏州新闻综合" tvg-logo="/sdcard/TV/logo/苏州新闻综合.png" group-title="江苏",苏州新闻综合
+#EXTINF:-1 tvg-id="苏州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/苏州新闻综合.png" group-title="江苏",苏州新闻综合
 https://live-auth.51kandianshi.com/szgd/csztv1.m3u8
-#EXTINF:-1 tvg-id="苏州社会经济" tvg-logo="/sdcard/TV/logo/苏州社会经济.png" group-title="江苏",苏州社会经济
+#EXTINF:-1 tvg-id="苏州社会经济" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/苏州社会经济.png" group-title="江苏",苏州社会经济
 https://live-auth.51kandianshi.com/szgd/csztv2.m3u8
-#EXTINF:-1 tvg-id="苏州4K" tvg-logo="/sdcard/TV/logo/苏州4K.png" group-title="江苏",苏州4K
+#EXTINF:-1 tvg-id="苏州4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/苏州4K.png" group-title="江苏",苏州4K
 https://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 https://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="昆山新闻综合" tvg-logo="/sdcard/TV/logo/昆山新闻综合.png" group-title="江苏",昆山新闻综合
+#EXTINF:-1 tvg-id="昆山新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/昆山新闻综合.png" group-title="江苏",昆山新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228820/index.m3u8
-#EXTINF:-1 tvg-id="无锡新闻综合" tvg-logo="/sdcard/TV/logo/无锡新闻综合.png" group-title="江苏",无锡新闻综合
+#EXTINF:-1 tvg-id="无锡新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/无锡新闻综合.png" group-title="江苏",无锡新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228853/index.m3u8
-#EXTINF:-1 tvg-id="无锡都市资讯" tvg-logo="/sdcard/TV/logo/无锡都市资讯.png" group-title="江苏",无锡都市资讯
+#EXTINF:-1 tvg-id="无锡都市资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/无锡都市资讯.png" group-title="江苏",无锡都市资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228914/index.m3u8
-#EXTINF:-1 tvg-id="常州新闻" tvg-logo="/sdcard/TV/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
+#EXTINF:-1 tvg-id="常州新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/常州新闻综合.png" group-title="江苏",常州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227752/index.m3u8
-#EXTINF:-1 tvg-id="常州都市" tvg-logo="/sdcard/TV/logo/常州都市.png" group-title="江苏",常州都市
+#EXTINF:-1 tvg-id="常州都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/常州都市.png" group-title="江苏",常州都市
 http://ott.mobaibox.com/PLTV/3/224/3221227755/index.m3u8
-#EXTINF:-1 tvg-id="常州生活" tvg-logo="/sdcard/TV/logo/常州生活.png" group-title="江苏",常州生活
+#EXTINF:-1 tvg-id="常州生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/常州生活.png" group-title="江苏",常州生活
 http://ott.mobaibox.com/PLTV/3/224/3221227816/index.m3u8
-#EXTINF:-1 tvg-id="金坛综合" tvg-logo="/sdcard/TV/logo/金坛综合.png" group-title="江苏",金坛综合
+#EXTINF:-1 tvg-id="金坛综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/金坛综合.png" group-title="江苏",金坛综合
 http://ott.mobaibox.com/PLTV/3/224/3221228846/index.m3u8
-#EXTINF:-1 tvg-id="南通新闻综合" tvg-logo="/sdcard/TV/logo/南通新闻综合.png" group-title="江苏",南通新闻综合
+#EXTINF:-1 tvg-id="南通新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南通新闻综合.png" group-title="江苏",南通新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228462/index.m3u8
-#EXTINF:-1 tvg-id="南通社教" tvg-logo="/sdcard/TV/logo/南通社教.png" group-title="江苏",南通社教
+#EXTINF:-1 tvg-id="南通社教" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南通社教.png" group-title="江苏",南通社教
 http://ott.mobaibox.com/PLTV/3/224/3221228448/index.m3u8
-#EXTINF:-1 tvg-id="南通公共崇川" tvg-logo="/sdcard/TV/logo/南通公共崇川.png" group-title="江苏",南通公共·崇川
+#EXTINF:-1 tvg-id="南通公共崇川" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南通公共崇川.png" group-title="江苏",南通公共·崇川
 http://ott.mobaibox.com/PLTV/3/224/3221228451/index.m3u8
-#EXTINF:-1 tvg-id="扬州江都" tvg-logo="/sdcard/TV/logo/扬州江都.png" group-title="江苏",扬州江都
+#EXTINF:-1 tvg-id="扬州江都" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/扬州江都.png" group-title="江苏",扬州江都
 http://ott.mobaibox.com/PLTV/3/224/3221228323/index.m3u8
-#EXTINF:-1 tvg-id="宝应新闻综合" tvg-logo="/sdcard/TV/logo/宝应新闻综合.png" group-title="江苏",宝应新闻综合
+#EXTINF:-1 tvg-id="宝应新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宝应新闻综合.png" group-title="江苏",宝应新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228007/index.m3u8
-#EXTINF:-1 tvg-id="镇江新闻综合" tvg-logo="/sdcard/TV/logo/镇江新闻综合.png" group-title="江苏",镇江新闻综合
+#EXTINF:-1 tvg-id="镇江新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/镇江新闻综合.png" group-title="江苏",镇江新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228246/index.m3u8
-#EXTINF:-1 tvg-id="镇江社会民生" tvg-logo="/sdcard/TV/logo/镇江社会民生.png" group-title="江苏",镇江社会民生
+#EXTINF:-1 tvg-id="镇江社会民生" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/镇江社会民生.png" group-title="江苏",镇江社会民生
 http://ott.mobaibox.com/PLTV/3/224/3221227325/index.m3u8
-#EXTINF:-1 tvg-id="镇江城市资讯" tvg-logo="/sdcard/TV/logo/镇江城市资讯.png" group-title="江苏",镇江城市资讯
+#EXTINF:-1 tvg-id="镇江城市资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/镇江城市资讯.png" group-title="江苏",镇江城市资讯
 http://ott.mobaibox.com/PLTV/3/224/3221228208/index.m3u8
-#EXTINF:-1 tvg-id="泰州一套" tvg-logo="/sdcard/TV/logo/泰州新闻综合.png" group-title="江苏",泰州新闻综合
+#EXTINF:-1 tvg-id="泰州一套" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/泰州新闻综合.png" group-title="江苏",泰州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228209/index.m3u8
-#EXTINF:-1 tvg-id="泰州二套" tvg-logo="/sdcard/TV/logo/泰州经济生活.png" group-title="江苏",泰州经济生活
+#EXTINF:-1 tvg-id="泰州二套" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/泰州经济生活.png" group-title="江苏",泰州经济生活
 http://ott.mobaibox.com/PLTV/3/224/3221228212/index.m3u8
-#EXTINF:-1 tvg-id="泰州三套" tvg-logo="/sdcard/TV/logo/泰州影视娱乐.png" group-title="江苏",泰州影视娱乐
+#EXTINF:-1 tvg-id="泰州三套" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/泰州影视娱乐.png" group-title="江苏",泰州影视娱乐
 http://ott.mobaibox.com/PLTV/3/224/3221228100/index.m3u8
-#EXTINF:-1 tvg-id="徐州新闻综合" tvg-logo="/sdcard/TV/logo/徐州新闻综合.png" group-title="江苏",徐州新闻综合
+#EXTINF:-1 tvg-id="徐州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/徐州新闻综合.png" group-title="江苏",徐州新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221225945/index.m3u8
-#EXTINF:-1 tvg-id="徐州经济生活" tvg-logo="/sdcard/TV/logo/徐州经济生活.png" group-title="江苏",徐州经济生活
+#EXTINF:-1 tvg-id="徐州经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/徐州经济生活.png" group-title="江苏",徐州经济生活
 http://ott.mobaibox.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-id="徐州文艺影视" tvg-logo="/sdcard/TV/logo/徐州文艺影视.png" group-title="江苏",徐州文艺影视
+#EXTINF:-1 tvg-id="徐州文艺影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/徐州文艺影视.png" group-title="江苏",徐州文艺影视
 http://ott.mobaibox.com/PLTV/3/224/3221225949/index.m3u8
-#EXTINF:-1 tvg-id="徐州公共" tvg-logo="/sdcard/TV/logo/徐州公共.png" group-title="江苏",徐州公共
+#EXTINF:-1 tvg-id="徐州公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/徐州公共.png" group-title="江苏",徐州公共
 http://ott.mobaibox.com/PLTV/3/224/3221225951/index.m3u8
-#EXTINF:-1 tvg-id="邳州综合" tvg-logo="/sdcard/TV/logo/邳州综合.png" group-title="江苏",邳州综合
+#EXTINF:-1 tvg-id="邳州综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邳州综合.png" group-title="江苏",邳州综合
 http://ott.mobaibox.com/PLTV/3/224/3221227576/index.m3u8
-#EXTINF:-1 tvg-id="新沂综合" tvg-logo="/sdcard/TV/logo/新沂综合.png" group-title="江苏",新沂综合
+#EXTINF:-1 tvg-id="新沂综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新沂综合.png" group-title="江苏",新沂综合
 http://ott.mobaibox.com/PLTV/3/224/3221227289/index.m3u8
-#EXTINF:-1 tvg-id="沛县新闻综合" tvg-logo="/sdcard/TV/logo/沛县新闻综合.png" group-title="江苏",沛县新闻综合
+#EXTINF:-1 tvg-id="沛县新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/沛县新闻综合.png" group-title="江苏",沛县新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227678/index.m3u8
-#EXTINF:-1 tvg-id="沛县经济生活" tvg-logo="/sdcard/TV/logo/沛县经济生活.png" group-title="江苏",沛县经济生活
+#EXTINF:-1 tvg-id="沛县经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/沛县经济生活.png" group-title="江苏",沛县经济生活
 http://ott.mobaibox.com/PLTV/3/224/3221227611/index.m3u8
-#EXTINF:-1 tvg-id="沛县文艺影视" tvg-logo="/sdcard/TV/logo/沛县文艺影视.png" group-title="江苏",沛县文艺影视
+#EXTINF:-1 tvg-id="沛县文艺影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/沛县文艺影视.png" group-title="江苏",沛县文艺影视
 http://ott.mobaibox.com/PLTV/3/224/3221227681/index.m3u8
-#EXTINF:-1 tvg-id="睢宁综合" tvg-logo="/sdcard/TV/logo/睢宁综合.png" group-title="江苏",睢宁综合
+#EXTINF:-1 tvg-id="睢宁综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/睢宁综合.png" group-title="江苏",睢宁综合
 http://ott.mobaibox.com/PLTV/3/224/3221227706/index.m3u8
-#EXTINF:-1 tvg-id="睢宁三农" tvg-logo="/sdcard/TV/logo/睢宁三农.png" group-title="江苏",睢宁三农
+#EXTINF:-1 tvg-id="睢宁三农" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/睢宁三农.png" group-title="江苏",睢宁三农
 http://ott.mobaibox.com/PLTV/3/224/3221227709/index.m3u8
-#EXTINF:-1 tvg-id="睢宁资讯" tvg-logo="/sdcard/TV/logo/睢宁资讯.png" group-title="江苏",睢宁资讯
+#EXTINF:-1 tvg-id="睢宁资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/睢宁资讯.png" group-title="江苏",睢宁资讯
 http://ott.mobaibox.com/PLTV/3/224/3221227712/index.m3u8
-#EXTINF:-1 tvg-id="铜山综合" tvg-logo="/sdcard/TV/logo/铜山综合.png" group-title="江苏",铜山综合
+#EXTINF:-1 tvg-id="铜山综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/铜山综合.png" group-title="江苏",铜山综合
 http://ott.mobaibox.com/PLTV/3/224/3221228152/index.m3u8
-#EXTINF:-1 tvg-id="铜山三农" tvg-logo="/sdcard/TV/logo/铜山三农.png" group-title="江苏",铜山三农
+#EXTINF:-1 tvg-id="铜山三农" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/铜山三农.png" group-title="江苏",铜山三农
 http://ott.mobaibox.com/PLTV/3/224/3221228081/index.m3u8
-#EXTINF:-1 tvg-id="铜山影视" tvg-logo="/sdcard/TV/logo/铜山影视.png" group-title="江苏",铜山影视
+#EXTINF:-1 tvg-id="铜山影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/铜山影视.png" group-title="江苏",铜山影视
 http://ott.mobaibox.com/PLTV/3/224/3221228055/index.m3u8
-#EXTINF:-1 tvg-id="铜山生活" tvg-logo="/sdcard/TV/logo/铜山生活.png" group-title="江苏",铜山生活
+#EXTINF:-1 tvg-id="铜山生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/铜山生活.png" group-title="江苏",铜山生活
 http://ott.mobaibox.com/PLTV/3/224/3221228249/index.m3u8
-#EXTINF:-1 tvg-id="淮安综合" tvg-logo="/sdcard/TV/logo/淮安综合.png" group-title="江苏",淮安综合
+#EXTINF:-1 tvg-id="淮安综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/淮安综合.png" group-title="江苏",淮安综合
 http://ott.mobaibox.com/PLTV/3/224/3221228834/index.m3u8
-#EXTINF:-1 tvg-id="淮安公共" tvg-logo="/sdcard/TV/logo/淮安公共.png" group-title="江苏",淮安公共
+#EXTINF:-1 tvg-id="淮安公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/淮安公共.png" group-title="江苏",淮安公共
 http://ott.mobaibox.com/PLTV/3/224/3221228840/index.m3u8
-#EXTINF:-1 tvg-id="淮安影视娱乐" tvg-logo="/sdcard/TV/logo/淮安影视娱乐.png" group-title="江苏",淮安影视娱乐
+#EXTINF:-1 tvg-id="淮安影视娱乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/淮安影视娱乐.png" group-title="江苏",淮安影视娱乐
 http://ott.mobaibox.com/PLTV/3/224/3221228837/index.m3u8
-#EXTINF:-1 tvg-id="盱眙综合" tvg-logo="/sdcard/TV/logo/盱眙综合.png" group-title="江苏",盱眙综合
+#EXTINF:-1 tvg-id="盱眙综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/盱眙综合.png" group-title="江苏",盱眙综合
 http://ott.mobaibox.com/PLTV/3/224/3221228847/index.m3u8
-#EXTINF:-1 tvg-id="连云港新闻综合" tvg-logo="/sdcard/TV/logo/连云港新闻综合.png" group-title="江苏",连云港新闻综合
+#EXTINF:-1 tvg-id="连云港新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/连云港新闻综合.png" group-title="江苏",连云港新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221227758/index.m3u8
-#EXTINF:-1 tvg-id="连云港生活频道" tvg-logo="/sdcard/TV/logo/连云港生活频道.png" group-title="江苏",连云港生活频道
+#EXTINF:-1 tvg-id="连云港生活频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/连云港生活频道.png" group-title="江苏",连云港生活频道
 http://ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
-#EXTINF:-1 tvg-id="赣榆综合" tvg-logo="/sdcard/TV/logo/赣榆综合.png" group-title="江苏",赣榆综合
+#EXTINF:-1 tvg-id="赣榆综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/赣榆综合.png" group-title="江苏",赣榆综合
 http://ott.mobaibox.com/PLTV/3/224/3221228317/index.m3u8
-#EXTINF:-1 tvg-id="东海综合" tvg-logo="/sdcard/TV/logo/东海综合.png" group-title="江苏",东海综合
+#EXTINF:-1 tvg-id="东海综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/东海综合.png" group-title="江苏",东海综合
 http://ott.mobaibox.com/PLTV/3/224/3221227792/index.m3u8
-#EXTINF:-1 tvg-id="灌南综合" tvg-logo="/sdcard/TV/logo/灌南综合.png" group-title="江苏",灌南综合
+#EXTINF:-1 tvg-id="灌南综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/灌南综合.png" group-title="江苏",灌南综合
 http://ott.mobaibox.com/PLTV/3/224/3221228725/index.m3u8
-#EXTINF:-1 tvg-id="盐城新闻综合" tvg-logo="/sdcard/TV/logo/盐城新闻综合.png" group-title="江苏",盐城新闻综合
+#EXTINF:-1 tvg-id="盐城新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/盐城新闻综合.png" group-title="江苏",盐城新闻综合
 http://ott.mobaibox.com/PLTV/3/224/3221228435/index.m3u8
-#EXTINF:-1 tvg-id="盐城法制生活" tvg-logo="/sdcard/TV/logo/盐城法制生活.png" group-title="江苏",盐城法制生活
+#EXTINF:-1 tvg-id="盐城法制生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/盐城法制生活.png" group-title="江苏",盐城法制生活
 http://ott.mobaibox.com/PLTV/3/224/3221228433/index.m3u8
-#EXTINF:-1 tvg-id="大丰新闻综合" tvg-logo="/sdcard/TV/logo/大丰新闻综合.png" group-title="江苏",大丰新闻综合
+#EXTINF:-1 tvg-id="大丰新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大丰新闻综合.png" group-title="江苏",大丰新闻综合
 https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
-#EXTINF:-1 tvg-id="大丰生活综艺" tvg-logo="/sdcard/TV/logo/大丰生活综艺.png" group-title="江苏",大丰生活综艺
+#EXTINF:-1 tvg-id="大丰生活综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大丰生活综艺.png" group-title="江苏",大丰生活综艺
 https://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
-#EXTINF:-1 tvg-id="宿迁综合" tvg-logo="/sdcard/TV/logo/宿迁综合.png" group-title="江苏",宿迁综合
+#EXTINF:-1 tvg-id="宿迁综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宿迁综合.png" group-title="江苏",宿迁综合
 http://ott.mobaibox.com/PLTV/3/224/3221226944/index.m3u8
-#EXTINF:-1 tvg-id="宿迁公共" tvg-logo="/sdcard/TV/logo/宿迁公共.png" group-title="江苏",宿迁公共
+#EXTINF:-1 tvg-id="宿迁公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宿迁公共.png" group-title="江苏",宿迁公共
 http://ott.mobaibox.com/PLTV/3/224/3221226939/index.m3u8
-#EXTINF:-1 tvg-id="沭阳综合" tvg-logo="/sdcard/TV/logo/沭阳综合.png" group-title="江苏",沭阳综合
+#EXTINF:-1 tvg-id="沭阳综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/沭阳综合.png" group-title="江苏",沭阳综合
 http://ott.mobaibox.com/PLTV/3/224/3221228812/index.m3u8
 
 #江西
-#EXTINF:-1 tvg-id="赣州新闻综合" tvg-logo="/sdcard/TV/logo/赣州新闻综合.png" group-title="江西",赣州新闻综合
+#EXTINF:-1 tvg-id="赣州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/赣州新闻综合.png" group-title="江西",赣州新闻综合
 https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
-#EXTINF:-1 tvg-id="赣州教育" tvg-logo="/sdcard/TV/logo/赣州教育.png" group-title="江西",赣州教育
+#EXTINF:-1 tvg-id="赣州教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/赣州教育.png" group-title="江西",赣州教育
 https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
-#EXTINF:-1 tvg-id="赣州公共" tvg-logo="/sdcard/TV/logo/赣州公共.png" group-title="江西",赣州公共
+#EXTINF:-1 tvg-id="赣州公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/赣州公共.png" group-title="江西",赣州公共
 https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
-#EXTINF:-1 tvg-id="瑞金综合" tvg-logo="/sdcard/TV/logo/瑞金综合.png" group-title="江西",瑞金综合
+#EXTINF:-1 tvg-id="瑞金综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/瑞金综合.png" group-title="江西",瑞金综合
 http://play-a2.quklive.com/live/1760408109205119.m3u8
-#EXTINF:-1 tvg-id="宁都综合" tvg-logo="/sdcard/TV/logo/宁都综合.png" group-title="江西",宁都综合
+#EXTINF:-1 tvg-id="宁都综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁都综合.png" group-title="江西",宁都综合
 http://play-a2.quklive.com/live/1749084198822069.m3u8
-#EXTINF:-1 tvg-id="九江新闻综合频道" tvg-logo="/sdcard/TV/logo/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
+#EXTINF:-1 tvg-id="九江新闻综合频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
 http://play-sh13.quklive.com/live/1757386374062009.m3u8?auth_key=2074409953-1dae95326c7943b28c3dbf66f89354be-0-2837005cdaa6ccd097b866975abe466a
-#EXTINF:-1 tvg-id="九江公共频道" tvg-logo="/sdcard/TV/logo/九江公共频道.png" group-title="江西",九江公共频道
+#EXTINF:-1 tvg-id="九江公共频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江公共频道.png" group-title="江西",九江公共频道
 http://play-sh13.quklive.com/live/1757386400403349.m3u8?auth_key=2074410330-9138a1677cea4015b7334a66a9f7952e-0-80e8dd4c82311ea7461dd8df8ca922aa
-#EXTINF:-1 tvg-id="九江教育频道" tvg-logo="/sdcard/TV/logo/九江教育频道.png" group-title="江西",九江教育频道
+#EXTINF:-1 tvg-id="九江教育频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江教育频道.png" group-title="江西",九江教育频道
 http://play-sh13.quklive.com/live/1757386418265193.m3u8?auth_key=2074410488-9eee5f4ee84540729319cc9af9a7bdb6-0-b8af9f64ba30f377a2bb03a0f0e70037
-#EXTINF:-1 tvg-id="上饶新闻综合" tvg-logo="/sdcard/TV/logo/上饶新闻综合.png" group-title="江西",上饶新闻综合
+#EXTINF:-1 tvg-id="上饶新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上饶新闻综合.png" group-title="江西",上饶新闻综合
 http://hls.quklive.com/live/play-sh-21.quklive.com/1758679893354090.m3u8?auth_key=2079617060-d88f59f738b64d69b58ac542b98edc52-0-af8b48e2d891ba488c9878f25460e7e5
-#EXTINF:-1 tvg-id="上饶经济旅游" tvg-logo="/sdcard/TV/logo/上饶经济旅游.png" group-title="江西",上饶经济·旅游频道
+#EXTINF:-1 tvg-id="上饶经济旅游" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上饶经济旅游.png" group-title="江西",上饶经济·旅游频道
 http://hls.quklive.com/live/play-sh-21.quklive.com/1758679936307088.m3u8?auth_key=2079617536-ebdadda3459e4ffbad4899a77d78551c-0-e123b1d1dd2ccc62a65941dda465eb1f
-#EXTINF:-1 tvg-id="广丰综合" tvg-logo="/sdcard/TV/logo/广丰综合.png" group-title="江西",广丰综合
+#EXTINF:-1 tvg-id="广丰综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广丰综合.png" group-title="江西",广丰综合
 https://play-a2.quklive.com/live/1754033359790055.m3u8
-#EXTINF:-1 tvg-id="丰城新闻综合" tvg-logo="/sdcard/TV/logo/丰城新闻综合.png" group-title="江西",丰城新闻综合
+#EXTINF:-1 tvg-id="丰城新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/丰城新闻综合.png" group-title="江西",丰城新闻综合
 http://play-sh13.quklive.com/live/1753663315049013.m3u8?auth_key=2079618218-43a81f8882264506923871b82faf8326-0-1b2ac19fffa1a603da6cb6e67161ac25
-#EXTINF:-1 tvg-id="景德镇新闻综合" tvg-logo="/sdcard/TV/logo/景德镇新闻综合.png" group-title="江西",景德镇新闻综合
+#EXTINF:-1 tvg-id="景德镇新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/景德镇新闻综合.png" group-title="江西",景德镇新闻综合
 http://play-sh.quklive.com/live/1724916607073321.m3u8
 
 #北京
-#EXTINF:-1 tvg-id="北京文艺" tvg-logo="/sdcard/TV/logo/北京文艺.png" group-title="北京",北京文艺
+#EXTINF:-1 tvg-id="北京文艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京文艺.png" group-title="北京",北京文艺
 http://124.222.114.206/bjtv.php?id=bjwy
-#EXTINF:-1 tvg-id="纪实科教" tvg-logo="/sdcard/TV/logo/北京纪实科教.png" group-title="北京",纪实科教
+#EXTINF:-1 tvg-id="纪实科教" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京纪实科教.png" group-title="北京",纪实科教
 http://ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8
-#EXTINF:-1 tvg-id="北京影视" tvg-logo="/sdcard/TV/logo/北京影视.png" group-title="北京",北京影视
+#EXTINF:-1 tvg-id="北京影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京影视.png" group-title="北京",北京影视
 http://124.222.114.206/bjtv.php?id=bjys
-#EXTINF:-1 tvg-id="北京财经" tvg-logo="/sdcard/TV/logo/北京财经.png" group-title="北京",北京财经
+#EXTINF:-1 tvg-id="北京财经" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京财经.png" group-title="北京",北京财经
 http://124.222.114.206/bjtv.php?id=bjcj
-#EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="/sdcard/TV/logo/北京体育休闲.png" group-title="北京",北京体育休闲
+#EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://124.222.114.206/bjtv.php?id=bjty
-#EXTINF:-1 tvg-id="北京生活" tvg-logo="/sdcard/TV/logo/北京生活.png" group-title="北京",北京生活
+#EXTINF:-1 tvg-id="北京生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京生活.png" group-title="北京",北京生活
 http://124.222.114.206/bjtv.php?id=bjsh
-#EXTINF:-1 tvg-id="北京新闻" tvg-logo="/sdcard/TV/logo/北京新闻.png" group-title="北京",北京新闻
+#EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京新闻.png" group-title="北京",北京新闻
 http://124.222.114.206/bjtv.php?id=bjxw
-#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="/sdcard/TV/logo/北京卡酷少儿.png" group-title="北京",卡酷少儿
+#EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京卡酷少儿.png" group-title="北京",卡酷少儿
 http://[2409:8087:1e01:23::10]:8112/000000001000/7851974109718180595/index.m3u8
 http://124.222.114.206/bjtv.php?id=bjkk
 
 #上海
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="/sdcard/TV/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+#EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海新闻综合.png" group-title="上海",上海新闻综合
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031110/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="第一财经" tvg-logo="/sdcard/TV/logo/上海第一财经.png" group-title="上海",第一财经
+#EXTINF:-1 tvg-id="第一财经" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海第一财经.png" group-title="上海",第一财经
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000027146/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="东方影视" tvg-logo="/sdcard/TV/logo/上海东方影视.png" group-title="上海",东方影视
+#EXTINF:-1 tvg-id="东方影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海东方影视.png" group-title="上海",东方影视
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000032212/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-logo="/sdcard/TV/logo/上海五星体育.png" group-title="上海",五星体育
+#EXTINF:-1 tvg-id="五星体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海五星体育.png" group-title="上海",五星体育
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000017540/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="上海都市" tvg-logo="/sdcard/TV/logo/上海都市.png" group-title="上海",上海都市
+#EXTINF:-1 tvg-id="上海都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海都市.png" group-title="上海",上海都市
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000018926/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="哈哈炫动" tvg-logo="/sdcard/TV/logo/上海哈哈炫动.png" group-title="上海",哈哈炫动
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海哈哈炫动.png" group-title="上海",哈哈炫动
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031123/bestzb/index.m3u8
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000005000031641/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="都市剧场" tvg-logo="/sdcard/TV/logo/上海都市剧场.png" group-title="上海",都市剧场
+#EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海都市剧场.png" group-title="上海",都市剧场
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031111/bestzb/index.m3u8
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000004412/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-logo="/sdcard/TV/logo/上海欢笑剧场4K.png" group-title="上海",欢笑剧场4K
+#EXTINF:-1 tvg-id="欢笑剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海欢笑剧场4K.png" group-title="上海",欢笑剧场4K
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010001/bestzb/index.m3u8
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000009455/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="动漫秀场" tvg-logo="/sdcard/TV/logo/上海动漫秀场.png" group-title="上海",动漫秀场
+#EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海动漫秀场.png" group-title="上海",动漫秀场
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031113/bestzb/index.m3u8
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000023636/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="乐游" tvg-logo="/sdcard/TV/logo/上海乐游.png" group-title="上海",乐游
+#EXTINF:-1 tvg-id="乐游" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海乐游.png" group-title="上海",乐游
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031112/bestzb/index.m3u8
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000040025/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="东方财经" tvg-logo="/sdcard/TV/logo/上海东方财经.png" group-title="上海",东方财经
+#EXTINF:-1 tvg-id="东方财经" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海东方财经.png" group-title="上海",东方财经
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010003/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="法治天地" tvg-logo="/sdcard/TV/logo/上海法治天地.png" group-title="上海",法治天地
+#EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海法治天地.png" group-title="上海",法治天地
 http://[2409:8087:1e01:23::10]:8112/000000001000/9001547084732463424/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="游戏风云" tvg-logo="/sdcard/TV/logo/上海游戏风云.png" group-title="上海",游戏风云
+#EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海游戏风云.png" group-title="上海",游戏风云
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031114/bestzb/index.m3u8
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000027005/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="生活时尚" tvg-logo="/sdcard/TV/logo/上海生活时尚.png" group-title="上海",生活时尚
+#EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海生活时尚.png" group-title="上海",生活时尚
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000019634/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="金色学堂" tvg-logo="/sdcard/TV/logo/上海金色学堂.png" group-title="上海",金色学堂
+#EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海金色学堂.png" group-title="上海",金色学堂
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000026105/bestzb/index.m3u8
 
 #湖南
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="/sdcard/TV/logo/湖南金鹰纪实.png" group-title="湖南",金鹰纪实
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖南金鹰纪实.png" group-title="湖南",金鹰纪实
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000031203/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="茶" tvg-logo="/sdcard/TV/logo/logo/湖南茶频道.png" group-title="湖南",茶频道
+#EXTINF:-1 tvg-id="茶" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/logo/湖南茶频道.png" group-title="湖南",茶频道
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000031209/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="/sdcard/TV/logo/湖南金鹰卡通.png" group-title="湖南",金鹰卡通
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖南金鹰卡通.png" group-title="湖南",金鹰卡通
 http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000040024/bestzb/index.m3u8
 
 #广东
-#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="/sdcard/TV/logo/广东大湾区卫视.png" group-title="广东",大湾区卫视
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东大湾区卫视.png" group-title="广东",大湾区卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
-#EXTINF:-1 tvg-id="南国都市" tvg-logo="/sdcard/TV/logo/广州南国都市.png" group-title="广东",南国都市
+#EXTINF:-1 tvg-id="南国都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广州南国都市.png" group-title="广东",南国都市
 #EXTVLCOPT:http-referrer=https://www.gztv.com/
 http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8
 http://php.jdshipin.com/TVOD/iptv.php?id=gzngds
-#EXTINF:-1 tvg-id="广东珠江" tvg-logo="/sdcard/TV/logo/广东珠江.png" group-title="广东",广东珠江
+#EXTINF:-1 tvg-id="广东珠江" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东珠江.png" group-title="广东",广东珠江
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-#EXTINF:-1 tvg-id="广东体育" tvg-logo="/sdcard/TV/logo/广东体育.png" group-title="广东",广东体育
+#EXTINF:-1 tvg-id="广东体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东体育.png" group-title="广东",广东体育
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 
 #浙江
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-logo="/sdcard/TV/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
 https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江经济生活" tvg-logo="/sdcard/TV/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
+#EXTINF:-1 tvg-id="浙江经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江教科影视" tvg-logo="/sdcard/TV/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
+#EXTINF:-1 tvg-id="浙江教科影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
 https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江民生休闲" tvg-logo="/sdcard/TV/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
+#EXTINF:-1 tvg-id="浙江民生休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
 https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江新闻" tvg-logo="/sdcard/TV/logo/浙江新闻.png" group-title="浙江",浙江新闻
+#EXTINF:-1 tvg-id="浙江新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江新闻.png" group-title="浙江",浙江新闻
 https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江少儿" tvg-logo="/sdcard/TV/logo/浙江少儿.png" group-title="浙江",浙江少儿
+#EXTINF:-1 tvg-id="浙江少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江少儿.png" group-title="浙江",浙江少儿
 https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江国际" tvg-logo="/sdcard/TV/logo/浙江国际.png" group-title="浙江",浙江国际
+#EXTINF:-1 tvg-id="浙江国际" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江国际.png" group-title="浙江",浙江国际
 https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="之江纪录" tvg-logo="/sdcard/TV/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
+#EXTINF:-1 tvg-id="之江纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
 https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 #内蒙古
-#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="/sdcard/TV/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
 http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
-#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-logo="/sdcard/TV/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
 http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
-#EXTINF:-1 tvg-id="内蒙古少儿频道" tvg-logo="/sdcard/TV/logo/内蒙古少儿频道.png" group-title="内蒙古",内蒙古少儿频道
+#EXTINF:-1 tvg-id="内蒙古少儿频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古少儿频道.png" group-title="内蒙古",内蒙古少儿频道
 http://play1-qk.nmtv.cn/live/1686560464515368.m3u8
-#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-logo="/sdcard/TV/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
 http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
-#EXTINF:-1 tvg-id="内蒙古农牧频道" tvg-logo="/sdcard/TV/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+#EXTINF:-1 tvg-id="内蒙古农牧频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
 http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 
 #求索
-#EXTINF:-1 tvg-id="求索生活" tvg-logo="/sdcard/TV/logo/求索生活.png" group-title="求索",求索生活
+#EXTINF:-1 tvg-id="求索生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/求索生活.png" group-title="求索",求索生活
 http://[2409:8087:1e01:23::10]:8112/000000000000/6000000002000003382/wasusyt/index.m3u8
-#EXTINF:-1 tvg-id="求索动物" tvg-logo="/sdcard/TV/logo/求索动物.png" group-title="求索",求索动物
+#EXTINF:-1 tvg-id="求索动物" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/求索动物.png" group-title="求索",求索动物
 http://[2409:8087:1e01:23::10]:8112/000000000000/6000000002000010046/wasusyt/index.m3u8
-#EXTINF:-1 tvg-id="求索纪录" tvg-logo="/sdcard/TV/logo/求索纪录.png" group-title="求索",求索纪录
+#EXTINF:-1 tvg-id="求索纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/求索纪录.png" group-title="求索",求索纪录
 http://[2409:8087:1e01:23::10]:8112/000000000000/6000000002000032052/wasusyt/index.m3u8
-#EXTINF:-1 tvg-id="求索科学" tvg-logo="/sdcard/TV/logo/求索科学.png" group-title="求索",求索科学
+#EXTINF:-1 tvg-id="求索科学" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/求索科学.png" group-title="求索",求索科学
 http://[2409:8087:1e01:23::10]:8112/000000000000/6000000002000032344/wasusyt/index.m3u8
 
 #NewTV
-#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="/sdcard/TV/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
+#EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
-#EXTINF:-1 tvg-id="newtv热播精选" tvg-logo="/sdcard/TV/logo/NewTV热播精选.png" group-title="NewTV",热播精选
+#EXTINF:-1 tvg-id="newtv热播精选" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV热播精选.png" group-title="NewTV",热播精选
 http://ott.mobaibox.com/PLTV/3/224/3221227512/index.m3u8
-#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-logo="/sdcard/TV/logo/NewTV潮妈辣婆.png" group-title="NewTV",潮妈辣婆
+#EXTINF:-1 tvg-id="newtv潮妈辣婆" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV潮妈辣婆.png" group-title="NewTV",潮妈辣婆
 http://ott.mobaibox.com/PLTV/3/224/3221227527/index.m3u8
-#EXTINF:-1 tvg-id="newtv中国功夫" tvg-logo="/sdcard/TV/logo/NewTV中国功夫.png" group-title="NewTV",中国功夫
+#EXTINF:-1 tvg-id="newtv中国功夫" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV中国功夫.png" group-title="NewTV",中国功夫
 http://ott.mobaibox.com/PLTV/3/224/3221227530/index.m3u8
-#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-logo="/sdcard/TV/logo/NewTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
+#EXTINF:-1 tvg-id="newtv惊悚悬疑" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV惊悚悬疑.png" group-title="NewTV",惊悚悬疑
 http://ott.mobaibox.com/PLTV/3/224/3221227536/index.m3u8
-#EXTINF:-1 tvg-id="newtv海外剧场" tvg-logo="/sdcard/TV/logo/NewTV海外剧场.png" group-title="NewTV",海外剧场
+#EXTINF:-1 tvg-id="newtv海外剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV海外剧场.png" group-title="NewTV",海外剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227539/index.m3u8
-#EXTINF:-1 tvg-id="newtv谍战大剧" tvg-logo="/sdcard/TV/logo/NewTV谍战大剧.png" group-title="NewTV",谍战大剧
+#EXTINF:-1 tvg-id="newtv谍战大剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV谍战大剧.png" group-title="NewTV",谍战大剧
 http://ott.mobaibox.com/PLTV/3/224/3221227541/index.m3u8
-#EXTINF:-1 tvg-id="newtv古装剧场" tvg-logo="/sdcard/TV/logo/NewTV古装剧场.png" group-title="NewTV",古装剧场
+#EXTINF:-1 tvg-id="newtv古装剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV古装剧场.png" group-title="NewTV",古装剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227542/index.m3u8
-#EXTINF:-1 tvg-id="newtv军事评论" tvg-logo="/sdcard/TV/logo/NewTV军事评论.png" group-title="NewTV",军事评论
+#EXTINF:-1 tvg-id="newtv军事评论" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV军事评论.png" group-title="NewTV",军事评论
 http://ott.mobaibox.com/PLTV/3/224/3221227544/index.m3u8
-#EXTINF:-1 tvg-id="newtv烽烟剧场" tvg-logo="/sdcard/TV/logo/NewTV烽烟剧场.png" group-title="NewTV",烽烟剧场
+#EXTINF:-1 tvg-id="newtv烽烟剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV烽烟剧场.png" group-title="NewTV",烽烟剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227547/index.m3u8
-#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-logo="/sdcard/TV/logo/NewTV爱情喜剧.png" group-title="NewTV",爱情喜剧
+#EXTINF:-1 tvg-id="newtv爱情喜剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV爱情喜剧.png" group-title="NewTV",爱情喜剧
 http://ott.mobaibox.com/PLTV/3/224/3221227548/index.m3u8
-#EXTINF:-1 tvg-id="newtv农业致富" tvg-logo="/sdcard/TV/logo/NewTV农业致富.png" group-title="NewTV",农业致富
+#EXTINF:-1 tvg-id="newtv农业致富" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV农业致富.png" group-title="NewTV",农业致富
 http://ott.mobaibox.com/PLTV/3/224/3221227588/index.m3u8
-#EXTINF:-1 tvg-id="newtv明星大片" tvg-logo="/sdcard/TV/logo/NewTV明星大片.png" group-title="NewTV",明星大片
+#EXTINF:-1 tvg-id="newtv明星大片" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV明星大片.png" group-title="NewTV",明星大片
 http://ott.mobaibox.com/PLTV/3/224/3221227594/index.m3u8
-#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-logo="/sdcard/TV/logo/NewTV家庭剧场.png" group-title="NewTV",家庭剧场
+#EXTINF:-1 tvg-id="newtv家庭剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV家庭剧场.png" group-title="NewTV",家庭剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227600/index.m3u8
-#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-logo="/sdcard/TV/logo/NewTV军旅剧场.png" group-title="NewTV",军旅剧场
+#EXTINF:-1 tvg-id="newtv军旅剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV军旅剧场.png" group-title="NewTV",军旅剧场
 http://ott.mobaibox.com/PLTV/3/224/3221227603/index.m3u8
-#EXTINF:-1 tvg-id="newtv动作电影" tvg-logo="/sdcard/TV/logo/NewTV动作电影.png" group-title="NewTV",动作电影
+#EXTINF:-1 tvg-id="newtv动作电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV动作电影.png" group-title="NewTV",动作电影
 http://ott.mobaibox.com/PLTV/3/224/3221227606/index.m3u8
-#EXTINF:-1 tvg-id="newtv怡伴健康" tvg-logo="/sdcard/TV/logo/NewTV怡伴健康.png" group-title="NewTV",怡伴健康
+#EXTINF:-1 tvg-id="newtv怡伴健康" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV怡伴健康.png" group-title="NewTV",怡伴健康
 http://ott.mobaibox.com/PLTV/3/224/3221227612/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品体育" tvg-logo="/sdcard/TV/logo/NewTV精品体育.png" group-title="NewTV",精品体育
+#EXTINF:-1 tvg-id="newtv精品体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV精品体育.png" group-title="NewTV",精品体育
 http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品大剧" tvg-logo="/sdcard/TV/logo/NewTV精品大剧.png" group-title="NewTV",精品大剧
+#EXTINF:-1 tvg-id="newtv精品大剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV精品大剧.png" group-title="NewTV",精品大剧
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
-#EXTINF:-1 tvg-id="newtv精品萌宠" tvg-logo="/sdcard/TV/logo/NewTV精品萌宠.png" group-title="NewTV",精品萌宠
+#EXTINF:-1 tvg-id="newtv精品萌宠" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV精品萌宠.png" group-title="NewTV",精品萌宠
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
-#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-logo="/sdcard/TV/logo/NewTV欢乐剧场.png" group-title="NewTV",欢乐剧场
+#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV欢乐剧场.png" group-title="NewTV",欢乐剧场
 http://[2409:8087:1e01:23::10]:8112/000000000000/1000000005000266012/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="newtv东北热剧" tvg-logo="/sdcard/TV/logo/NewTV东北热剧.png" group-title="NewTV",东北热剧
+#EXTINF:-1 tvg-id="newtv东北热剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV东北热剧.png" group-title="NewTV",东北热剧
 http://[2409:8087:1e01:23::10]:8112/000000000000/1000000005000266013/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级综艺" tvg-logo="/sdcard/TV/logo/NewTV超级综艺.png" group-title="NewTV",超级综艺
+#EXTINF:-1 tvg-id="newtv超级综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV超级综艺.png" group-title="NewTV",超级综艺
 http://[2409:8087:1e01:23::10]:8112/000000000000/1000000006000268002/ystenlive/index.m3u8
 http://[2409:8087:1e01:23::10]:8112/000000000000/1000000004000023658/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级体育" tvg-logo="/sdcard/TV/logo/NewTV超级体育.png" group-title="NewTV",超级体育
+#EXTINF:-1 tvg-id="newtv超级体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV超级体育.png" group-title="NewTV",超级体育
 http://[2409:8087:1e01:23::10]:8112/000000000000/1000000004000007755/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级电影" tvg-logo="/sdcard/TV/logo/NewTV超级电影.png" group-title="NewTV",超级电影
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV超级电影.png" group-title="NewTV",超级电影
 http://[2409:8087:1e01:23::10]:8112/000000000000/1000000003000012426/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-logo="/sdcard/TV/logo/NewTV超级电视剧.png" group-title="NewTV",超级电视剧
+#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV超级电视剧.png" group-title="NewTV",超级电视剧
 http://[2409:8087:1e01:23::10]:8112/000000000000/1000000006000268003/ystenlive/index.m3u8
 http://[2409:8087:1e01:23::10]:8112/000000000000/1000000004000024993/ystenlive/index.m3u8
-#EXTINF:-1 tvg-id="黑莓电影" tvg-logo="/sdcard/TV/logo/黑莓电影.png" group-title="NewTV",黑莓电影
+#EXTINF:-1 tvg-id="黑莓电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/黑莓电影.png" group-title="NewTV",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1 tvg-id="黑莓动画" tvg-logo="/sdcard/TV/logo/黑莓动画.png" group-title="NewTV",黑莓动画
+#EXTINF:-1 tvg-id="黑莓动画" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/黑莓动画.png" group-title="NewTV",黑莓动画
 http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="/sdcard/TV/logo/NewTV哒啵赛事.png" group-title="NewTV",哒啵赛事
+#EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV哒啵赛事.png" group-title="NewTV",哒啵赛事
 http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
 
 #BesTV
-#EXTINF:-1 tvg-id="华语影院" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",华语影院
+#EXTINF:-1 tvg-id="华语影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",华语影院
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288005/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="星光影院" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",星光影院
+#EXTINF:-1 tvg-id="星光影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",星光影院
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288013/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="全球大片" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",全球大片
+#EXTINF:-1 tvg-id="全球大片" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",全球大片
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288009/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="热门剧场" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",热门剧场
+#EXTINF:-1 tvg-id="热门剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",热门剧场
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288010/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="谍战剧场" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",谍战剧场
+#EXTINF:-1 tvg-id="谍战剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",谍战剧场
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288004/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="青春动漫" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",青春动漫
+#EXTINF:-1 tvg-id="青春动漫" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",青春动漫
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288008/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="宝宝动画" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",宝宝动画
+#EXTINF:-1 tvg-id="宝宝动画" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",宝宝动画
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288002/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="戏曲精选" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",戏曲精选
+#EXTINF:-1 tvg-id="戏曲精选" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",戏曲精选
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288012/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="热门综艺" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",热门综艺
+#EXTINF:-1 tvg-id="热门综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",热门综艺
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288011/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="健康养生" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",健康养生
+#EXTINF:-1 tvg-id="健康养生" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",健康养生
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288006/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="百变课堂" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",百变课堂
+#EXTINF:-1 tvg-id="百变课堂" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",百变课堂
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288001/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="看天下精选" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",看天下精选
+#EXTINF:-1 tvg-id="看天下精选" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",看天下精选
 http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288007/bestzb/index.m3u8
 
 #咪咕
-#EXTINF:-1 tvg-id="抖音热歌" tvg-logo="/sdcard/TV/logo/咪咕音乐.png" group-title="咪咕",抖音热歌
+#EXTINF:-1 tvg-id="抖音热歌" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/咪咕音乐.png" group-title="咪咕",抖音热歌
 http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
-#EXTINF:-1 tvg-id="流行音乐" tvg-logo="/sdcard/TV/logo/咪咕音乐.png" group-title="咪咕",流行音乐
+#EXTINF:-1 tvg-id="流行音乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/咪咕音乐.png" group-title="咪咕",流行音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8
-#EXTINF:-1 tvg-id="咪视界" tvg-logo="/sdcard/TV/logo/咪视界.png" group-title="咪咕",咪视界
+#EXTINF:-1 tvg-id="咪视界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/咪视界.png" group-title="咪咕",咪视界
 http://ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
-#EXTINF:-1 tvg-id="体坛同期声" tvg-logo="/sdcard/TV/logo/咪咕视频.png" group-title="咪咕",体坛同期声
+#EXTINF:-1 tvg-id="体坛同期声" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/咪咕视频.png" group-title="咪咕",体坛同期声
 http://ott.mobaibox.com/PLTV/3/224/3221228713/index.m3u8
-#EXTINF:-1 tvg-id="睛彩篮球" tvg-logo="/sdcard/TV/logo/睛彩篮球.png" group-title="咪咕",睛彩篮球
+#EXTINF:-1 tvg-id="睛彩篮球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/睛彩篮球.png" group-title="咪咕",睛彩篮球
 http://ott.mobaibox.com/PLTV/3/224/3221228682/index.m3u8
-#EXTINF:-1 tvg-id="睛彩竞技" tvg-logo="/sdcard/TV/logo/睛彩竞技.png" group-title="咪咕",睛彩竞技
+#EXTINF:-1 tvg-id="睛彩竞技" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/睛彩竞技.png" group-title="咪咕",睛彩竞技
 http://ott.mobaibox.com/PLTV/3/224/3221228679/index.m3u8
-#EXTINF:-1 tvg-id="睛彩青少" tvg-logo="/sdcard/TV/logo/睛彩青少.png" group-title="咪咕",睛彩青少
+#EXTINF:-1 tvg-id="睛彩青少" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/睛彩青少.png" group-title="咪咕",睛彩青少
 http://ott.mobaibox.com/PLTV/3/224/3221228729/index.m3u8
-#EXTINF:-1 tvg-id="睛彩广场舞" tvg-logo="/sdcard/TV/logo/睛彩广场舞.png" group-title="咪咕",睛彩广场舞
+#EXTINF:-1 tvg-id="睛彩广场舞" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/睛彩广场舞.png" group-title="咪咕",睛彩广场舞
 http://ott.mobaibox.com/PLTV/3/224/3221228818/index.m3u8
 
 #数字
-#EXTINF:-1 tvg-id="纯享4K" tvg-logo="/sdcard/TV/logo/纯享4K.png" group-title="数字",纯享4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/纯享4K.png" group-title="数字",纯享4K
 http://ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
-#EXTINF:-1 tvg-id="4K修复" tvg-logo="/sdcard/TV/logo/4K修复.png" group-title="数字",4K修复
+#EXTINF:-1 tvg-id="4K修复" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/4K修复.png" group-title="数字",4K修复
 http://ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
-#EXTINF:-1 tvg-id="居家健身" tvg-logo="/sdcard/TV/logo/居家健身.png" group-title="数字",居家健身
+#EXTINF:-1 tvg-id="居家健身" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/居家健身.png" group-title="数字",居家健身
 http://ott.mobaibox.com/PLTV/3/224/3221228454/index.m3u8
-#EXTINF:-1 tvg-id="美食美味" tvg-logo="/sdcard/TV/logo/美食美味.png" group-title="数字",美食美味
+#EXTINF:-1 tvg-id="美食美味" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/美食美味.png" group-title="数字",美食美味
 http://ott.mobaibox.com/PLTV/3/224/3221228562/index.m3u8
-#EXTINF:-1 tvg-id="探索纪录" tvg-logo="/sdcard/TV/logo/探索纪录.png" group-title="数字",探索纪录
+#EXTINF:-1 tvg-id="探索纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/探索纪录.png" group-title="数字",探索纪录
 http://ott.mobaibox.com/PLTV/3/224/3221228588/index.m3u8
-#EXTINF:-1 tvg-id="热门综艺" tvg-logo="/sdcard/TV/logo/热门综艺.png" group-title="数字",热门综艺
+#EXTINF:-1 tvg-id="热门综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/热门综艺.png" group-title="数字",热门综艺
 http://ott.mobaibox.com/PLTV/3/224/3221228591/index.m3u8
-#EXTINF:-1 tvg-id="音乐心情" tvg-logo="/sdcard/TV/logo/QQ音乐.png" group-title="数字",音乐心情
+#EXTINF:-1 tvg-id="音乐心情" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/QQ音乐.png" group-title="数字",音乐心情
 http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
-#EXTINF:-1 tvg-id="影综金曲" tvg-logo="/sdcard/TV/logo/QQ音乐.png" group-title="数字",影综金曲
+#EXTINF:-1 tvg-id="影综金曲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/QQ音乐.png" group-title="数字",影综金曲
 http://ott.mobaibox.com/PLTV/3/224/3221228641/index.m3u8
-#EXTINF:-1 tvg-id="健康生活" tvg-logo="/sdcard/TV/logo/健康生活.png" group-title="数字",健康生活
+#EXTINF:-1 tvg-id="健康生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/健康生活.png" group-title="数字",健康生活
 http://ott.mobaibox.com/PLTV/3/224/3221228706/index.m3u8
-#EXTINF:-1 tvg-id="相声联欢" tvg-logo="/sdcard/TV/logo/相声联欢.png" group-title="数字",相声联欢
+#EXTINF:-1 tvg-id="相声联欢" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/相声联欢.png" group-title="数字",相声联欢
 http://ott.mobaibox.com/PLTV/3/224/3221228717/index.m3u8
-#EXTINF:-1 tvg-id="高分电影" tvg-logo="/sdcard/TV/logo/高分电影.png" group-title="数字",高分电影
+#EXTINF:-1 tvg-id="高分电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/高分电影.png" group-title="数字",高分电影
 http://ott.mobaibox.com/PLTV/3/224/3221228644/index.m3u8
-#EXTINF:-1 tvg-id="第一院线" tvg-logo="/sdcard/TV/logo/第一院线.png" group-title="数字",第一院线
+#EXTINF:-1 tvg-id="第一院线" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/第一院线.png" group-title="数字",第一院线
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-id="动物世界" tvg-logo="/sdcard/TV/logo/动物世界.png" group-title="数字",动物世界
+#EXTINF:-1 tvg-id="动物世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/动物世界.png" group-title="数字",动物世界
 http://ott.mobaibox.com/PLTV/3/224/3221228559/index.m3u8
-#EXTINF:-1 tvg-id="动漫星空" tvg-logo="/sdcard/TV/logo/动漫星空.png" group-title="数字",动漫星空
+#EXTINF:-1 tvg-id="动漫星空" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/动漫星空.png" group-title="数字",动漫星空
 http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8
-#EXTINF:-1 tvg-id="儿童天地" tvg-logo="/sdcard/TV/logo/儿童天地.png" group-title="数字",儿童天地
+#EXTINF:-1 tvg-id="儿童天地" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/儿童天地.png" group-title="数字",儿童天地
 http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8
-#EXTINF:-1 tvg-id="亲子玩具" tvg-logo="/sdcard/TV/logo/亲子玩具.png" group-title="数字",亲子玩具
+#EXTINF:-1 tvg-id="亲子玩具" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/亲子玩具.png" group-title="数字",亲子玩具
 http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
-#EXTINF:-1 tvg-id="自然风景" tvg-logo="/sdcard/TV/logo/自然风景.png" group-title="数字",自然风景
+#EXTINF:-1 tvg-id="自然风景" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/自然风景.png" group-title="数字",自然风景
 http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
-#EXTINF:-1 tvg-id="天元围棋" tvg-logo="/sdcard/TV/logo/天元围棋.png" group-title="数字",天元围棋
+#EXTINF:-1 tvg-id="天元围棋" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/天元围棋.png" group-title="数字",天元围棋
 http://ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
-#EXTINF:-1 tvg-id="时尚美妆" tvg-logo="/sdcard/TV/logo/时尚美妆.png" group-title="数字",时尚美妆
+#EXTINF:-1 tvg-id="时尚美妆" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/时尚美妆.png" group-title="数字",时尚美妆
 http://ott.mobaibox.com/PLTV/3/224/3221228703/index.m3u8
-#EXTINF:-1 tvg-id="冰雪竞技场" tvg-logo="/sdcard/TV/logo/冰雪竞技场.png" group-title="数字",冰雪竞技场
+#EXTINF:-1 tvg-id="冰雪竞技场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/冰雪竞技场.png" group-title="数字",冰雪竞技场
 http://ott.mobaibox.com/PLTV/3/224/3221228737/index.m3u8
-#EXTINF:-1 tvg-id="科幻世界" tvg-logo="/sdcard/TV/logo/科幻世界.png" group-title="数字",科幻世界
+#EXTINF:-1 tvg-id="科幻世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/科幻世界.png" group-title="数字",科幻世界
 http://ott.mobaibox.com/PLTV/3/224/3221228740/index.m3u8
-#EXTINF:-1 tvg-id="KTV热歌" tvg-logo="/sdcard/TV/logo/KTV热歌.png" group-title="数字",KTV热歌
+#EXTINF:-1 tvg-id="KTV热歌" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/KTV热歌.png" group-title="数字",KTV热歌
 http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
-#EXTINF:-1 tvg-id="国学苑" tvg-logo="/sdcard/TV/logo/国学苑.png" group-title="数字",国学苑
+#EXTINF:-1 tvg-id="国学苑" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/国学苑.png" group-title="数字",国学苑
 http://ott.mobaibox.com/PLTV/3/224/3221228843/index.m3u8
-#EXTINF:-1 tvg-id="重温经典" tvg-logo="/sdcard/TV/logo/重温经典.png" group-title="数字",重温经典
+#EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/重温经典.png" group-title="数字",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-#EXTINF:-1 tvg-id="华数4K" tvg-logo="/sdcard/TV/logo/华数.png" group-title="数字",华数4K
+#EXTINF:-1 tvg-id="华数4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/华数.png" group-title="数字",华数4K
 http://[2409:8087:1e01:23::10]:8112/000000000000/6000000003000004748/wasusyt/index.m3u8
 
 #港台
-#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-logo="/sdcard/TV/logo/凤凰卫视香港台.png" group-title="港台",凤凰卫视香港台
+#EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视香港台.png" group-title="港台",凤凰卫视香港台
 http://ott.mobaibox.com/PLTV/3/224/3221228530/index.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-logo="/sdcard/TV/logo/凤凰卫视中文台.png" group-title="港台",凤凰卫视中文台
+#EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视中文台.png" group-title="港台",凤凰卫视中文台
 http://ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-logo="/sdcard/TV/logo/凤凰卫视资讯台.png" group-title="港台",凤凰卫视资讯台
+#EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视资讯台.png" group-title="港台",凤凰卫视资讯台
 http://ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-#EXTINF:-1 tvg-id="翡翠台" tvg-logo="/sdcard/TV/logo/TVB翡翠台.png" group-title="港台",TVB翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB翡翠台.png" group-title="港台",TVB翡翠台
 http://mytv.cdn.loc.cc/o12.php?id=fct
-#EXTINF:-1 tvg-id="明珠台" tvg-logo="/sdcard/TV/logo/TVB明珠台.png" group-title="港台",TVB明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB明珠台.png" group-title="港台",TVB明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
-#EXTINF:-1 tvg-id="TVB PLUS" tvg-logo="/sdcard/TV/logo/TVBPlus.png" group-title="港台",TVB Plus
+#EXTINF:-1 tvg-id="TVB PLUS" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVBPlus.png" group-title="港台",TVB Plus
 https://cdn6.101.qzz.io/163189/tvbp
-#EXTINF:-1 tvg-id="无线新闻" tvg-logo="/sdcard/TV/logo/TVB无线新闻台.png" group-title="港台",TVB无线新闻台
+#EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB无线新闻台.png" group-title="港台",TVB无线新闻台
 https://cdn6.101.qzz.io/163189/wxxw
-#EXTINF:-1 tvg-id="now新闻台" tvg-logo="/sdcard/TV/logo/now新闻台.png" group-title="港台",now新闻台
+#EXTINF:-1 tvg-id="now新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/now新闻台.png" group-title="港台",now新闻台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="RTHK31" tvg-logo="/sdcard/TV/logo/RTHK31.png" group-title="港台",RTHK31
+#EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK31.png" group-title="港台",RTHK31
 http://cdn.163189.xyz/163189/rthk31
 https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-#EXTINF:-1 tvg-id="RTHK32" tvg-logo="/sdcard/TV/logo/RTHK32.png" group-title="港台",RTHK32
+#EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK32.png" group-title="港台",RTHK32
 http://cdn.163189.xyz/163189/rthk32
 https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
-#EXTINF:-1 tvg-id="HOY77" tvg-logo="/sdcard/TV/logo/HOY77.png" group-title="港台",HOY 77
+#EXTINF:-1 tvg-id="HOY77" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HOY77.png" group-title="港台",HOY 77
 https://cdn6.101.qzz.io/163189/hoy
-#EXTINF:-1 tvg-id="ViuTV" tvg-logo="/sdcard/TV/logo/ViuTV.png" group-title="港台",Viu TV
+#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ViuTV.png" group-title="港台",Viu TV
 http://cdn.163189.xyz/163189/viu
-#EXTINF:-1 tvg-id="邵氏电影" tvg-logo="/sdcard/TV/logo/邵氏电影.png" group-title="港台",邵氏电影
+#EXTINF:-1 tvg-id="邵氏电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="邵氏动作" tvg-logo="/sdcard/TV/logo/邵氏电影.png" group-title="港台",邵氏动作
+#EXTINF:-1 tvg-id="邵氏动作" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏动作
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="邵氏喜剧" tvg-logo="/sdcard/TV/logo/邵氏电影.png" group-title="港台",邵氏喜剧
+#EXTINF:-1 tvg-id="邵氏喜剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏喜剧
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="邵氏武侠" tvg-logo="/sdcard/TV/logo/邵氏电影.png" group-title="港台",邵氏武侠
+#EXTINF:-1 tvg-id="邵氏武侠" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏武侠
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
-#EXTINF:-1 tvg-id="TaiwanPlus" tvg-logo="/sdcard/TV/logo/TaiwanPlus.png" group-title="港台",Taiwan Plus
+#EXTINF:-1 tvg-id="TaiwanPlus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TaiwanPlus.png" group-title="港台",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-id="龙华电影" tvg-logo="/sdcard/TV/logo/龙华电影.png" group-title="港台",龙华电影
+#EXTINF:-1 tvg-id="龙华电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华电影.png" group-title="港台",龙华电影
 http://cdn8.163189.xyz/163189/lhdy
-#EXTINF:-1 tvg-id="龙华戏剧" tvg-logo="/sdcard/TV/logo/龙华戏剧.png" group-title="港台",龙华戏剧
+#EXTINF:-1 tvg-id="龙华戏剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华戏剧.png" group-title="港台",龙华戏剧
 http://cdn8.163189.xyz/163189/lhxj
-#EXTINF:-1 tvg-id="龙华偶像" tvg-logo="/sdcard/TV/logo/龙华偶像.png" group-title="港台",龙华偶像
+#EXTINF:-1 tvg-id="龙华偶像" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华偶像.png" group-title="港台",龙华偶像
 http://cdn8.163189.xyz/163189/lhox
-#EXTINF:-1 tvg-id="龙华经典" tvg-logo="/sdcard/TV/logo/龙华经典.png" group-title="港台",龙华经典
+#EXTINF:-1 tvg-id="龙华经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华经典.png" group-title="港台",龙华经典
 http://cdn8.163189.xyz/163189/lhjd
-#EXTINF:-1 tvg-id="龙华日韩" tvg-logo="/sdcard/TV/logo/龙华日韩.png" group-title="港台",龙华日韩
+#EXTINF:-1 tvg-id="龙华日韩" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华日韩.png" group-title="港台",龙华日韩
 http://cdn8.163189.xyz/163189/lhrh
-#EXTINF:-1 tvg-id="新加坡5频道" tvg-logo="/sdcard/TV/logo/新加坡5频道.png" group-title="港台",新加坡5频道
+#EXTINF:-1 tvg-id="新加坡5频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加坡5频道.png" group-title="港台",新加坡5频道
 https://cdn6.101.qzz.io/163189/ch5
-#EXTINF:-1 tvg-id="新加坡8频道" tvg-logo="/sdcard/TV/logo/新加坡8频道.png" group-title="港台",新加坡8频道
+#EXTINF:-1 tvg-id="新加坡8频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加坡8频道.png" group-title="港台",新加坡8频道
 https://cdn6.101.qzz.io/163189/ch8
-#EXTINF:-1 tvg-id="新加坡U频道" tvg-logo="/sdcard/TV/logo/新加坡U频道.png" group-title="港台",新加坡U频道
+#EXTINF:-1 tvg-id="新加坡U频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加坡U频道.png" group-title="港台",新加坡U频道
 https://cdn6.101.qzz.io/163189/chu
 
 #财经
-#EXTINF:-1 tvg-id="Yahoo! Finance" tvg-logo="/sdcard/TV/logo/YahooFinance.png" group-title="财经",Yahoo! Finance
+#EXTINF:-1 tvg-id="Yahoo! Finance" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/YahooFinance.png" group-title="财经",Yahoo! Finance
 https://yahoofinance-localnow.amagi.tv/1080p-cc/index.m3u8
 https://yahoo-roku-us.amagi.tv/1080p-cc/index.m3u8
 https://yahoo-vizio.amagi.tv/1080p-cc/index.m3u8
@@ -660,374 +660,374 @@ https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 https://yahoo-samsung.amagi.tv/playlist.m3u8
 
 #少儿
-#EXTINF:-1 tvg-id="Ryan and Friends" tvg-logo="/sdcard/TV/logo/RyanandFriends.png" group-title="少儿",Ryan and Friends
+#EXTINF:-1 tvg-id="Ryan and Friends" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RyanandFriends.png" group-title="少儿",Ryan and Friends
 https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00286-pocketwatch-ryanandfriends-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="MoonBug" tvg-logo="/sdcard/TV/logo/MoonBug.png" group-title="少儿",MoonBug
+#EXTINF:-1 tvg-id="MoonBug" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MoonBug.png" group-title="少儿",MoonBug
 https://moonbug-rokuus.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Zoo Moo" tvg-logo="/sdcard/TV/logo/ZooMoo.png" group-title="少儿",Zoo Moo
+#EXTINF:-1 tvg-id="Zoo Moo" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ZooMoo.png" group-title="少儿",Zoo Moo
 https://zoomoo-samsungau.amagi.tv/playlist1080p.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="Kartoon Channel" tvg-logo="/sdcard/TV/logo/KartoonChannel.png" group-title="少儿",Kartoon Channel
+#EXTINF:-1 tvg-id="Kartoon Channel" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/KartoonChannel.png" group-title="少儿",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist1080p.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyFirst" tvg-logo="/sdcard/TV/logo/BabyFirst.png" group-title="少儿",BabyFirst
+#EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BabyFirst.png" group-title="少儿",BabyFirst
 https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
-#EXTINF:-1 tvg-id="Super Simple Songs" tvg-logo="/sdcard/TV/logo/SuperSimpleSongs.png" group-title="少儿",Super Simple Songs
+#EXTINF:-1 tvg-id="Super Simple Songs" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/SuperSimpleSongs.png" group-title="少儿",Super Simple Songs
 https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Ninja Kidz" tvg-logo="/sdcard/TV/logo/NinjaKidz.png" group-title="少儿",Ninja Kidz TV
+#EXTINF:-1 tvg-id="Ninja Kidz" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NinjaKidz.png" group-title="少儿",Ninja Kidz TV
 https://playworksdigital-ninjakidztv-1-us.xumo.wurl.tv/4300.m3u8
-#EXTINF:-1 tvg-id="Camp Spoopy" tvg-logo="/sdcard/TV/logo/CampSpoopy.png" group-title="少儿",Camp Spoopy
+#EXTINF:-1 tvg-id="Camp Spoopy" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CampSpoopy.png" group-title="少儿",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
-#EXTINF:-1 tvg-id="Brat TV" tvg-logo="/sdcard/TV/logo/BratTV.png" group-title="少儿",Brat TV
+#EXTINF:-1 tvg-id="Brat TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BratTV.png" group-title="少儿",Brat TV
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
 #纪录
-#EXTINF:-1 tvg-id="Love Nature" tvg-logo="/sdcard/TV/logo/LoveNature.png" group-title="纪录",Love Nature
+#EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/LoveNature.png" group-title="纪录",Love Nature
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
 https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
-#EXTINF:-1 tvg-id="Wild Earth" tvg-logo="/sdcard/TV/logo/WildEarth.png" group-title="纪录",Wild Earth
+#EXTINF:-1 tvg-id="Wild Earth" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/WildEarth.png" group-title="纪录",Wild Earth
 https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="/sdcard/TV/logo/BBCEarth.png" group-title="纪录",BBC Earth
+#EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BBCEarth.png" group-title="纪录",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
 https://livetv-fa.tubi.video/bbc-earth2/playlist1080p.m3u8
 https://hls.iill.top/api/BBC-Earth/playlist.m3u8
-#EXTINF:-1 tvg-id="Nature Time" tvg-logo="/sdcard/TV/logo/NatureTime.png" group-title="纪录",Nature Time
+#EXTINF:-1 tvg-id="Nature Time" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NatureTime.png" group-title="纪录",Nature Time
 https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
 https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-id="RT Documentary" tvg-logo="/sdcard/TV/logo/RTDoc.png" group-title="纪录",RT Documentary
+#EXTINF:-1 tvg-id="RT Documentary" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTDoc.png" group-title="纪录",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="Wonder" tvg-logo="/sdcard/TV/logo/Wonder.png" group-title="纪录",Wonder
+#EXTINF:-1 tvg-id="Wonder" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Wonder.png" group-title="纪录",Wonder
 https://lds-wonder-rakuten.amagi.tv/1080p-cc/index.m3u8
 https://lds-wonder-plex.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="4K TRAVEL" tvg-logo="/sdcard/TV/logo/4KTravel.png" group-title="纪录",4K TRAVEL
+#EXTINF:-1 tvg-id="4K TRAVEL" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/4KTravel.png" group-title="纪录",4K TRAVEL
 https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
-#EXTINF:-1 tvg-id="Xplore TV" tvg-logo="/sdcard/TV/logo/XploreTV.png" group-title="纪录",Xplore TV
+#EXTINF:-1 tvg-id="Xplore TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/XploreTV.png" group-title="纪录",Xplore TV
 https://xplore-xumo.amagi.tv/1080p-cc/index.m3u8
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00111-hearstmediaprod-xploreintlnl-samsungnl/playlist.m3u8
-#EXTINF:-1 tvg-id="Wild Stuff" tvg-logo="/sdcard/TV/logo/WildStuff.png" group-title="纪录",Wild Stuff
+#EXTINF:-1 tvg-id="Wild Stuff" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/WildStuff.png" group-title="纪录",Wild Stuff
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-pulse-samsungnz/playlist.m3u8
 https://amg01076-lightningintern-pulse-samsungau-4a45e.amagi.tv/playlist/amg01076-lightningintern-pulse-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="BritBox Mysteries" tvg-logo="/sdcard/TV/logo/BritBoxMysteries.png" group-title="纪录",BritBox Mysteries
+#EXTINF:-1 tvg-id="BritBox Mysteries" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BritBoxMysteries.png" group-title="纪录",BritBox Mysteries
 https://aegis-cloudfront-1.tubi.video/c95700f8-e51c-4a36-ad46-56f70fc9f1d9/playlist.m3u8
-#EXTINF:-1 tvg-id="Dateline" tvg-logo="/sdcard/TV/logo/Dateline.png" group-title="纪录",Dateline 24/7
+#EXTINF:-1 tvg-id="Dateline" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Dateline.png" group-title="纪录",Dateline 24/7
 https://dz59iptwz5rxs.cloudfront.net/live/master.m3u8
-#EXTINF:-1 tvg-id="PowerNation" tvg-logo="/sdcard/TV/logo/PowerNation.png" group-title="纪录",PowerNation TV
+#EXTINF:-1 tvg-id="PowerNation" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PowerNation.png" group-title="纪录",PowerNation TV
 https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3u8
 
 #时尚
-#EXTINF:-1 tvg-id="Fashion TV" tvg-logo="/sdcard/TV/logo/FashionTV.png" group-title="时尚",Fashion TV
+#EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/FashionTV.png" group-title="时尚",Fashion TV
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
-#EXTINF:-1 tvg-id="Global Fashion Channel" tvg-logo="/sdcard/TV/logo/GFC.png" group-title="时尚",Global Fashion Channel
+#EXTINF:-1 tvg-id="Global Fashion Channel" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/GFC.png" group-title="时尚",Global Fashion Channel
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/cdbe280e-0aea-4bbe-861f-fd115abcfec7_1080p.m3u8
-#EXTINF:-1 tvg-id="The Design Network" tvg-logo="/sdcard/TV/logo/TheDesignNetwork.png" group-title="时尚",The Design Network
+#EXTINF:-1 tvg-id="The Design Network" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TheDesignNetwork.png" group-title="时尚",The Design Network
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
 
 #美食
-#EXTINF:-1 tvg-id="Bon Appétit" tvg-logo="/sdcard/TV/logo/BonAppétit.png" group-title="美食",Bon Appétit
+#EXTINF:-1 tvg-id="Bon Appétit" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BonAppétit.png" group-title="美食",Bon Appétit
 https://bonappetit-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Hell's Kitchen" tvg-logo="/sdcard/TV/logo/Hell'sKitchen.png" group-title="美食",Hell's Kitchen
+#EXTINF:-1 tvg-id="Hell's Kitchen" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Hell'sKitchen.png" group-title="美食",Hell's Kitchen
 https://itv-hellskitchen-rakuten.amagi.tv/1080p/index.m3u8
-#EXTINF:-1 tvg-id="Tastemade" tvg-logo="/sdcard/TV/logo/Tastemade.png" group-title="美食",Tastemade
+#EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Tastemade.png" group-title="美食",Tastemade
 https://tastemade-xumo.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="Tastemade" tvg-logo="/sdcard/TV/logo/Tastemade.png" group-title="美食",Tastemade US
+#EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Tastemade.png" group-title="美食",Tastemade US
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
-#EXTINF:-1 tvg-id="Tastemade" tvg-logo="/sdcard/TV/logo/Tastemade.png" group-title="美食",Tastemade AU
+#EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Tastemade.png" group-title="美食",Tastemade AU
 https://tastemade-aus-tmina-rakuten.amagi.tv/playlist1080-p.m3u8
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
-#EXTINF:-1 tvg-id="Tastemade Intl" tvg-logo="/sdcard/TV/logo/Tastemade.png" group-title="美食",Tastemade Intl
+#EXTINF:-1 tvg-id="Tastemade Intl" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Tastemade.png" group-title="美食",Tastemade Intl
 https://tmint-aus-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Gusto TV" tvg-logo="/sdcard/TV/logo/GustoTV.png" group-title="美食",Gusto TV
+#EXTINF:-1 tvg-id="Gusto TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/GustoTV.png" group-title="美食",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
 https://gusto-xumo.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="iFood.tv" tvg-logo="/sdcard/TV/logo/iFood.tv.png" group-title="美食",iFood.tv
+#EXTINF:-1 tvg-id="iFood.tv" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iFood.tv.png" group-title="美食",iFood.tv
 https://ifood-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="The Jamie Oliver Channel" tvg-logo="/sdcard/TV/logo/JamieOliver.png" group-title="美食",The Jamie Oliver Channel
+#EXTINF:-1 tvg-id="The Jamie Oliver Channel" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/JamieOliver.png" group-title="美食",The Jamie Oliver Channel
 https://jamieoliver-xumo.amagi.tv/1080p/index.m3u8
 
 #运动
-#EXTINF:-1 tvg-id="PAC 12 Insider" tvg-logo="/sdcard/TV/logo/PAC12Insider.png" group-title="运动",PAC 12 Insider
+#EXTINF:-1 tvg-id="PAC 12 Insider" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PAC12Insider.png" group-title="运动",PAC 12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 https://pac12-firetv.amagi.tv/playlistR1080p.m3u8
 https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="Trace Sport Stars" tvg-logo="/sdcard/TV/logo/TraceSportStars.png" group-title="运动",Trace Sport Stars
+#EXTINF:-1 tvg-id="Trace Sport Stars" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TraceSportStars.png" group-title="运动",Trace Sport Stars
 https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
 https://trace-sportstars-tcl.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="Sports Grid" tvg-logo="/sdcard/TV/logo/SportsGrid.png" group-title="运动",Sports Grid
+#EXTINF:-1 tvg-id="Sports Grid" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/SportsGrid.png" group-title="运动",Sports Grid
 https://sportsgrid-samsungus.amagi.tv/playlist.m3u8
 https://amg00315-sportsgrid-firetv.amagi.tv/playlist1080p.m3u8
 https://sportsgrid-plex.amagi.tv/playlist1080p.m3u8
 https://sportsgrid-tribal.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="Unbeaten" tvg-logo="/sdcard/TV/logo/Unbeaten.png" group-title="运动",Unbeaten
+#EXTINF:-1 tvg-id="Unbeaten" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Unbeaten.png" group-title="运动",Unbeaten
 https://unbeaten-tcl.amagi.tv/1080p-cc/index.m3u8
 https://inverleigh-unbeaten-redbox.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="RedBull TV" tvg-logo="/sdcard/TV/logo/RedBullTV.png" group-title="运动",RedBull TV
+#EXTINF:-1 tvg-id="RedBull TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RedBullTV.png" group-title="运动",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-logo="/sdcard/TV/logo/beINSPORTSXTRA.png" group-title="运动",beIN SPORTS XTRA
+#EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/beINSPORTSXTRA.png" group-title="运动",beIN SPORTS XTRA
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="ACC Digital Network" tvg-logo="/sdcard/TV/logo/ACCDN.png" group-title="运动",ACC Digital Network
+#EXTINF:-1 tvg-id="ACC Digital Network" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ACCDN.png" group-title="运动",ACC Digital Network
 https://raycom-accdn-firetv.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="PGA Tour" tvg-logo="/sdcard/TV/logo/PGATour.png" group-title="运动",PGA Tour
+#EXTINF:-1 tvg-id="PGA Tour" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PGATour.png" group-title="运动",PGA Tour
 https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
-#EXTINF:-1 tvg-id="Nitro Circus" tvg-logo="/sdcard/TV/logo/NitroCircus.png" group-title="运动",Nitro Circus
+#EXTINF:-1 tvg-id="Nitro Circus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NitroCircus.png" group-title="运动",Nitro Circus
 https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist1080P.m3u8
 
 #户外
-#EXTINF:-1 tvg-id="Real Wild" tvg-logo="/sdcard/TV/logo/RealWild.png" group-title="户外",Real Wild
+#EXTINF:-1 tvg-id="Real Wild" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RealWild.png" group-title="户外",Real Wild
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00426-littledotstudio-realwildnz-samsungnz/playlist.m3u8
 https://lds-realwild-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Outside TV" tvg-logo="/sdcard/TV/logo/OutsideTV.png" group-title="户外",Outside TV
+#EXTINF:-1 tvg-id="Outside TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/OutsideTV.png" group-title="户外",Outside TV
 https://outsidetv-firetv.amagi.tv/playlistR1080p.m3u8
 https://outsidetv-oando.amagi.tv/playlistR1080p.m3u8
 https://livetv-fa.tubi.video/outsidetv2/playlistR_1080p.m3u8
-#EXTINF:-1 tvg-id="Outdoor Channel" tvg-logo="/sdcard/TV/logo/Outdoor.png" group-title="户外",Outdoor Channel
+#EXTINF:-1 tvg-id="Outdoor Channel" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Outdoor.png" group-title="户外",Outdoor Channel
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg00718-outdoorchannela-outdoortvnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="Wild TV" tvg-logo="/sdcard/TV/logo/WildTV.png" group-title="户外",Wild TV
+#EXTINF:-1 tvg-id="Wild TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/WildTV.png" group-title="户外",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476/variant/22100058.m3u8
-#EXTINF:-1 tvg-id="Waypoint TV" tvg-logo="/sdcard/TV/logo/WayPoint.png" group-title="户外",Waypoint TV
+#EXTINF:-1 tvg-id="Waypoint TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/WayPoint.png" group-title="户外",Waypoint TV
 https://waypoint-waypointtv-firetv.amagi.tv/1080p-cc/index.m3u8
 https://amg00381-waypointcommuni-waypointtv-xumo-syiru.amagi.tv/1080p-cc/index.m3u8
 https://aegis-cloudfront-1.tubi.video/0831606b-a9dc-4ee9-a381-52b0c9b59b2f/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Outdoor America" tvg-logo="/sdcard/TV/logo/OutdoorAmerica.png" group-title="户外",Outdoor America
+#EXTINF:-1 tvg-id="Outdoor America" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/OutdoorAmerica.png" group-title="户外",Outdoor America
 https://linear-600.frequency.stream/dist/xumo/600/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="PursuitUP" tvg-logo="/sdcard/TV/logo/PursuitUp.png" group-title="户外",PursuitUP
+#EXTINF:-1 tvg-id="PursuitUP" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PursuitUp.png" group-title="户外",PursuitUP
 https://linear-205.frequency.stream/dist/glewedtv/205/hls/master/playlist.m3u8
 
 #综合
-#EXTINF:-1 tvg-id="AWE Encore" tvg-logo="/sdcard/TV/logo/AWEEncore.png" group-title="综合",AWE Encore
+#EXTINF:-1 tvg-id="AWE Encore" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AWEEncore.png" group-title="综合",AWE Encore
 https://a-cdn.herringnetwork.com/affiliate/awee/live/awee_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="Bloomberg Quicktake" tvg-logo="/sdcard/TV/logo/BloombergQuicktake.png" group-title="综合",Bloomberg Quicktake
+#EXTINF:-1 tvg-id="Bloomberg Quicktake" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BloombergQuicktake.png" group-title="综合",Bloomberg Quicktake
 https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/origin/contribution-m1-bloomberg-quicktake/6128k/index.m3u8
-#EXTINF:-1 tvg-id="Fox Soul" tvg-logo="/sdcard/TV/logo/FoxSoul.png" group-title="综合",Fox Soul
+#EXTINF:-1 tvg-id="Fox Soul" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/FoxSoul.png" group-title="综合",Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="Wellbeing TV" tvg-logo="/sdcard/TV/logo/WellbeingTV.png" group-title="综合",Wellbeing TV
+#EXTINF:-1 tvg-id="Wellbeing TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/WellbeingTV.png" group-title="综合",Wellbeing TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
-#EXTINF:-1 tvg-id="INFAST" tvg-logo="/sdcard/TV/logo/INFAST.png" group-title="综合",INFAST
+#EXTINF:-1 tvg-id="INFAST" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/INFAST.png" group-title="综合",INFAST
 https://lifestyle-rakuten.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-id="Mythbusters" tvg-logo="/sdcard/TV/logo/Mythbusters.png" group-title="综合",Mythbusters
+#EXTINF:-1 tvg-id="Mythbusters" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Mythbusters.png" group-title="综合",Mythbusters
 https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/1080p/index.m3u8
-#EXTINF:-1 tvg-id="Inside Crime" tvg-logo="/sdcard/TV/logo/InsideCrime.png" group-title="综合",Inside Crime
+#EXTINF:-1 tvg-id="Inside Crime" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/InsideCrime.png" group-title="综合",Inside Crime
 https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Nosey" tvg-logo="/sdcard/TV/logo/Nosey.png" group-title="综合",Nosey
+#EXTINF:-1 tvg-id="Nosey" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Nosey.png" group-title="综合",Nosey
 https://amg00514-noseybaxterllc-nosey-cineverse-hvu5a.amagi.tv/playlist/amg00514-noseybaxterllc-nosey-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="Judge Nosey" tvg-logo="/sdcard/TV/logo/JudgeNosey.png" group-title="综合",Judge Nosey
+#EXTINF:-1 tvg-id="Judge Nosey" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/JudgeNosey.png" group-title="综合",Judge Nosey
 https://amg00514-noseybaxterllc-realnosey-cineverse-tqbpv.amagi.tv/playlist/amg00514-noseybaxterllc-realnosey-cineverse/playlist.m3u8
 
 #娱乐
-#EXTINF:-1 tvg-id="Popstar!TV" tvg-logo="/sdcard/TV/logo/Popstar!TV.png" group-title="娱乐",Popstar!TV
+#EXTINF:-1 tvg-id="Popstar!TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Popstar!TV.png" group-title="娱乐",Popstar!TV
 https://linear-10.frequency.stream/dist/stirr/10/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Young Hollywood" tvg-logo="/sdcard/TV/logo/YoungHollywood.png" group-title="娱乐",Young Hollywood
+#EXTINF:-1 tvg-id="Young Hollywood" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/YoungHollywood.png" group-title="娱乐",Young Hollywood
 https://younghollywood-rakuten-samsung.amagi.tv/1080p-cc/index.m3u8
 https://younghollywood-tcl.amagi.tv/1080p-cc/index.m3u8
 https://younghollywood-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Hi-YAH!" tvg-logo="/sdcard/TV/logo/Hi-YAH!.png" group-title="娱乐",Hi-YAH!
+#EXTINF:-1 tvg-id="Hi-YAH!" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Hi-YAH!.png" group-title="娱乐",Hi-YAH!
 https://linear-59.frequency.stream/dist/xumo/59/hls/master/playlist.m3u8
-#EXTINF:-1 tvg-id="Roar" tvg-logo="/sdcard/TV/logo/Roar.png" group-title="娱乐",Roar
+#EXTINF:-1 tvg-id="Roar" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Roar.png" group-title="娱乐",Roar
 https://fast-channels.sinclairstoryline.com/TBD/index.m3u8
-#EXTINF:-1 tvg-id="Pet Club TV" tvg-logo="/sdcard/TV/logo/PetClubTV.png" group-title="娱乐",Pet Club TV
+#EXTINF:-1 tvg-id="Pet Club TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PetClubTV.png" group-title="娱乐",Pet Club TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-petclub-samsungnz/playlist.m3u8
 https://lightning-petclub-xiaomi.amagi.tv/playlist1080p.m3u8
 https://petclub-samsungaus.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="Haunt TV" tvg-logo="/sdcard/TV/logo/HauntTV.png" group-title="娱乐",Haunt TV
+#EXTINF:-1 tvg-id="Haunt TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HauntTV.png" group-title="娱乐",Haunt TV
 https://bamcahaunttvrakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Mystery TV" tvg-logo="/sdcard/TV/logo/MysteryTV.png" group-title="娱乐",Mystery TV
+#EXTINF:-1 tvg-id="Mystery TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MysteryTV.png" group-title="娱乐",Mystery TV
 https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="The Nest" tvg-logo="/sdcard/TV/logo/TheNest.png" group-title="娱乐",The Nest
+#EXTINF:-1 tvg-id="The Nest" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TheNest.png" group-title="娱乐",The Nest
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 
 #影视
-#EXTINF:-1 tvg-id="AMC Networks" tvg-logo="/sdcard/TV/logo/AMCNetworks.png" group-title="影视",AMC Networks
+#EXTINF:-1 tvg-id="AMC Networks" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AMCNetworks.png" group-title="影视",AMC Networks
 https://amc-amcpresents-1-us.xumo.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTimeMovie.png" group-title="影视",MyTime Movie
+#EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MyTimeMovie.png" group-title="影视",MyTime Movie
 https://mytime-tcl.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="/sdcard/TV/logo/MyTimeMovie.png" group-title="影视",MyTime Movie UK
+#EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MyTimeMovie.png" group-title="影视",MyTime Movie UK
 https://mytimeuk-rakuten-samsung.amagi.tv/1080p/index.m3u8
 https://appletree-mytimeau-samsung.amagi.tv/1080p/index.m3u8
-#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="/sdcard/TV/logo/MovieSphere.png" group-title="影视",MovieSphere
+#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MovieSphere.png" group-title="影视",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSpherebyLionsgate" tvg-logo="/sdcard/TV/logo/MovieSpherebyLionsgate.png" group-title="影视",MovieSphere by LionsGate
+#EXTINF:-1 tvg-id="MovieSpherebyLionsgate" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MovieSpherebyLionsgate.png" group-title="影视",MovieSphere by LionsGate
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Universal Action" tvg-logo="/sdcard/TV/logo/UniversalAction.png" group-title="影视",Universal Action
+#EXTINF:-1 tvg-id="Universal Action" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/UniversalAction.png" group-title="影视",Universal Action
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Universal Crime" tvg-logo="/sdcard/TV/logo/UniversalCrime.png" group-title="影视",Universal Crime
+#EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/UniversalCrime.png" group-title="影视",Universal Crime
 https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Universal Westerns" tvg-logo="/sdcard/TV/logo/UniversalWesterns.png" group-title="影视",Universal Westerns
+#EXTINF:-1 tvg-id="Universal Westerns" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/UniversalWesterns.png" group-title="影视",Universal Westerns
 https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master.m3u8
-#EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-logo="/sdcard/TV/logo/ActionHollywoodMovies.png" group-title="影视",Action Hollywood Movies
+#EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ActionHollywoodMovies.png" group-title="影视",Action Hollywood Movies
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="CineLife" tvg-logo="/sdcard/TV/logo/CineLife.png" group-title="影视",CineLife
+#EXTINF:-1 tvg-id="CineLife" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CineLife.png" group-title="影视",CineLife
 https://magnolia-cinelife.amagi.tv/playlist1080p.m3u8
 https://magnolia-cinelife.amagi.tv/hls/amagi_hls_data_magnoliaA-cinelife-oando/CDN/playlist.m3u8
-#EXTINF:-1 tvg-id="Circle Country" tvg-logo="/sdcard/TV/logo/CircleCountry.png" group-title="影视",Circle Country
+#EXTINF:-1 tvg-id="Circle Country" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CircleCountry.png" group-title="影视",Circle Country
 https://circle-samsung.amagi.tv/playlist.m3u8
 https://circle-roku.amagi.tv/1080p-cc/index.m3u8
 https://circle-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Maverick Black Cinema" tvg-logo="/sdcard/TV/logo/MaverickBlackCinema.png" group-title="影视",Maverick Black Cinema
+#EXTINF:-1 tvg-id="Maverick Black Cinema" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MaverickBlackCinema.png" group-title="影视",Maverick Black Cinema
 https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/4300.m3u8
 
 #音乐
-#EXTINF:-1 tvg-id="California Music Channel" tvg-logo="/sdcard/TV/logo/CMC.png" group-title="音乐",California Music Channel
+#EXTINF:-1 tvg-id="California Music Channel" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CMC.png" group-title="音乐",California Music Channel
 https://cmc-cmctv-cineverse.amagi.tv/playlist1080_p.m3u8
 https://cmc-ono.amagi.tv/playlist1080_p.m3u8
 https://cmc-kowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="Trace Urban" tvg-logo="/sdcard/TV/logo/TraceUrban.png" group-title="音乐",Trace Urban
+#EXTINF:-1 tvg-id="Trace Urban" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TraceUrban.png" group-title="音乐",Trace Urban
 https://amg01131-tracetv-amg01131c1-rakuten-us-1081.playouts.now.amagi.tv/playlist/amg01131-tracetvfast-traceurban-rakutenus/playlist.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00398-zeasneuropebv-traceurban-zeasn/playlist.m3u8
 https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist1080p.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="Trace Latina" tvg-logo="/sdcard/TV/logo/TraceLatina.png" group-title="音乐",Trace Latina
+#EXTINF:-1 tvg-id="Trace Latina" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TraceLatina.png" group-title="音乐",Trace Latina
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
-#EXTINF:-1 tvg-id="iTV Urban Music" tvg-logo="/sdcard/TV/logo/iTV.png" group-title="音乐",iTV Urban Music
+#EXTINF:-1 tvg-id="iTV Urban Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Urban Music
 https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTV Turkish Music" tvg-logo="/sdcard/TV/logo/iTV.png" group-title="音乐",iTV Turkish Music
+#EXTINF:-1 tvg-id="iTV Turkish Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Turkish Music
 https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTV Latin Music" tvg-logo="/sdcard/TV/logo/iTV.png" group-title="音乐",iTV Latin Music
+#EXTINF:-1 tvg-id="iTV Latin Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Latin Music
 https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTV Indian Music" tvg-logo="/sdcard/TV/logo/iTV.png" group-title="音乐",iTV Indian Music
+#EXTINF:-1 tvg-id="iTV Indian Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Indian Music
 https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTV Arabic Music" tvg-logo="/sdcard/TV/logo/iTV.png" group-title="音乐",iTV Arabic Music
+#EXTINF:-1 tvg-id="iTV Arabic Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Arabic Music
 https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTV Afrobeats Music" tvg-logo="/sdcard/TV/logo/iTV.png" group-title="音乐",iTV Afrobeats Music
+#EXTINF:-1 tvg-id="iTV Afrobeats Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Afrobeats Music
 https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Now 80s" tvg-logo="/sdcard/TV/logo/Now80s.png" group-title="音乐",Now 80s
+#EXTINF:-1 tvg-id="Now 80s" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Now80s.png" group-title="音乐",Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="Now Rock" tvg-logo="/sdcard/TV/logo/NowRock.png" group-title="音乐",Now Rock
+#EXTINF:-1 tvg-id="Now Rock" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NowRock.png" group-title="音乐",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist1080.m3u8
-#EXTINF:-1 tvg-id="Now 90s00s" tvg-logo="/sdcard/TV/logo/Now90s00s.png" group-title="音乐",Now 90s00s
+#EXTINF:-1 tvg-id="Now 90s00s" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Now90s00s.png" group-title="音乐",Now 90s00s
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo Pop" tvg-logo="/sdcard/TV/logo/VevoPop.png" group-title="音乐",Vevo Pop
+#EXTINF:-1 tvg-id="Vevo Pop" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/VevoPop.png" group-title="音乐",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo Retro Rock" tvg-logo="/sdcard/TV/logo/VevoRetroRock.png" group-title="音乐",Vevo Retro Rock
+#EXTINF:-1 tvg-id="Vevo Retro Rock" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/VevoRetroRock.png" group-title="音乐",Vevo Retro Rock
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo Country" tvg-logo="/sdcard/TV/logo/VevoCountry.png" group-title="音乐",Vevo Country
+#EXTINF:-1 tvg-id="Vevo Country" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/VevoCountry.png" group-title="音乐",Vevo Country
 https://amg00056-vevotv-vevocountryau-samsungau-ktmqm.amagi.tv/playlist/amg00056-vevotv-vevocountryau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo Latino" tvg-logo="/sdcard/TV/logo/VevoLatino.png" group-title="音乐",Vevo Latino
+#EXTINF:-1 tvg-id="Vevo Latino" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/VevoLatino.png" group-title="音乐",Vevo Latino
 https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
-#EXTINF:-1 tvg-id="Vevo 2K" tvg-logo="/sdcard/TV/logo/Vevo2K.png" group-title="音乐",Vevo 2K
+#EXTINF:-1 tvg-id="Vevo 2K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Vevo2K.png" group-title="音乐",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
-#EXTINF:-1 tvg-id="RJTV" tvg-logo="/sdcard/TV/logo/RadioJavan.png" group-title="音乐",Radio Javan
+#EXTINF:-1 tvg-id="RJTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RadioJavan.png" group-title="音乐",Radio Javan
 https://rjtvhls.wns.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="New K-POP" tvg-logo="/sdcard/TV/logo/NewKPop.png" group-title="音乐",New K-POP
+#EXTINF:-1 tvg-id="New K-POP" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewKPop.png" group-title="音乐",New K-POP
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="LIVExLIVE" tvg-logo="/sdcard/TV/logo/LIVExLIVE.png" group-title="音乐",LIVExLIVE
+#EXTINF:-1 tvg-id="LIVExLIVE" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/LIVExLIVE.png" group-title="音乐",LIVExLIVE
 https://livestream.liveone.com/lc1/p1.m3u8
-#EXTINF:-1 tvg-id="4KURD" tvg-logo="/sdcard/TV/logo/4KURD.png" group-title="音乐",4KURD
+#EXTINF:-1 tvg-id="4KURD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/4KURD.png" group-title="音乐",4KURD
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Az Star TV" tvg-logo="/sdcard/TV/logo/AzStarTV.png" group-title="音乐",Az Star TV
+#EXTINF:-1 tvg-id="Az Star TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AzStarTV.png" group-title="音乐",Az Star TV
 http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Qwest TV" tvg-logo="/sdcard/TV/logo/QwestTV.png" group-title="音乐",Qwest TV
+#EXTINF:-1 tvg-id="Qwest TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/QwestTV.png" group-title="音乐",Qwest TV
 https://qwest-jazz-plex.amagi.tv/1080p-cc/index.m3u8
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
-#EXTINF:-1 tvg-id="Holidayscapes" tvg-logo="/sdcard/TV/logo/Holidayscapes.png" group-title="音乐",Holidayscapes
+#EXTINF:-1 tvg-id="Holidayscapes" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Holidayscapes.png" group-title="音乐",Holidayscapes
 https://plextv.ott-channels.stingray.com/holidayscapes/master_1920x1080_4500kbps.m3u8
-#EXTINF:-1 tvg-id="Qello Concerts by Stingray" tvg-logo="/sdcard/TV/logo/QelloConcerts.png" group-title="音乐",Qello Concerts by Stingray
+#EXTINF:-1 tvg-id="Qello Concerts by Stingray" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/QelloConcerts.png" group-title="音乐",Qello Concerts by Stingray
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/f3b3b889-e519-3156-810f-18850e58a304/5711200/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayClassicRock" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Classic Rock
+#EXTINF:-1 tvg-id="StingrayClassicRock" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Classic Rock
 https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/91f1e420-bb65-3ca7-97bd-d01df1ad4df1/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayClassica" tvg-logo="/sdcard/TV/logo/StingrayClassica.png" group-title="音乐",Stingray Classica
+#EXTINF:-1 tvg-id="StingrayClassica" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayClassica.png" group-title="音乐",Stingray Classica
 https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/ab2001ec-760a-3ffc-94e5-f8a15e702859/5711200/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayCMusic" tvg-logo="/sdcard/TV/logo/StingrayMovieMusic.png" group-title="音乐",Stingray Movie Music
+#EXTINF:-1 tvg-id="StingrayCMusic" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMovieMusic.png" group-title="音乐",Stingray Movie Music
 https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/dee3e3af-2706-3e77-a952-91b99f6d1819/5711200/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayDJazz" tvg-logo="/sdcard/TV/logo/StingrayDJazz.png" group-title="音乐",Stingray DJazz
+#EXTINF:-1 tvg-id="StingrayDJazz" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayDJazz.png" group-title="音乐",Stingray DJazz
 https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/73e02e1d-5121-3c33-b4f9-5fe1cc759880/5711200/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayEasyListening" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Easy Listening
+#EXTINF:-1 tvg-id="StingrayEasyListening" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Easy Listening
 https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/8254a89c-49b0-3801-833e-c8a535b9d854/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayFlashback70s" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Flashback 70s
+#EXTINF:-1 tvg-id="StingrayFlashback70s" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Flashback 70s
 https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/208601fc-a1b0-3a27-8918-a3734147e78e/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayHitList" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Hit List
+#EXTINF:-1 tvg-id="StingrayHitList" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Hit List
 https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/7f5c4019-53d1-3ece-aad4-eeab2919c146/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayHolidayHits" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Holiday Hits
+#EXTINF:-1 tvg-id="StingrayHolidayHits" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Holiday Hits
 https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/b60fdee7-b18d-3d13-94e6-91a82593e061/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayHotCountry" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Hot Country
+#EXTINF:-1 tvg-id="StingrayHotCountry" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Hot Country
 https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/f15587f1-baba-3453-92b5-c95316b3966b/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayNaturescape" tvg-logo="/sdcard/TV/logo/StingrayNaturescape.png" group-title="音乐",Stingray Naturescape
+#EXTINF:-1 tvg-id="StingrayNaturescape" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayNaturescape.png" group-title="音乐",Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/f7ed86a4-b8ac-38e0-a745-710077a95be6/5711200/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayNothinBut90s" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Nothin' But 90s
+#EXTINF:-1 tvg-id="StingrayNothinBut90s" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Nothin' But 90s
 https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/f5102ca4-edd7-30ac-a357-877f60db023b/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayPopAdult" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Pop Adult
+#EXTINF:-1 tvg-id="StingrayPopAdult" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/bc9b6149-730c-3f60-9fbb-38eaec27fe03/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayEverything80s" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Remember the 80s
+#EXTINF:-1 tvg-id="StingrayEverything80s" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Remember the 80s
 https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/82f53b7b-ca5e-3494-9844-c2faca0e2ad7/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayRockAlternative" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Rock Alternative
+#EXTINF:-1 tvg-id="StingrayRockAlternative" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Rock Alternative
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/86c450ed-9e6a-3c4f-9b87-08174d04fab6/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayRomanceLatino" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Romance Latino
+#EXTINF:-1 tvg-id="StingrayRomanceLatino" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Romance Latino
 https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/c48b76a5-f00b-3a50-954b-ef72b1f0bd41/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingraySmoothJazz" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Smooth Jazz
+#EXTINF:-1 tvg-id="StingraySmoothJazz" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Smooth Jazz
 https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/e2d052eb-8636-3304-b427-f98cc0be8a10/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingraySoulStorm" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Soul Storm
+#EXTINF:-1 tvg-id="StingraySoulStorm" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Soul Storm
 https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/33357341-efb9-3b26-b81b-f78a0f4b7617/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayTheSpa" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray The Spa
+#EXTINF:-1 tvg-id="StingrayTheSpa" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray The Spa
 https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/3db6a047-c610-359d-a79d-87adf9dc89cc/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysKPop" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Today's KPOP
+#EXTINF:-1 tvg-id="StingrayTodaysKPop" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Today's KPOP
 https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/7f580049-e104-34da-bf75-65c1708e6c1f/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayTodaysLatinPop" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Today's Latin Pop
+#EXTINF:-1 tvg-id="StingrayTodaysLatinPop" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Today's Latin Pop
 https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/04939495-ffda-3654-b847-6e66ef589ab2/1790800/manifest.m3u8
-#EXTINF:-1 tvg-id="StingrayUrbanBeat" tvg-logo="/sdcard/TV/logo/StingrayMusic.png" group-title="音乐",Stingray Urban Beat
+#EXTINF:-1 tvg-id="StingrayUrbanBeat" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StingrayMusic.png" group-title="音乐",Stingray Urban Beat
 https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/f0ddd223-c745-3962-8e7b-b9ba58b428a0/1790800/manifest.m3u8
 
 #新闻
-#EXTINF:-1 tvg-id="ABC News Live" tvg-logo="/sdcard/TV/logo/ABCNewsLive.png" group-title="新闻",ABC News Live
+#EXTINF:-1 tvg-id="ABC News Live" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ABCNewsLive.png" group-title="新闻",ABC News Live
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
-#EXTINF:-1 tvg-id="CBC News" tvg-logo="/sdcard/TV/logo/CBCNews.png" group-title="新闻",CBC News
+#EXTINF:-1 tvg-id="CBC News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CBCNews.png" group-title="新闻",CBC News
 https://amg00788-cbc-amg00788c4-xumo-us-3045.playouts.now.amagi.tv/master1080P.m3u8
-#EXTINF:-1 tvg-id="NBC News Now" tvg-logo="/sdcard/TV/logo/NBCNewsNow.png" group-title="新闻",NBC News Now
+#EXTINF:-1 tvg-id="NBC News Now" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NBCNewsNow.png" group-title="新闻",NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master.m3u8
 https://livetv-fa.tubi.video/nbc-news-now/master.m3u8
-#EXTINF:-1 tvg-id="NEWSMAX" tvg-logo="/sdcard/TV/logo/NEWSMAX.png" group-title="新闻",NEWSMAX
+#EXTINF:-1 tvg-id="NEWSMAX" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NEWSMAX.png" group-title="新闻",NEWSMAX
 https://nmx1ota.akamaized.net/hls/live/2107010/Live_1/index.m3u8
-#EXTINF:-1 tvg-id="NEWSMAX2" tvg-logo="/sdcard/TV/logo/NEWSMAX2.png" group-title="新闻",NEWSMAX2
+#EXTINF:-1 tvg-id="NEWSMAX2" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NEWSMAX2.png" group-title="新闻",NEWSMAX2
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 https://newsmax-vizio.amagi.tv/playlist1080p.m3u8
 https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
 https://newsmax-samsungus.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="OAN" tvg-logo="/sdcard/TV/logo/OAN.png" group-title="新闻",One America News
+#EXTINF:-1 tvg-id="OAN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/OAN.png" group-title="新闻",One America News
 https://oneamericanews-roku-us.amagi.tv/playlistR1080p.m3u8
 https://oneamericanews-vizio.amagi.tv/playlistR1080p.m3u8
 https://oan-lg.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 tvg-id="OAN Plus" tvg-logo="/sdcard/TV/logo/OANPlus.png" group-title="新闻",OAN Plus
+#EXTINF:-1 tvg-id="OAN Plus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/OANPlus.png" group-title="新闻",OAN Plus
 https://oan-plus-tcl.amagi.tv/playlistR1080p.m3u8
-#EXTINF:-1 tvg-id="OAN Encore" tvg-logo="/sdcard/TV/logo/OANEncore.png" group-title="新闻",OAN Encore
+#EXTINF:-1 tvg-id="OAN Encore" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/OANEncore.png" group-title="新闻",OAN Encore
 https://a-cdn.herringnetwork.com/affiliate/oane/live/oane_1080p/chunks.m3u8
-#EXTINF:-1 tvg-id="Vice News" tvg-logo="/sdcard/TV/logo/ViceNews.png" group-title="新闻",Vice News
+#EXTINF:-1 tvg-id="Vice News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ViceNews.png" group-title="新闻",Vice News
 https://vicetv-vicefast2-firetv.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Today All Day" tvg-logo="/sdcard/TV/logo/TodayAllDay.png" group-title="新闻",Today All Day
+#EXTINF:-1 tvg-id="Today All Day" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TodayAllDay.png" group-title="新闻",Today All Day
 https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/master.m3u8
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
 https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_channelId=88814559&ads.xumo_streamId=88814559
-#EXTINF:-1 tvg-id="The First TV" tvg-logo="/sdcard/TV/logo/TheFirstTV.png" group-title="新闻",The First TV
+#EXTINF:-1 tvg-id="The First TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TheFirstTV.png" group-title="新闻",The First TV
 https://thefirst-oando.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="theGrio TV" tvg-logo="/sdcard/TV/logo/TheGrio.png" group-title="新闻",theGrio TV
+#EXTINF:-1 tvg-id="theGrio TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TheGrio.png" group-title="新闻",theGrio TV
 http://redbox-blacknewschannel-xumo.amagi.tv/1080p-cc/index.m3u8
 https://blacknewschannel-amazon.amagi.tv/1080p-cc/index.m3u8
 https://blacknewschannel-vizio.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="UN Web TV" tvg-logo="/sdcard/TV/logo/UNWebTV.png" group-title="新闻",UN Web TV
+#EXTINF:-1 tvg-id="UN Web TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/UNWebTV.png" group-title="新闻",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="BBC News" tvg-logo="/sdcard/TV/logo/BBCNews.png" group-title="新闻",BBC News
+#EXTINF:-1 tvg-id="BBC News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BBCNews.png" group-title="新闻",BBC News
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 tvg-id="GB News" tvg-logo="/sdcard/TV/logo/GBNews.png" group-title="新闻",GB News
+#EXTINF:-1 tvg-id="GB News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/GBNews.png" group-title="新闻",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
 https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/playlist/amg01076-lightningintern-gbnewsse-samsungse/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="France24" tvg-logo="/sdcard/TV/logo/France24.png" group-title="新闻",France 24
+#EXTINF:-1 tvg-id="France24" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/France24.png" group-title="新闻",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="CNA" tvg-logo="/sdcard/TV/logo/CNA.png" group-title="新闻",Channel News Asia
+#EXTINF:-1 tvg-id="CNA" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CNA.png" group-title="新闻",Channel News Asia
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 tvg-id="RT News" tvg-logo="/sdcard/TV/logo/RTNews.png" group-title="新闻",RT News
+#EXTINF:-1 tvg-id="RT News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTNews.png" group-title="新闻",RT News
 https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
-#EXTINF:-1 tvg-id="Arirang" tvg-logo="/sdcard/TV/logo/Arirang.png" group-title="新闻",Arirang
+#EXTINF:-1 tvg-id="Arirang" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Arirang.png" group-title="新闻",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 http://amdlive-ch02.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
@@ -1036,5 +1036,5 @@ https://amdlive-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunkli
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 https://amdlive-ch02-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 https://amdlive-ch03-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 tvg-id="Wion News" tvg-logo="/sdcard/TV/logo/WionNews.png" group-title="新闻",Wion News
+#EXTINF:-1 tvg-id="Wion News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/WionNews.png" group-title="新闻",Wion News
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
