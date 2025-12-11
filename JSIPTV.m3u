@@ -70,7 +70,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="/sdcard/TV/logo/CETV1.png" group-title="央视",CETV-1 综合教育
 http://ott.mobaibox.com/PLTV/3/224/3221225909/index.m3u8
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="/sdcard/TV/logo/CETV4.png" group-title="央视",CETV-4 职业教育
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031126/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031126/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="/sdcard/TV/logo/CGTN.png" group-title="央视",CGTN-新闻
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
 https://english-livebkali.cgtn.com/live/encgtn_0.m3u8
@@ -87,7 +87,7 @@ https://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFX
 #EXTINF:-1 tvg-id="AI直播" tvg-logo="/sdcard/TV/logo/AI直播.png" group-title="央视",AI直播
 http://ott.mobaibox.com/PLTV/3/224/3221228873/index.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-logo="/sdcard/TV/logo/中国天气.png" group-title="央视",中国天气
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000005000031974/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000005000031974/bestzb/index.m3u8
 
 #卫视
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="/sdcard/TV/logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -343,47 +343,49 @@ http://124.222.114.206/bjtv.php?id=bjkk
 
 #上海
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="/sdcard/TV/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031110/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031110/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="第一财经" tvg-logo="/sdcard/TV/logo/上海第一财经.png" group-title="上海",第一财经
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000027146/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000027146/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="东方影视" tvg-logo="/sdcard/TV/logo/上海东方影视.png" group-title="上海",东方影视
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000032212/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000032212/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="五星体育" tvg-logo="/sdcard/TV/logo/上海五星体育.png" group-title="上海",五星体育
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000017540/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000017540/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="上海都市" tvg-logo="/sdcard/TV/logo/上海都市.png" group-title="上海",上海都市
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000018926/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000018926/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-logo="/sdcard/TV/logo/上海哈哈炫动.png" group-title="上海",哈哈炫动
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031123/index.m3u8
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000005000031641/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031123/bestzb/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000005000031641/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-logo="/sdcard/TV/logo/上海都市剧场.png" group-title="上海",都市剧场
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031111/index.m3u8
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000004412/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031111/bestzb/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000004412/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-logo="/sdcard/TV/logo/上海欢笑剧场4K.png" group-title="上海",欢笑剧场4K
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010001/index.m3u8
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000009455/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010001/bestzb/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000009455/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="/sdcard/TV/logo/上海动漫秀场.png" group-title="上海",动漫秀场
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031113/index.m3u8
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000023636/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031113/bestzb/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000023636/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="乐游" tvg-logo="/sdcard/TV/logo/上海乐游.png" group-title="上海",乐游
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031112/index.m3u8
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000040025/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031112/bestzb/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000040025/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="东方财经" tvg-logo="/sdcard/TV/logo/上海东方财经.png" group-title="上海",东方财经
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010003/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000007000010003/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="法治天地" tvg-logo="/sdcard/TV/logo/上海法治天地.png" group-title="上海",法治天地
-http://[2409:8087:1e01:23::10]:8112/000000001000/9001547084732463424/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/9001547084732463424/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="游戏风云" tvg-logo="/sdcard/TV/logo/上海游戏风云.png" group-title="上海",游戏风云
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031114/index.m3u8
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000027005/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000011000031114/bestzb/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000027005/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="生活时尚" tvg-logo="/sdcard/TV/logo/上海生活时尚.png" group-title="上海",生活时尚
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000019634/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000002000019634/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="金色学堂" tvg-logo="/sdcard/TV/logo/上海金色学堂.png" group-title="上海",金色学堂
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000026105/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000010000026105/bestzb/index.m3u8
 
 #湖南
-#EXTINF:-1 tvg-id="茶" tvg-logo="/sdcard/TV/logo/湖南茶频道.png" group-title="湖南",茶频道
-http://ott.mobaibox.com/PLTV/3/224/3221228917/index.m3u8
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-logo="/sdcard/TV/logo/湖南金鹰纪实.png" group-title="湖南",金鹰纪实
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000031203/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="茶" tvg-logo="/sdcard/TV/logo/logo/湖南茶频道.png" group-title="湖南",茶频道
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000031209/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="/sdcard/TV/logo/湖南金鹰卡通.png" group-title="湖南",金鹰卡通
-http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000040024/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000001000/5000000006000040024/bestzb/index.m3u8
 
 #广东
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="/sdcard/TV/logo/广东大湾区卫视.png" group-title="广东",大湾区卫视
@@ -427,6 +429,16 @@ http://play1-qk.nmtv.cn/live/1686561195713372.m3u8
 #EXTINF:-1 tvg-id="内蒙古农牧频道" tvg-logo="/sdcard/TV/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
 http://play1-qk.nmtv.cn/live/1686561299036179.m3u8
 
+#求索
+#EXTINF:-1 tvg-id="求索生活" tvg-logo="/sdcard/TV/logo/求索生活.png" group-title="求索",求索生活
+http://[2409:8087:1e01:23::10]:8112/000000000000/6000000002000003382/wasusyt/index.m3u8
+#EXTINF:-1 tvg-id="求索动物" tvg-logo="/sdcard/TV/logo/求索动物.png" group-title="求索",求索动物
+http://[2409:8087:1e01:23::10]:8112/000000000000/6000000002000010046/wasusyt/index.m3u8
+#EXTINF:-1 tvg-id="求索纪录" tvg-logo="/sdcard/TV/logo/求索纪录.png" group-title="求索",求索纪录
+http://[2409:8087:1e01:23::10]:8112/000000000000/6000000002000032052/wasusyt/index.m3u8
+#EXTINF:-1 tvg-id="求索科学" tvg-logo="/sdcard/TV/logo/求索科学.png" group-title="求索",求索科学
+http://[2409:8087:1e01:23::10]:8112/000000000000/6000000002000032344/wasusyt/index.m3u8
+
 #NewTV
 #EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="/sdcard/TV/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
 http://ott.mobaibox.com/PLTV/3/224/3221227475/index.m3u8
@@ -468,12 +480,52 @@ http://ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227618/index.m3u8
 #EXTINF:-1 tvg-id="newtv精品萌宠" tvg-logo="/sdcard/TV/logo/NewTV精品萌宠.png" group-title="NewTV",精品萌宠
 http://ott.mobaibox.com/PLTV/3/224/3221228430/index.m3u8
+#EXTINF:-1 tvg-id="newtv欢乐剧场" tvg-logo="/sdcard/TV/logo/NewTV欢乐剧场.png" group-title="NewTV",欢乐剧场
+http://[2409:8087:1e01:23::10]:8112/000000000000/1000000005000266012/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="newtv东北热剧" tvg-logo="/sdcard/TV/logo/NewTV东北热剧.png" group-title="NewTV",东北热剧
+http://[2409:8087:1e01:23::10]:8112/000000000000/1000000005000266013/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="newtv超级综艺" tvg-logo="/sdcard/TV/logo/NewTV超级综艺.png" group-title="NewTV",超级综艺
+http://[2409:8087:1e01:23::10]:8112/000000000000/1000000006000268002/ystenlive/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000000000/1000000004000023658/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="newtv超级体育" tvg-logo="/sdcard/TV/logo/NewTV超级体育.png" group-title="NewTV",超级体育
+http://[2409:8087:1e01:23::10]:8112/000000000000/1000000004000007755/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="newtv超级电影" tvg-logo="/sdcard/TV/logo/NewTV超级电影.png" group-title="NewTV",超级电影
+http://[2409:8087:1e01:23::10]:8112/000000000000/1000000003000012426/ystenlive/index.m3u8
+#EXTINF:-1 tvg-id="newtv超级电视剧" tvg-logo="/sdcard/TV/logo/NewTV超级电视剧.png" group-title="NewTV",超级电视剧
+http://[2409:8087:1e01:23::10]:8112/000000000000/1000000006000268003/ystenlive/index.m3u8
+http://[2409:8087:1e01:23::10]:8112/000000000000/1000000004000024993/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-logo="/sdcard/TV/logo/黑莓电影.png" group-title="NewTV",黑莓电影
 http://ott.mobaibox.com/PLTV/3/224/3221225567/index.m3u8
 #EXTINF:-1 tvg-id="黑莓动画" tvg-logo="/sdcard/TV/logo/黑莓动画.png" group-title="NewTV",黑莓动画
 http://ott.mobaibox.com/PLTV/3/224/3221225555/index.m3u8
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-logo="/sdcard/TV/logo/NewTV哒啵赛事.png" group-title="NewTV",哒啵赛事
 http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
+
+#BesTV
+#EXTINF:-1 tvg-id="华语影院" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",华语影院
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288005/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="星光影院" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",星光影院
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288013/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="全球大片" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",全球大片
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288009/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="热门剧场" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",热门剧场
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288010/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="谍战剧场" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",谍战剧场
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288004/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="青春动漫" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",青春动漫
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288008/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="宝宝动画" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",宝宝动画
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288002/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="戏曲精选" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",戏曲精选
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288012/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="热门综艺" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",热门综艺
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288011/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="健康养生" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",健康养生
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288006/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="百变课堂" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",百变课堂
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288001/bestzb/index.m3u8
+#EXTINF:-1 tvg-id="看天下精选" tvg-logo="/sdcard/TV/logo/BesTV.png" group-title="BesTV",看天下精选
+http://[2409:8087:1e01:23::10]:8112/000000000000/5000000011000288007/bestzb/index.m3u8
 
 #咪咕
 #EXTINF:-1 tvg-id="抖音热歌" tvg-logo="/sdcard/TV/logo/咪咕音乐.png" group-title="咪咕",抖音热歌
@@ -542,6 +594,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228843/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="/sdcard/TV/logo/重温经典.png" group-title="数字",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 tvg-id="华数4K" tvg-logo="/sdcard/TV/logo/华数.png" group-title="数字",华数4K
+http://[2409:8087:1e01:23::10]:8112/000000000000/6000000003000004748/wasusyt/index.m3u8
 
 #港台
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-logo="/sdcard/TV/logo/凤凰卫视香港台.png" group-title="港台",凤凰卫视香港台
@@ -598,8 +652,6 @@ https://cdn6.101.qzz.io/163189/ch8
 https://cdn6.101.qzz.io/163189/chu
 
 #财经
-#EXTINF:-1 tvg-id="Bloomberg Originals" tvg-logo="/sdcard/TV/logo/BloombergOriginals.png" group-title="财经",Bloomberg Originals
-https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ09yaWdpbmFsc19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="Yahoo! Finance" tvg-logo="/sdcard/TV/logo/YahooFinance.png" group-title="财经",Yahoo! Finance
 https://yahoofinance-localnow.amagi.tv/1080p-cc/index.m3u8
 https://yahoo-roku-us.amagi.tv/1080p-cc/index.m3u8
