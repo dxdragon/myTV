@@ -792,8 +792,6 @@ https://blacknewschannel-amazon.amagi.tv/1080p-cc/index.m3u8
 https://blacknewschannel-vizio.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="UN Web TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/UNWebTV.png" group-title="新闻",UN Web TV
 https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-#EXTINF:-1 tvg-id="BBC News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BBCNews.png" group-title="新闻",BBC News
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 tvg-id="GB News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/GBNews.png" group-title="新闻",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
