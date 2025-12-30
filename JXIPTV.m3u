@@ -263,14 +263,6 @@ http://124.222.114.206/bjtv.php?id=bjxw
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京卡酷少儿.png" group-title="北京",卡酷少儿
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226362/2/index.m3u8
 
-#上海
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海新闻综合.png" group-title="上海",上海新闻综合
-https://bp-livetytv.bestv.cn/ch/bestvxwzh.m3u8
-#EXTINF:-1 tvg-id="五星体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海五星体育.png" group-title="上海",五星体育
-https://bp-livetytv.bestv.cn/ch/bestvwxty.m3u8
-#EXTINF:-1 tvg-id="上海都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海都市.png" group-title="上海",上海都市
-https://bp-livetytv.bestv.cn/ch/bestvdspd.m3u8
-
 #广东
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东大湾区卫视.png" group-title="广东",大湾区卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226203/2/index.m3u8
@@ -453,14 +445,6 @@ https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
 https://cdn6.101.qzz.io/163189/hoy
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ViuTV.png" group-title="港台",Viu TV
 http://cdn.163189.xyz/163189/viu
-#EXTINF:-1 tvg-id="Astro AOD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAOD.png" group-title="港台",Astro AOD
-https://o11.163189.xyz/stream/live/aod/
-#EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="港台",Astro AEC
-https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-id="Astro QJ" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroQJ.png" group-title="港台",Astro QJ
-https://o11.163189.xyz/stream/live/qj/
-#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/IQIYI.png" group-title="港台",爱奇艺
-https://o11.163189.xyz/stream/live/iqiyi/
 #EXTINF:-1 tvg-id="邵氏电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="邵氏动作" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏动作
@@ -469,6 +453,17 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="邵氏武侠" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏武侠
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳视澳门.png" group-title="港台",澳视澳门
+http://cdn6.163189.xyz/163189/asam
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=asam
+http://r.jdshipin.com/n2YZI
+#EXTINF:-1 tvg-name="澳视体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门体育.png" group-title="港台",澳门体育
+http://cdn6.163189.xyz/163189/amty
+#EXTINF:-1 tvg-name="澳视综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门综艺.png" group-title="港台",澳门综艺
+http://cdn6.163189.xyz/163189/amzy
+#EXTINF:-1 tvg-id="澳视卫星" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门Macau.png" group-title="港台",澳门Macau
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
+http://r.jdshipin.com/QFhCq
 #EXTINF:-1 tvg-id="TaiwanPlus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TaiwanPlus.png" group-title="港台",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="龙华电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华电影.png" group-title="港台",龙华电影
@@ -487,6 +482,14 @@ https://cdn6.101.qzz.io/163189/ch5
 https://cdn6.101.qzz.io/163189/ch8
 #EXTINF:-1 tvg-id="新加坡U频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加坡U频道.png" group-title="港台",新加坡U频道
 https://cdn6.101.qzz.io/163189/chu
+#EXTINF:-1 tvg-id="Astro AOD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAOD.png" group-title="港台",Astro AOD
+https://o11.163189.xyz/stream/live/aod/
+#EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="港台",Astro AEC
+https://o11.163189.xyz/stream/live/aec/
+#EXTINF:-1 tvg-id="Astro QJ" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroQJ.png" group-title="港台",Astro QJ
+https://o11.163189.xyz/stream/live/qj/
+#EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/IQIYI.png" group-title="港台",爱奇艺
+https://o11.163189.xyz/stream/live/iqiyi/
 
 #财经
 #EXTINF:-1 tvg-id="Yahoo! Finance" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/YahooFinance.png" group-title="财经",Yahoo! Finance
