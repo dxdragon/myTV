@@ -408,20 +408,23 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视资讯台.png" group-title="港台",凤凰卫视资讯台
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB翡翠台.png" group-title="港台",TVB翡翠台
+https://o11.163189.xyz/stream/tvb/fct4k
 http://mytv.cdn.loc.cc/o12.php?id=fct
+https://o11.163189.xyz/stream/tvb/fct
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB明珠台.png" group-title="港台",TVB明珠台
 http://mytv.cdn.loc.cc/o12.php?id=mzt
+https://o11.163189.xyz/stream/tvb/mzt
 #EXTINF:-1 tvg-id="TVB PLUS" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVBPlus.png" group-title="港台",TVB Plus
 https://cdn6.101.qzz.io/163189/tvbp
 https://o11.163189.xyz/stream/tvb/tvbp
 #EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB无线新闻台.png" group-title="港台",TVB无线新闻台
 https://cdn6.101.qzz.io/163189/wxxw
 #EXTINF:-1 tvg-id="TVB星河" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB星河.png" group-title="港台",TVB星河
-https://o11.163189.xyz/stream/live/tvbxh/
+https://o11.163189.xyz/stream/live/tvbxh
 #EXTINF:-1 tvg-id="华丽台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB翡翠台.png" group-title="港台",TVB华丽台
-https://o11.163189.xyz/stream/live/hlt/
+https://o11.163189.xyz/stream/live/hlt
 #EXTINF:-1 tvg-id="千禧经典台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB千禧经典台.png" group-title="港台",TVB千禧经典台
-https://o11.163189.xyz/stream/live/tvbc/
+https://o11.163189.xyz/stream/live/tvbc
 #EXTINF:-1 tvg-id="now新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/now新闻台.png" group-title="港台",now新闻台
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK31.png" group-title="港台",RTHK31
@@ -472,13 +475,13 @@ https://cdn6.101.qzz.io/163189/ch8
 #EXTINF:-1 tvg-id="新加坡U频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加坡U频道.png" group-title="港台",新加坡U频道
 https://cdn6.101.qzz.io/163189/chu
 #EXTINF:-1 tvg-id="Astro AOD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAOD.png" group-title="港台",Astro AOD
-https://o11.163189.xyz/stream/live/aod/
+https://o11.163189.xyz/stream/live/aod
 #EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="港台",Astro AEC
-https://o11.163189.xyz/stream/live/aec/
+https://o11.163189.xyz/stream/live/aec
 #EXTINF:-1 tvg-id="Astro QJ" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroQJ.png" group-title="港台",Astro QJ
-https://o11.163189.xyz/stream/live/qj/
+https://o11.163189.xyz/stream/live/qj
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/IQIYI.png" group-title="港台",爱奇艺
-https://o11.163189.xyz/stream/live/iqiyi/
+https://o11.163189.xyz/stream/live/iqiyi
 
 #财经
 #EXTINF:-1 tvg-id="Yahoo! Finance" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/YahooFinance.png" group-title="财经",Yahoo! Finance
@@ -501,8 +504,6 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 #EXTINF:-1 tvg-id="Kartoon Channel" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/KartoonChannel.png" group-title="少儿",Kartoon Channel
 https://lightning-fnf-samsungaus.amagi.tv/playlist1080p.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-kartoonchannel-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="BabyFirst" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BabyFirst.png" group-title="少儿",BabyFirst
-https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
 #EXTINF:-1 tvg-id="Camp Spoopy" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CampSpoopy.png" group-title="少儿",Camp Spoopy
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 #EXTINF:-1 tvg-id="Brat TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BratTV.png" group-title="少儿",Brat TV
@@ -530,8 +531,6 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="Wonder" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Wonder.png" group-title="纪录",Wonder
 https://lds-wonder-rakuten.amagi.tv/1080p-cc/index.m3u8
 https://lds-wonder-plex.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="4K TRAVEL" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/4KTravel.png" group-title="纪录",4K TRAVEL
-https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/bitrate2.m3u8
 #EXTINF:-1 tvg-id="Xplore TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/XploreTV.png" group-title="纪录",Xplore TV
 https://xplore-xumo.amagi.tv/1080p-cc/index.m3u8
 https://xplore-vizio.amagi.tv/1080p-cc/index.m3u8
@@ -631,6 +630,10 @@ https://a-cdn.herringnetwork.com/affiliate/awee/live/awee_1080p/chunks.m3u8
 https://aegis-cloudfront-1.tubi.video/c597e8ac-bfb2-4a1c-865c-cad55566f953/origin/contribution-m1-bloomberg-quicktake/6128k/index.m3u8
 #EXTINF:-1 tvg-id="Fox Soul" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/FoxSoul.png" group-title="综合",Fox Soul
 https://foxsoul-vizio.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-id="Today All Day" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TodayAllDay.png" group-title="综合",Today All Day
+https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/master.m3u8
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
+https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_channelId=88814559&ads.xumo_streamId=88814559
 #EXTINF:-1 tvg-id="Wellbeing TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/WellbeingTV.png" group-title="综合",Wellbeing TV
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/INFAST.png" group-title="综合",INFAST
@@ -672,8 +675,6 @@ https://mytimeuk-rakuten-samsung.amagi.tv/1080p/index.m3u8
 https://appletree-mytimeau-samsung.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MovieSphere.png" group-title="影视",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="MovieSpherebyLionsgate" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MovieSpherebyLionsgate.png" group-title="影视",MovieSphere by LionsGate
-https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Universal Action" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/UniversalAction.png" group-title="影视",Universal Action
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/UniversalCrime.png" group-title="影视",Universal Crime
@@ -704,18 +705,6 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Trace Latina" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TraceLatina.png" group-title="音乐",Trace Latina
 https://amg01131-tracetv-tracelatina-glewed-vtnk7.amagi.tv/playlist1080P.m3u8
-#EXTINF:-1 tvg-id="iTV Urban Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Urban Music
-https://ca1.buximedia.com/itv/love2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTV Turkish Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Turkish Music
-https://ca1.buximedia.com/itv/turkish/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTV Latin Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Latin Music
-https://ca1.buximedia.com/itv/latin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTV Indian Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Indian Music
-https://ca1.buximedia.com/itv/indian/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTV Arabic Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Arabic Music
-https://ca1.buximedia.com/itv/arabic/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="iTV Afrobeats Music" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iTV.png" group-title="音乐",iTV Afrobeats Music
-https://ca1.buximedia.com/itv/afrobeats/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Now 80s" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Now80s.png" group-title="音乐",Now 80s
 https://lightning-now80s-samsungnz.amagi.tv/playlist1080p.m3u8
 #EXTINF:-1 tvg-id="Now Rock" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NowRock.png" group-title="音乐",Now Rock
@@ -738,8 +727,6 @@ https://rjtvhls.wns.live/hls/stream.m3u8
 https://livestream.liveone.com/lc1/p1.m3u8
 #EXTINF:-1 tvg-id="4KURD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/4KURD.png" group-title="音乐",4KURD
 https://4kuhls.persiana.live/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Az Star TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AzStarTV.png" group-title="音乐",Az Star TV
-http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Qwest TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/QwestTV.png" group-title="音乐",Qwest TV
 https://qwest-jazz-plex.amagi.tv/1080p-cc/index.m3u8
 https://amg00447-qwesttv-qwestjazz-cineverse-ve12d.amagi.tv/playlist/amg00447-qwesttv-qwestjazz-cineverse/playlist.m3u8
@@ -813,10 +800,6 @@ https://oan-plus-tcl.amagi.tv/playlistR1080p.m3u8
 https://a-cdn.herringnetwork.com/affiliate/oane/live/oane_1080p/chunks.m3u8
 #EXTINF:-1 tvg-id="Vice News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ViceNews.png" group-title="新闻",Vice News
 https://vicetv-vicefast2-firetv.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-id="Today All Day" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TodayAllDay.png" group-title="新闻",Today All Day
-https://aegis-cloudfront-1.tubi.video/cb7f305d-049a-4feb-bc6e-028c43ad3c3e/master.m3u8
-https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991245
-https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_channelId=88814559&ads.xumo_streamId=88814559
 #EXTINF:-1 tvg-id="The First TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TheFirstTV.png" group-title="新闻",The First TV
 https://thefirst-oando.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="theGrio TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TheGrio.png" group-title="新闻",theGrio TV
