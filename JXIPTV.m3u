@@ -584,8 +584,10 @@ https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 https://raycom-accdn-firetv.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="PGA Tour" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PGATour.png" group-title="运动",PGA Tour
 https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
-#EXTINF:-1 tvg-id="Nitro Circus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NitroCircus.png" group-title="运动",Nitro Circus
-https://amg13231-actve-amg13231c1-rakuten-us-5604.playouts.now.amagi.tv/playlist1080P.m3u8
+#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/SkySportsMainEvent.png" group-title="运动",Sky Sports Main Event
+https://a1xs.vip/2000015
+#EXTINF:-1 tvg-id="Sky Sports" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/SkySports.png" group-title="运动",Sky Sports
+https://a1xs.vip/2000016
 
 #户外
 #EXTINF:-1 tvg-id="Real Wild" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RealWild.png" group-title="户外",Real Wild
