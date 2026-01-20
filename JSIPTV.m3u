@@ -24,7 +24,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221227626/index.m3u8
 #EXTINF:-1 tvg-id="CCTV8" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV8.png" group-title="央视",CCTV-8 电视剧
 http://ott.mobaibox.com/PLTV/3/224/3221228578/index.m3u8
 #EXTINF:-1 tvg-id="CCTV9" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV9.png" group-title="央视",CCTV-9 纪录
-http://ott.mobaibox.com/PLTV/3/224/3221228959/index.m3u8
+http://ott.mobaibox.com/PLTV/3/224/3221228962/index.m3u8
 #EXTINF:-1 tvg-id="CCTV10" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV10.png" group-title="央视",CCTV-10 科教
 http://ott.mobaibox.com/PLTV/3/224/3221227620/index.m3u8
 #EXTINF:-1 tvg-id="CCTV11" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV11.png" group-title="央视",CCTV-11 戏曲
@@ -564,7 +564,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
 #EXTINF:-1 tvg-id="自然风景" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/自然风景.png" group-title="数字",自然风景
 http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
 #EXTINF:-1 tvg-id="天元围棋" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/天元围棋.png" group-title="数字",天元围棋
-http://ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u
+http://ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 #EXTINF:-1 tvg-id="冰雪竞技场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/冰雪竞技场.png" group-title="数字",冰雪竞技场
 http://ott.mobaibox.com/PLTV/3/224/3221228737/index.m3u8
 #EXTINF:-1 tvg-id="科幻世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/科幻世界.png" group-title="数字",科幻世界
