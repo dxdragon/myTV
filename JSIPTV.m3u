@@ -451,6 +451,20 @@ http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
 
 #山东
+#EXTINF:-1 tvg-id="山东文旅" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山东文旅.png" group-title="山东",山东文旅
+http://112.6.202.38:880/chs070.m3u8
+#EXTINF:-1 tvg-id="山东综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山东综艺.png" group-title="山东",山东综艺
+http://112.6.202.38:880/chs068.m3u8
+#EXTINF:-1 tvg-id="山东生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山东生活.png" group-title="山东",山东生活
+http://112.6.202.38:880/chs069.m3u8
+#EXTINF:-1 tvg-id="山东体育休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山东体育休闲.png" group-title="山东",山东体育休闲
+http://112.6.202.38:880/chs057.m3u8
+#EXTINF:-1 tvg-id="山东农科" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山东农科.png" group-title="山东",山东农科
+http://112.6.202.38:880/chs065.m3u8
+#EXTINF:-1 tvg-id="山东新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山东新闻.png" group-title="山东",山东新闻
+http://112.6.202.38:880/chs056.m3u8
+#EXTINF:-1 tvg-id="山东少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山东少儿.png" group-title="山东",山东少儿
+http://112.6.202.38:880/chs064.m3u8
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山东教育卫视.png" group-title="山东",山东教育卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228998/index.m3u8
 
@@ -681,7 +695,7 @@ https://brat-samsung-us.amagi.tv/playlist.m3u8
 
 #纪录
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/LoveNature.png" group-title="纪录",Love Nature
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4Kp2160.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/1080p-cc/index.m3u8
 https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
 #EXTINF:-1 tvg-id="Wild Earth" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/WildEarth.png" group-title="纪录",Wild Earth
