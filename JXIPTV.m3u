@@ -240,8 +240,6 @@ http://play-sh.quklive.com/live/1724916607073321.m3u8
 http://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
 #EXTINF:-1 tvg-id="吉安公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉安公共.png" group-title="江西",吉安公共
 http://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
-#EXTINF:-1 tvg-id="萍乡新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/萍乡新闻综合.png" group-title="江西",萍乡新闻综合
-http://live02.jxtvcn.com.cn/live-jxtvcn/ganyun_px_xwzh.m3u8
 
 #江苏
 #EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏财富天下.png" group-title="江苏",财富天下
@@ -518,6 +516,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/重温经典.png" group-title="数字",重温经典
 http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
+#EXTINF:-1 tvg-id="求索纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/求索纪录.png" group-title="数字",求索纪录
+http://gs.jianghua.fun:7088/udp/239.77.0.21:5146
 
 #港台
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视香港台.png" group-title="港台",凤凰卫视香港台
@@ -591,8 +591,6 @@ https://cdn6.163189.xyz/163189/chu
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="港台",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-id="Astro QJ" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroQJ.png" group-title="港台",Astro QJ
-https://o11.163189.xyz/stream/live/qj/
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/IQIYI.png" group-title="港台",爱奇艺
 https://o11.163189.xyz/stream/live/iqiyi/
 
@@ -603,6 +601,8 @@ https://yahoo-roku-us.amagi.tv/1080p-cc/index.m3u8
 https://yahoo-vizio.amagi.tv/1080p-cc/index.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 https://yahoo-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Bloomberg.png" group-title="财经",Bloomberg
+https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8
 
 #少儿
 #EXTINF:-1 tvg-id="Ryan and Friends" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RyanandFriends.png" group-title="少儿",Ryan and Friends
@@ -712,10 +712,6 @@ https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
 https://raycom-accdn-firetv.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="PGA Tour" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PGATour.png" group-title="运动",PGA Tour
 https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
-#EXTINF:-1 tvg-id="Sky Sports Main Event" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/SkySportsMainEvent.png" group-title="运动",Sky Sports Main Event
-https://a1xs.vip/2000015
-#EXTINF:-1 tvg-id="Sky Sports" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/SkySports.png" group-title="运动",Sky Sports
-https://a1xs.vip/2000016
 
 #户外
 #EXTINF:-1 tvg-id="Real Wild" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RealWild.png" group-title="户外",Real Wild
