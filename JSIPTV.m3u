@@ -10,8 +10,10 @@ http://ott.mobaibox.com/PLTV/3/224/3221228499/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4欧洲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV4欧洲.png" group-title="央视",CCTV-4 中文国际欧洲
+http://156.233.226.200:10086/udp/239.11.0.101:1025
 http://gs.jianghua.fun:7088/udp/239.253.43.120:5146
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV4美洲.png" group-title="央视",CCTV-4 中文国际美洲
+http://156.233.226.200:10086/udp/239.11.0.102:1025
 http://gs.jianghua.fun:7088/udp/239.253.43.121:5146
 #EXTINF:-1 tvg-id="CCTV5" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV5.png" group-title="央视",CCTV-5 体育
 http://ott.mobaibox.com/PLTV/3/224/3221228502/index.m3u8
@@ -70,12 +72,15 @@ http://ott.mobaibox.com/PLTV/3/224/3221228680/index.m3u8
 #EXTINF:-1 tvg-id="央视文化精品" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV央视文化精品.png" group-title="央视",CCTV-央视文化精品
 http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 #EXTINF:-1 tvg-id="卫生健康" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV卫生健康.png" group-title="央视",CCTV-卫生健康
+http://156.233.226.200:10086/udp/239.11.0.185:1025
+http://154.17.9.124:7088/udp/239.11.0.185:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.212:5146
 #EXTINF:-1 tvg-id="早期教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV早期教育.png" group-title="央视",CETV-早期教育
 http://ott.mobaibox.com/PLTV/3/224/3221228692/index.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV1.png" group-title="央视",CETV-1 综合教育
 http://ott.mobaibox.com/PLTV/3/224/3221228931/index.m3u8
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV4.png" group-title="央视",CETV-4 职业教育
+http://156.233.226.200:10086/udp/239.11.0.176:1025
 http://gs.jianghua.fun:7088/udp/239.253.43.114:5146
 http://gs.jianghua.fun:7088/udp/239.253.43.40:5146
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN.png" group-title="央视",CGTN-新闻
@@ -389,38 +394,55 @@ http://1.197.127.128:8000/rtp/239.16.20.113:11130
 
 #广东
 #EXTINF:-1 tvg-id="广东珠江" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东珠江.png" group-title="广东",广东珠江
+http://156.233.226.200:10086/udp/239.10.0.63:1025
+http://156.233.226.200:10086/udp/239.10.0.62:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.114:5146
 http://gs.jianghua.fun:7088/udp/239.77.0.1:5146
 http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 #EXTINF:-1 tvg-id="广东体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东体育.png" group-title="广东",广东体育
+http://156.233.226.200:10086/udp/239.10.0.47:1025
+http://156.233.226.200:10086/udp/239.10.0.113:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.168:5146
 http://gs.jianghua.fun:7088/udp/239.77.0.112:5146
 http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 #EXTINF:-1 tvg-id="广东民生" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东民生.png" group-title="广东",广东民生
+http://156.233.226.200:10086/udp/239.11.0.80:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="广东新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东新闻.png" group-title="广东",广东新闻
+http://156.233.226.200:10086/udp/239.10.0.199:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东嘉佳卡通.png" group-title="广东",嘉佳卡通
+http://156.233.226.200:10086/udp/239.10.0.200:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="广东现代教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东现代教育.png" group-title="广东",广东现代教育
+http://156.233.226.200:10086/udp/239.11.0.181:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东岭南戏曲.png" group-title="广东",岭南戏曲
+http://156.233.226.200:10086/udp/239.11.0.180:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.122:5146
 #EXTINF:-1 tvg-id="广东经济科教" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东经济科教.png" group-title="广东",广东经济科教
+http://156.233.226.200:10086/udp/239.10.0.46:1025
+http://156.233.226.200:10086/udp/239.10.0.112:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.85:5146
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东大湾区卫视.png" group-title="广东",大湾区卫视
 http://ott.mobaibox.com/PLTV/3/224/3221228326/index.m3u8
 #EXTINF:-1 tvg-id="广东4K超高清" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东4K超高清.png" group-title="广东",广东4K超高清
+http://156.233.226.200:10086/udp/239.10.0.75:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.244:5146
 #EXTINF:-1 tvg-id="广东影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东影视.png" group-title="广东",广东影视
+http://156.233.226.200:10086/udp/239.11.0.79:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.217:5146
 #EXTINF:-1 tvg-id="广东少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东少儿.png" group-title="广东",广东少儿
+http://156.233.226.200:10086/udp/239.11.0.81:1025
 http://gs.jianghua.fun:7088/udp/239.77.0.250:5146
 #EXTINF:-1 tvg-id="广州综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广州综合.png" group-title="广东",广州综合
+http://156.233.226.200:10086/udp/239.11.0.138:1025
 http://gs.jianghua.fun:7088/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广州新闻.png" group-title="广东",广州新闻
+http://156.233.226.200:10086/udp/239.11.0.139:1025
 http://gs.jianghua.fun:7088/udp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广州南国都市.png" group-title="广东",南国都市
+http://156.233.226.200:10086/udp/239.11.0.170:1025
 http://gs.jianghua.fun:7088/udp/239.253.43.99:5146
 http://php.jdshipin.com/TVOD/iptv.php?id=gzngds
 #EXTINF:-1 tvg-id="深圳都市频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/深圳都市频道.png" group-title="广东",深圳都市频道
