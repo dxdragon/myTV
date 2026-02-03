@@ -79,7 +79,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221228931/index.m3u8
 http://gs.jianghua.fun:7088/udp/239.253.43.114:5146
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN.png" group-title="央视",CGTN-新闻
 http://ott.mobaibox.com/PLTV/3/224/3221228811/index.m3u8
-http://english-livebkali.cgtn.com/live/encgtn_0.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
 http://english-livebkali.cgtn.com/live/doccgtn_0.m3u8
 #EXTINF:-1 tvg-id="CGTN西语" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN西语.png" group-title="央视",CGTN-西语
@@ -94,8 +93,6 @@ http://russian-liveali.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 http://ott.mobaibox.com/PLTV/3/224/3221228873/index.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中国天气.png" group-title="央视",中国天气
 http://gs.jianghua.fun:7088/udp/239.77.1.2:5146
-#EXTINF:-1 tvg-id="中华特产" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中华特产.png" group-title="央视",中华特产
-http://1.197.127.128:8000/rtp/239.16.20.132:11320
 
 #卫视
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -419,6 +416,7 @@ http://gs.jianghua.fun:7088/udp/239.253.43.71:5146
 http://gs.jianghua.fun:7088/udp/239.253.43.72:5146
 #EXTINF:-1 tvg-id="南国都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广州南国都市.png" group-title="广东",南国都市
 http://gs.jianghua.fun:7088/udp/239.253.43.99:5146
+https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 http://php.jdshipin.com/TVOD/iptv.php?id=gzngds
 #EXTINF:-1 tvg-id="深圳都市频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/深圳都市频道.png" group-title="广东",深圳都市频道
 http://gs.jianghua.fun:7088/udp/239.77.1.124:5146
@@ -488,6 +486,24 @@ http://1.197.127.128:8000/rtp/239.16.20.173:11730
 http://1.197.127.128:8000/rtp/239.16.10.149:2000
 #EXTINF:-1 tvg-id="国学" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南国学频道.png" group-title="河南",国学频道
 http://1.197.127.128:8000/rtp/239.16.20.232:12320
+
+#内蒙古
+#EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
+http://play1-qk.nmtv.cn/live/2360general.m3u8
+http://play1-qk.nmtv.cn/live/2325general.m3u8
+http://play1-qk.nmtv.cn/live/2316general.m3u8
+#EXTINF:-1 tvg-id="内蒙古经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
+http://play1-qk.nmtv.cn/live/2326general.m3u8
+http://play1-qk.nmtv.cn/live/2317general.m3u8
+#EXTINF:-1 tvg-id="内蒙古少儿频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古少儿频道.png" group-title="内蒙古",内蒙古少儿频道
+http://play1-qk.nmtv.cn/live/2327general.m3u8
+http://play1-qk.nmtv.cn/live/2318general.m3u8
+#EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
+http://play1-qk.nmtv.cn/live/2328general.m3u8
+http://play1-qk.nmtv.cn/live/2319general.m3u8
+#EXTINF:-1 tvg-id="内蒙古农牧频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
+http://play1-qk.nmtv.cn/live/2329general.m3u8
+http://play1-qk.nmtv.cn/live/2320general.m3u8
 
 #NewTV
 #EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
@@ -650,9 +666,8 @@ http://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-id="澳视综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门综艺.png" group-title="港台",澳门综艺
 http://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-id="澳视卫星" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门Macau.png" group-title="港台",澳门Macau
+http://cdn6.163189.xyz/163189/as
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=as
-#EXTINF:-1 tvg-id="TaiwanPlus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TaiwanPlus.png" group-title="港台",Taiwan Plus
-https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/ap-northeast-1/6282251407001/profile_0/chunklist.m3u8
 #EXTINF:-1 tvg-id="龙华电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华电影.png" group-title="港台",龙华电影
 http://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华戏剧.png" group-title="港台",龙华戏剧
