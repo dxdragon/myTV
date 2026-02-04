@@ -302,20 +302,6 @@ http://ott.mobaibox.com/PLTV/3/224/3221229061/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228812/index.m3u8
 
 #江西
-#EXTINF:-1 tvg-id="江西都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江西都市.png" group-title="江西",江西都市
-http://115.148.203.104:7088/rtp/239.252.220.238:5140
-#EXTINF:-1 tvg-id="江西经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江西经济生活.png" group-title="江西",江西经济·生活
-http://115.148.203.104:7088/rtp/239.252.219.173:5140
-#EXTINF:-1 tvg-id="江西公共农业" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江西公共农业.png" group-title="江西",江西公共·农业
-http://115.148.203.104:7088/rtp/239.252.220.102:5140
-#EXTINF:-1 tvg-id="江西少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江西少儿.png" group-title="江西",江西少儿
-http://115.148.203.104:7088/rtp/239.252.219.113:5140
-#EXTINF:-1 tvg-id="江西新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江西新闻.png" group-title="江西",江西新闻
-http://115.148.203.104:7088/rtp/239.252.220.100:5140
-#EXTINF:-1 tvg-id="江西教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江西教育.png" group-title="江西",江西教育
-http://115.148.203.104:7088/rtp/239.252.219.115:5140
-#EXTINF:-1 tvg-id="江西陶瓷" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江西陶瓷.png" group-title="江西",江西陶瓷
-http://115.148.203.104:7088/rtp/239.252.220.243:5140
 #EXTINF:-1 tvg-id="赣州新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/赣州新闻综合.png" group-title="江西",赣州新闻综合
 http://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
 #EXTINF:-1 tvg-id="赣州公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/赣州公共.png" group-title="江西",赣州公共
