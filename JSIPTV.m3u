@@ -551,6 +551,8 @@ http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8
 #EXTINF:-1 tvg-id="体坛同期声" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/咪咕视频.png" group-title="咪咕",体坛同期声
 http://ott.mobaibox.com/PLTV/3/224/3221228713/index.m3u8
+#EXTINF:-1 tvg-id="冰雪运动" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/冰雪运动.png" group-title="咪咕",冰雪运动
+http://ott.mobaibox.com/PLTV/3/224/3221228726/index.m3u8
 #EXTINF:-1 tvg-id="冰雪竞技场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/冰雪竞技场.png" group-title="咪咕",冰雪竞技场
 http://ott.mobaibox.com/PLTV/3/224/3221228737/index.m3u8
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/睛彩篮球.png" group-title="咪咕",睛彩篮球
@@ -583,28 +585,28 @@ http://ott.mobaibox.com/PLTV/3/224/3221228591/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228592/index.m3u8
 #EXTINF:-1 tvg-id="影综金曲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/QQ音乐.png" group-title="数字",影综金曲
 http://ott.mobaibox.com/PLTV/3/224/3221228641/index.m3u8
+#EXTINF:-1 tvg-id="KTV热歌" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/KTV热歌.png" group-title="数字",KTV热歌
+http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
 #EXTINF:-1 tvg-id="相声联欢" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/相声联欢.png" group-title="数字",相声联欢
 http://ott.mobaibox.com/PLTV/3/224/3221228717/index.m3u8
 #EXTINF:-1 tvg-id="高分电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/高分电影.png" group-title="数字",高分电影
 http://ott.mobaibox.com/PLTV/3/224/3221228644/index.m3u8
 #EXTINF:-1 tvg-id="第一院线" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/第一院线.png" group-title="数字",第一院线
 http://ott.mobaibox.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-id="动物世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/动物世界.png" group-title="数字",动物世界
-http://ott.mobaibox.com/PLTV/3/224/3221228559/index.m3u8
+#EXTINF:-1 tvg-id="科幻世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/科幻世界.png" group-title="数字",科幻世界
+http://ott.mobaibox.com/PLTV/3/224/3221228740/index.m3u8
 #EXTINF:-1 tvg-id="动漫星空" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/动漫星空.png" group-title="数字",动漫星空
 http://ott.mobaibox.com/PLTV/3/224/3221228579/index.m3u8
 #EXTINF:-1 tvg-id="儿童天地" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/儿童天地.png" group-title="数字",儿童天地
 http://ott.mobaibox.com/PLTV/3/224/3221228603/index.m3u8
-#EXTINF:-1 tvg-id="亲子玩具" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/亲子玩具.png" group-title="数字",亲子玩具
+#EXTINF:-1 tvg-id="亲宝玩具" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/亲宝玩具.png" group-title="数字",亲宝玩具
 http://ott.mobaibox.com/PLTV/3/224/3221228638/index.m3u8
+#EXTINF:-1 tvg-id="动物世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/动物世界.png" group-title="数字",动物世界
+http://ott.mobaibox.com/PLTV/3/224/3221228559/index.m3u8
 #EXTINF:-1 tvg-id="自然风景" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/自然风景.png" group-title="数字",自然风景
 http://ott.mobaibox.com/PLTV/3/224/3221228723/index.m3u8
 #EXTINF:-1 tvg-id="天元围棋" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/天元围棋.png" group-title="数字",天元围棋
 http://ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
-#EXTINF:-1 tvg-id="科幻世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/科幻世界.png" group-title="数字",科幻世界
-http://ott.mobaibox.com/PLTV/3/224/3221228740/index.m3u8
-#EXTINF:-1 tvg-id="KTV热歌" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/KTV热歌.png" group-title="数字",KTV热歌
-http://ott.mobaibox.com/PLTV/3/224/3221228815/index.m3u8
 #EXTINF:-1 tvg-id="国学苑" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/国学苑.png" group-title="数字",国学苑
 http://ott.mobaibox.com/PLTV/3/224/3221228843/index.m3u8
 #EXTINF:-1 tvg-id="求索纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/求索纪录.png" group-title="数字",求索纪录
