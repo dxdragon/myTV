@@ -549,7 +549,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221225539/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228444/index.m3u8
 #EXTINF:-1 tvg-id="流行音乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/咪咕音乐.png" group-title="咪咕",流行音乐
 http://ott.mobaibox.com/PLTV/3/224/3221228794/index.m3u8
-#EXTINF:-1 tvg-id="体坛同期声" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/咪咕视频.png" group-title="咪咕",体坛同期声
+#EXTINF:-1 tvg-id="体坛同期声" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/体坛同期声.png" group-title="咪咕",体坛同期声
 http://ott.mobaibox.com/PLTV/3/224/3221228713/index.m3u8
 #EXTINF:-1 tvg-id="冰雪运动" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/冰雪运动.png" group-title="咪咕",冰雪运动
 http://ott.mobaibox.com/PLTV/3/224/3221228726/index.m3u8
