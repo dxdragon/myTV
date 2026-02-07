@@ -304,8 +304,6 @@ http://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.
 http://play-a2.quklive.com/live/1760408109205119.m3u8
 #EXTINF:-1 tvg-id="宁都综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁都综合.png" group-title="江西",宁都综合
 http://play-a2.quklive.com/live/1749084198822069.m3u8
-#EXTINF:-1 tvg-id="龙南综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙南综合.png" group-title="江西",龙南综合
-http://p2hs.vzan.com/1670294060/707321619705783642/live.m3u8
 #EXTINF:-1 tvg-id="南康综合频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南康综合频道.png" group-title="江西",南康综合频道
 http://play-a2.quklive.com/live/1758525653004384.m3u8
 #EXTINF:-1 tvg-id="大余综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大余综合.png" group-title="江西",大余综合
@@ -552,6 +550,12 @@ http://ott.mobaibox.com/PLTV/3/224/3221228513/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228843/index.m3u8
 #EXTINF:-1 tvg-id="求索纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/求索纪录.png" group-title="数字",求索纪录
 http://154.17.9.124:7088/udp/239.21.0.118:3816
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC影迷电影.png" group-title="数字",CHC影迷电影
+http://101.132.127.111:7788/952383261
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC动作电影.png" group-title="数字",CHC动作电影
+http://101.132.127.111:7788/644368714
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC家庭影院.png" group-title="数字",CHC家庭影院
+http://101.132.127.111:7788/644368373
 
 #港台
 #EXTINF:-1 tvg-id="凤凰卫视香港台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视香港台.png" group-title="港台",凤凰卫视香港台
