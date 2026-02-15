@@ -230,18 +230,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226419/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226416/2/index.m3u8
 #EXTINF:-1 tvg-id="广丰综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广丰综合.png" group-title="江西",广丰综合
 http://play-a2.quklive.com/live/1754033359790055.m3u8
-#EXTINF:-1 tvg-id="玉山新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/玉山新闻综合.png" group-title="江西",玉山新闻综合
-http://play-a2.quklive.com/live/1744269699236128.m3u8
 #EXTINF:-1 tvg-id="崇仁电视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/崇仁电视.png" group-title="江西",崇仁电视
 http://play-a2.quklive.com/live/1744277411242065.m3u8
 #EXTINF:-1 tvg-id="丰城新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/丰城新闻综合.png" group-title="江西",丰城新闻综合
 http://play-sh13.quklive.com/live/1753663315049013.m3u8?auth_key=2079618218-43a81f8882264506923871b82faf8326-0-1b2ac19fffa1a603da6cb6e67161ac25
-#EXTINF:-1 tvg-id="景德镇新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/景德镇新闻综合.png" group-title="江西",景德镇新闻综合
-http://play-sh.quklive.com/live/1724916607073321.m3u8
-#EXTINF:-1 tvg-id="吉安综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉安综合.png" group-title="江西",吉安综合
-http://play.jarmt.cn/live/c3756d7171c348539cb9598232390460.m3u8
-#EXTINF:-1 tvg-id="吉安公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉安公共.png" group-title="江西",吉安公共
-http://play.jarmt.cn/live/b7431049d491429db72abcad0422f98c.m3u8
 
 #江苏
 #EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏财富天下.png" group-title="江苏",江苏财富天下
@@ -521,6 +513,8 @@ https://o11.163189.xyz/stream/live/tvbxh/
 https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-id="千禧经典台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB千禧经典台.png" group-title="港台",TVB千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
+#EXTINF:-1 tvg-id="TVB剧集台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB剧集台.png" group-title="港台",TVB剧集台
+https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="now新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/now新闻台.png" group-title="港台",now新闻台
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK31.png" group-title="港台",RTHK31
