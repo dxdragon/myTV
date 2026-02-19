@@ -509,6 +509,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226248/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226274/2/index.m3u8
 #EXTINF:-1 tvg-id="翡翠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB翡翠台.png" group-title="港台",TVB翡翠台
 https://o11.163189.xyz/stream/tvb/fct4k/
+https://cdn6.163189.xyz/163189/fct
 https://o11.163189.xyz/stream/tvb/fct/
 #EXTINF:-1 tvg-id="明珠台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB明珠台.png" group-title="港台",TVB明珠台
 https://o11.163189.xyz/stream/tvb/mzt/
@@ -528,15 +529,15 @@ https://6.cdn.loc.cc/163189.php?id=tvbd
 #EXTINF:-1 tvg-id="now新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/now新闻台.png" group-title="港台",now新闻台
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK31.png" group-title="港台",RTHK31
-http://cdn.163189.xyz/163189/rthk31
+https://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK32.png" group-title="港台",RTHK32
-http://cdn.163189.xyz/163189/rthk32
+https://cdn.163189.xyz/163189/rthk32
 #EXTINF:-1 tvg-id="HOY77" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HOY77.png" group-title="港台",HOY 77
 https://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="HOY78" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HOY78.png" group-title="港台",HOY资讯台
 https://cdn.163189.xyz/163189/hoy78
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ViuTV.png" group-title="港台",Viu TV
-http://cdn.163189.xyz/163189/viu
+https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="邵氏电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="邵氏动作" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏动作
@@ -546,23 +547,23 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="邵氏武侠" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏武侠
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳视澳门.png" group-title="港台",澳视澳门
-http://cdn6.163189.xyz/163189/asam
+https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-name="澳视体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门体育.png" group-title="港台",澳门体育
-http://cdn6.163189.xyz/163189/amty
+https://cdn6.163189.xyz/163189/amty
 #EXTINF:-1 tvg-name="澳视综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门综艺.png" group-title="港台",澳门综艺
-http://cdn6.163189.xyz/163189/amzy
+https://cdn6.163189.xyz/163189/amzy
 #EXTINF:-1 tvg-id="澳视卫星" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门Macau.png" group-title="港台",澳门Macau
-http://cdn6.163189.xyz/163189/as
+https://cdn6.163189.xyz/163189/as
 #EXTINF:-1 tvg-id="龙华电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华电影.png" group-title="港台",龙华电影
-http://cdn8.163189.xyz/163189/lhdy
+https://cdn8.163189.xyz/163189/lhdy
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华戏剧.png" group-title="港台",龙华戏剧
-http://cdn8.163189.xyz/163189/lhxj
+https://cdn8.163189.xyz/163189/lhxj
 #EXTINF:-1 tvg-id="龙华偶像" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华偶像.png" group-title="港台",龙华偶像
-http://cdn8.163189.xyz/163189/lhox
+https://cdn8.163189.xyz/163189/lhox
 #EXTINF:-1 tvg-id="龙华经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华经典.png" group-title="港台",龙华经典
-http://cdn8.163189.xyz/163189/lhjd
+https://cdn8.163189.xyz/163189/lhjd
 #EXTINF:-1 tvg-id="龙华日韩" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙华日韩.png" group-title="港台",龙华日韩
-http://cdn8.163189.xyz/163189/lhrh
+https://cdn8.163189.xyz/163189/lhrh
 #EXTINF:-1 tvg-id="新加坡5频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加坡5频道.png" group-title="港台",新加坡5频道
 https://cdn6.163189.xyz/163189/ch5
 #EXTINF:-1 tvg-id="新加坡8频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加坡8频道.png" group-title="港台",新加坡8频道
