@@ -294,8 +294,6 @@ http://r.xace.fun:4999/udp/239.3.1.250:8001
 http://izihao.cn:7123/651632657
 #EXTINF:-1 tvg-id="东方影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海东方影视.png" group-title="上海",东方影视
 http://izihao.cn:7123/617290047
-#EXTINF:-1 tvg-id="五星体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海五星体育.png" group-title="上海",五星体育
-http://43.251.226.89:5124/live/a9fc6080659aa5463f2f60e92e0328e8?token=8520
 
 #广东
 #EXTINF:-1 tvg-id="广东珠江" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东珠江.png" group-title="广东",广东珠江
@@ -551,6 +549,8 @@ https://cdn6.163189.xyz/163189/ch5
 https://cdn6.163189.xyz/163189/ch8
 #EXTINF:-1 tvg-id="新加坡U频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新加坡U频道.png" group-title="港台",新加坡U频道
 https://cdn6.163189.xyz/163189/chu
+#EXTINF:-1 tvg-id="天映频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/天映频道.png" group-title="港台",天映频道
+https://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 tvg-id="Astro AOD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAOD.png" group-title="港台",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="港台",Astro AEC
