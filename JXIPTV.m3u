@@ -42,6 +42,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226236/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226232/2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226335/2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/cctv4k/15000000/mnf.m3u8
+#EXTINF:-1 tvg-id="CCTV8K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV8K.png" group-title="央视",CCTV-8K 超高清
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=1509682429&sign=81dc8dc0c1a5228e41b807de6e7631145bb139e29af03c36def235cb95364657f46ff611a8b70bfcf235591099ed398f1027fb1cbd8e644691587007fa7372c9f4df1e8a066071575870b65fc09b&auth_token=0cc129f1466d676528e6ae0f292c64b9
 #EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV电视指南.png" group-title="央视",CCTV-电视指南
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226359/2/index.m3u8
 #EXTINF:-1 tvg-id="风云剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV风云剧场.png" group-title="央视",CCTV-风云剧场
@@ -72,6 +77,8 @@ http://907698324.xyz:7088/udp/239.77.0.212:5146
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.187:5140
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV1.png" group-title="央视",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225917/2/index.m3u8
+#EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV4.png" group-title="央视",CETV-4 职业教育
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/zgjy4hd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN.png" group-title="央视",CGTN-新闻
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226369/2/index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
@@ -277,38 +284,54 @@ http://r.xace.fun:4999/udp/239.3.1.250:8001
 
 #上海
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海新闻综合.png" group-title="上海",上海新闻综合
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xwzhhd8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.57:5140
 #EXTINF:-1 tvg-id="第一财经" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海第一财经.png" group-title="上海",第一财经
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dycjhd8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.59:5140
 #EXTINF:-1 tvg-id="东方影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海东方影视.png" group-title="上海",东方影视
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfyshd8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.55:5140
 #EXTINF:-1 tvg-id="五星体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海五星体育.png" group-title="上海",五星体育
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/wxtyhd8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.58:5140
 #EXTINF:-1 tvg-id="上海都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海都市.png" group-title="上海",上海都市
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dshd8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.53:5140
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海哈哈炫动.png" group-title="上海",哈哈炫动
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hhxd8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.54:5140
 #EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海都市剧场.png" group-title="上海",都市剧场
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dsjc8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.48:5140
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海欢笑剧场4K.png" group-title="上海",欢笑剧场4K
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hxjc8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.50:5140
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.115:5140
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.205:5140
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海动漫秀场.png" group-title="上海",动漫秀场
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dmxc8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.46:5140
 #EXTINF:-1 tvg-id="乐游" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海乐游.png" group-title="上海",乐游
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qjshd8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.47:5140
 #EXTINF:-1 tvg-id="东方财经" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海东方财经.png" group-title="上海",东方财经
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dfcjhd8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.65:5140
 #EXTINF:-1 tvg-id="法治天地" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海法治天地.png" group-title="上海",法治天地
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/fztd8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.49:5140
 #EXTINF:-1 tvg-id="游戏风云" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海游戏风云.png" group-title="上海",游戏风云
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/yxfy8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.44:5140
 #EXTINF:-1 tvg-id="生活时尚" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海生活时尚.png" group-title="上海",生活时尚
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/shss8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.45:5140
 #EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海金色学堂.png" group-title="上海",金色学堂
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jingsepd8m/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.66:5140
 #EXTINF:-1 tvg-id="上海教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海教育.png" group-title="上海",上海教育
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/setvhd/8000000/mnf.m3u8
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.63:5140
 
 #广东
@@ -378,7 +401,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
 #EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南文物宝库.png" group-title="河南",河南文物宝库
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226328/2/index.m3u8
-#EXTINF:-1 tvg-id="国学" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南国学频道.png" group-title="河南" http-user-agent="okHttp/Mod-1.5.0.0",河南国学频道
+#EXTINF:-1 tvg-id="国学" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南国学频道.png" group-title="河南",河南国学频道
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://live.ottiptv.cc/mcp/guoxue.m3u8?userid=1509682429&sign=3b535a112865882667f6a0472fdf1455666c05fdf1217ace822fd29bc5576e74e06e7c2d93aa29a187bb29db2899dfa5dd84d949c8f55442da6f769028481cdbdd9c0633ae316b30736abf33242f&auth_token=0cc129f1466d676528e6ae0f292c64b9
 
@@ -399,6 +422,51 @@ http://play1-qk.nmtv.cn/live/2319general.m3u8
 #EXTINF:-1 tvg-id="内蒙古农牧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
 http://play1-qk.nmtv.cn/live/2329general.m3u8
 http://play1-qk.nmtv.cn/live/2320general.m3u8
+
+#数字
+#EXTINF:-1 tvg-id="纯享4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/纯享4K.png" group-title="数字",纯享4K
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
+#EXTINF:-1 tvg-id="国学苑" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/国学苑.png" group-title="数字",国学苑
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226384/2/index.m3u8
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC影迷电影.png" group-title="数字",CHC影迷电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226305/2/index.m3u8
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC动作电影.png" group-title="数字",CHC动作电影
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.m3u8
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC家庭影院.png" group-title="数字",CHC家庭影院
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
+#EXTINF:-1 tvg-id="求索纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/求索纪录.png" group-title="数字",求索纪录
+http://907698324.xyz:7088/udp/239.77.0.21:5146
+#EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/重温经典.png" group-title="数字",重温经典
+#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+https://other.ottiptv.cc/cwjd.m3u8
+
+#BesTV
+#EXTINF:-1 tvg-id="华语影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",华语影院
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/hyyy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="星光影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",星光影院
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xgyy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="全球大片" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",全球大片
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qqdp8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="热门剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",热门剧场
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/rmjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="谍战剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",谍战剧场
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/dzjc8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="青春动漫" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",青春动漫
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/qcdm8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="宝宝动画" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",宝宝动画
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/bbdh8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="戏曲精选" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",戏曲精选
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/xqjx8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="热门综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",热门综艺
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/rmzy8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="健康养生" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",健康养生
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/jkys8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="百变课堂" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",百变课堂
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/bbkt8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="看天下精选" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTV.png" group-title="BesTV",看天下精选
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/ktxjx8m/8000000/mnf.m3u8
+#EXTINF:-1 tvg-id="电竞天堂" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BesTVLive.png" group-title="BesTV",电竞天堂
+http://aliyun-qhbu-live.bestvcdn.com.cn/live/program/live/djtt8m/8000000/mnf.m3u8
 
 #NewTV
 #EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
@@ -461,23 +529,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226243/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226261/2/index.m3u8
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/睛彩广场舞.png" group-title="咪咕",睛彩广场舞
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226391/2/index.m3u8
-
-#数字
-#EXTINF:-1 tvg-id="纯享4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/纯享4K.png" group-title="数字",纯享4K
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225786/2/index.m3u8
-#EXTINF:-1 tvg-id="国学苑" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/国学苑.png" group-title="数字",国学苑
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226384/2/index.m3u8
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC影迷电影.png" group-title="数字",CHC影迷电影
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226305/2/index.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC动作电影.png" group-title="数字",CHC动作电影
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC家庭影院.png" group-title="数字",CHC家庭影院
-http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
-#EXTINF:-1 tvg-id="求索纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/求索纪录.png" group-title="数字",求索纪录
-http://907698324.xyz:7088/udp/239.77.0.21:5146
-#EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/重温经典.png" group-title="数字" http-user-agent="okHttp/Mod-1.5.0.0",重温经典
-#EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://other.ottiptv.cc/cwjd.m3u8
 
 #港台
 #EXTINF:-1 tvg-id="凤凰香港" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视香港台.png" group-title="港台",凤凰卫视香港台
