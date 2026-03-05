@@ -75,6 +75,8 @@ http://907698324.xyz:7088/udp/239.77.0.212:5146
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.187:5140
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV1.png" group-title="央视",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225917/2/index.m3u8
+#EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV4.png" group-title="央视",CETV-4 职业教育
+http://jasonzhangnas.f3322.net:7088/udp/233.18.204.111:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN.png" group-title="央视",CGTN-新闻
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226369/2/index.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN纪录.png" group-title="央视",CGTN-纪录
@@ -150,8 +152,10 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226407/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225484/2/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山西卫视.png" group-title="卫视",山西卫视
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
+http://38.75.136.137:98/gslb/dsdqpub/sxwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.223:5140
+http://38.75.136.137:98/gslb/dsdqpub/snwshd.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/四川卫视4K.png" group-title="卫视",四川卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226424/2/index.m3u8
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
@@ -170,6 +174,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225491/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226395/2/index.m3u8
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://907698324.xyz:7088/udp/239.77.0.215:5146
+#EXTINF:-1 tvg-id="海峡卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/海峡卫视.png" group-title="卫视",海峡卫视
+http://8.138.7.223/tv/hxws.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.172:5140
 http://dsm.ikun.hn.cn:9981/stream/channelid/341893503?profile=pass
@@ -323,6 +329,8 @@ http://907698324.xyz:7088/udp/239.77.0.112:5146
 http://907698324.xyz:7088/udp/239.77.0.225:5146
 #EXTINF:-1 tvg-id="广东新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东新闻.png" group-title="广东",广东新闻
 http://907698324.xyz:7088/udp/239.77.0.173:5146
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东嘉佳卡通.png" group-title="广东",嘉佳卡通
+http://907698324.xyz:7088/udp/239.77.0.179:5146
 #EXTINF:-1 tvg-id="广东现代教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东现代教育.png" group-title="广东",广东现代教育
 http://907698324.xyz:7088/udp/239.77.0.213:5146
 #EXTINF:-1 tvg-id="岭南戏曲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广东岭南戏曲.png" group-title="广东",岭南戏曲
@@ -419,6 +427,7 @@ http://907698324.xyz:7088/udp/239.77.0.21:5146
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/重温经典.png" group-title="数字",重温经典
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://other.ottiptv.cc/cwjd.m3u8
+http://8.138.7.223/tv/cwjd.php
 
 #NewTV
 #EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
@@ -497,7 +506,6 @@ https://o11.163189.xyz/stream/tvb/fct/
 https://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-id="TVB Plus" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVBPlus.png" group-title="港台",TVB Plus
 https://o11.163189.xyz/stream/tvb/tvbp/
-https://cdn6.163189.xyz/163189/tvbp
 #EXTINF:-1 tvg-id="无线新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB无线新闻台.png" group-title="港台",TVB无线新闻台
 https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-id="TVB星河" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB星河.png" group-title="港台",TVB星河
@@ -522,12 +530,16 @@ https://cdn.163189.xyz/163189/hoy78
 https://cdn.163189.xyz/163189/viu
 #EXTINF:-1 tvg-id="邵氏电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
+http://feilong123.vip/409990236/tv.php?id=ssdy
 #EXTINF:-1 tvg-id="邵氏动作" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏动作
 http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
+http://feilong123.vip/409990236/tv.php?id=ssdz
 #EXTINF:-1 tvg-id="邵氏喜剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏喜剧
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
+http://feilong123.vip/409990236/tv.php?id=ssxj
 #EXTINF:-1 tvg-id="邵氏武侠" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港台",邵氏武侠
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+http://feilong123.vip/409990236/tv.php?id=sswx
 #EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳视澳门.png" group-title="港台",澳视澳门
 https://cdn6.163189.xyz/163189/asam
 #EXTINF:-1 tvg-name="澳视体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门体育.png" group-title="港台",澳门体育
@@ -555,7 +567,7 @@ https://cdn6.163189.xyz/163189/chu
 #EXTINF:-1 tvg-id="天映频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/天映频道.png" group-title="港台",天映频道
 https://o11.163189.xyz/stream/live/typd/
 #EXTINF:-1 tvg-id="天映经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/天映经典.png" group-title="港台",天映经典
-http://pull-vivek.speedws.com/live/aaatyjd.flv
+https://o11.163189.xyz/stream/live/ccm/
 #EXTINF:-1 tvg-id="Astro AOD" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAOD.png" group-title="港台",Astro AOD
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="港台",Astro AEC
