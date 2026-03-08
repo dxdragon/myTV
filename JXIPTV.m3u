@@ -42,6 +42,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226236/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226232/2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV17.png" group-title="央视",CCTV-17 农业农村
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226335/2/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
+http://907698324.xyz:7088/udp/239.77.0.194:5146
 #EXTINF:-1 tvg-id="CCTV8K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=1509682429&sign=81dc8dc0c1a5228e41b807de6e7631145bb139e29af03c36def235cb95364657f46ff611a8b70bfcf235591099ed398f1027fb1cbd8e644691587007fa7372c9f4df1e8a066071575870b65fc09b&auth_token=0cc129f1466d676528e6ae0f292c64b9
@@ -76,6 +78,7 @@ http://jasonzhangnas.f3322.net:7088/udp/233.18.204.187:5140
 #EXTINF:-1 tvg-id="CETV1" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV1.png" group-title="央视",CETV-1 综合教育
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225917/2/index.m3u8
 #EXTINF:-1 tvg-id="CETV4" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CETV4.png" group-title="央视",CETV-4 职业教育
+http://907698324.xyz:7088/udp/239.253.43.114:5146
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.111:5140
 #EXTINF:-1 tvg-id="CGTN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CGTN.png" group-title="央视",CGTN-新闻
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226369/2/index.m3u8
@@ -223,8 +226,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226417/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226420/2/index.m3u8
 #EXTINF:-1 tvg-id="九江教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江教育频道.png" group-title="江西",九江教育频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226423/2/index.m3u8
-#EXTINF:-1 tvg-id="彭泽综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/彭泽综合.png" group-title="江西",彭泽综合
-http://play-a2.quklive.com/live/1740970999257207.m3u8
 #EXTINF:-1 tvg-id="上饶新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上饶新闻综合.png" group-title="江西",上饶新闻综合
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226419/2/index.m3u8
 #EXTINF:-1 tvg-id="上饶经济旅游" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上饶经济旅游频道.png" group-title="江西",上饶经济·旅游频道
@@ -430,6 +431,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
 #EXTINF:-1 tvg-id="求索纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/求索纪录.png" group-title="数字",求索纪录
 http://907698324.xyz:7088/udp/239.77.0.21:5146
+#EXTINF:-1 tvg-id="天元围棋" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/天元围棋.png" group-title="数字",天元围棋
+http://907698324.xyz:7088/udp/239.253.43.98:5146
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/重温经典.png" group-title="数字",重温经典
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://other.ottiptv.cc/cwjd.m3u8
@@ -540,7 +543,7 @@ https://cdn.163189.xyz/163189/hoy78
 http://cdn.163189.xyz/163189/hoyjj
 #EXTINF:-1 tvg-id="ViuTV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ViuTV.png" group-title="港澳",ViuTV
 https://cdn.163189.xyz/163189/viu
-#EXTINF:-1 tvg-id="ViuTV6" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ViuTV6.png" group-title="港澳",ViuTVsix
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ViuTV6.png" group-title="港澳",ViuTVsix
 https://cdn.163189.xyz/163189/viu6
 #EXTINF:-1 tvg-id="邵氏电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港澳",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
