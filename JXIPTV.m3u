@@ -178,7 +178,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226395/2/index.
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://907698324.xyz:7088/udp/239.77.0.215:5146
 #EXTINF:-1 tvg-id="海峡卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/海峡卫视.png" group-title="卫视",海峡卫视
-http://8.138.7.223/tv/hxws.m3u8
+http://wine600.i234.me:4567/udp/239.61.2.151:8894
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.172:5140
 http://dsm.ikun.hn.cn:9981/stream/channelid/341893503?profile=pass
@@ -220,6 +220,8 @@ http://play-a2.quklive.com/live/1749084198822069.m3u8
 http://play-a2.quklive.com/live/1758525653004384.m3u8
 #EXTINF:-1 tvg-id="大余综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大余综合.png" group-title="江西",大余综合
 http://play-a2.quklive.com/live/1757066245476057.m3u8
+#EXTINF:-1 tvg-id="龙南综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙南综合.png" group-title="江西",龙南综合
+http://p2hs.vzan.com/1670294060/707321619705783642/live.m3u8
 #EXTINF:-1 tvg-id="九江新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226417/2/index.m3u8
 #EXTINF:-1 tvg-id="九江公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江公共频道.png" group-title="江西",九江公共频道
@@ -354,6 +356,26 @@ http://907698324.xyz:7088/udp/239.77.1.124:5146
 http://907698324.xyz:7088/udp/239.77.1.125:5146
 #EXTINF:-1 tvg-id="深圳少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/深圳少儿频道.png" group-title="广东",深圳少儿频道
 http://907698324.xyz:7088/udp/239.77.1.244:5146
+
+#福建
+#EXTINF:-1 tvg-id="福建综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/福建综合.png" group-title="福建",福建综合
+http://wine600.i234.me:4567/udp/239.61.3.4:9542
+#EXTINF:-1 tvg-id="福建公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/福建公共频道.png" group-title="福建",乡村振兴·公共频道
+http://wine600.i234.me:4567/udp/239.61.2.3:8012
+#EXTINF:-1 tvg-id="福建新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/福建新闻.png" group-title="福建",福建新闻
+http://wine600.i234.me:4567/udp/239.61.2.4:8018
+#EXTINF:-1 tvg-id="福建电视剧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/福建电视剧.png" group-title="福建",福建电视剧
+http://wine600.i234.me:4567/udp/239.61.2.5:8024
+#EXTINF:-1 tvg-id="福建旅游" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/福建旅游.png" group-title="福建",福建旅游
+http://wine600.i234.me:4567/udp/239.61.2.6:8030
+#EXTINF:-1 tvg-id="福建经济" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/福建经济.png" group-title="福建",福建经济
+http://wine600.i234.me:4567/udp/239.61.2.7:8036
+#EXTINF:-1 tvg-id="福建文体" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/福建文体.png" group-title="福建",福建文体
+http://wine600.i234.me:4567/udp/239.61.2.160:8948
+#EXTINF:-1 tvg-id="福建少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/福建少儿.png" group-title="福建",福建少儿
+http://wine600.i234.me:4567/udp/239.61.2.9:8048
+#EXTINF:-1 tvg-id="福建教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/福建教育台.png" group-title="福建",福建教育台
+http://wine600.i234.me:4567/udp/239.61.2.173:9026
 
 #湖南
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖南金鹰卡通.png" group-title="湖南",金鹰卡通
