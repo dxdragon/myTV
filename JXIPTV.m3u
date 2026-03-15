@@ -348,7 +348,7 @@ http://907698324.xyz:7088/udp/239.77.0.250:5146
 http://907698324.xyz:7088/udp/239.253.43.71:5146
 #EXTINF:-1 tvg-id="广州新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广州新闻.png" group-title="广东",广州新闻
 http://907698324.xyz:7088/udp/239.253.43.72:5146
-#EXTINF:-1 tvg-id="南国都市4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广州南国都市.png" group-title="广东",南国都市
+#EXTINF:-1 tvg-id="南国都市4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广州南国都市.png" group-title="广东",南国都市4K
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 #EXTINF:-1 tvg-id="深圳都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/深圳都市频道.png" group-title="广东",深圳都市频道
 http://907698324.xyz:7088/udp/239.77.1.124:5146
@@ -543,7 +543,7 @@ https://o11.163189.xyz/stream/live/tvbxh/
 https://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-id="千禧经典台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVB千禧经典台.png" group-title="港澳",TVB千禧经典台
 https://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-id="now新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/now新闻台.png" group-title="港澳",now新闻台
+#EXTINF:-1 tvg-id="Now新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Now新闻台.png" group-title="港澳",Now新闻台
 https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-id="RTHK31" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK31.png" group-title="港澳",RTHK31
 https://cdn.163189.xyz/163189/rthk31
@@ -647,10 +647,6 @@ https://o11.163189.xyz/stream/live/ccm/
 https://o11.163189.xyz/stream/live/aod/
 #EXTINF:-1 tvg-id="Astro AEC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AstroAEC.png" group-title="新马",Astro AEC
 https://o11.163189.xyz/stream/live/aec/
-#EXTINF:-1 tvg-id="Astro欢喜台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Astro欢喜台.png" group-title="新马",Astro 欢喜台
-http://o11.163189.xyz/stream/live/hxt/
-#EXTINF:-1 tvg-id="Astro 酷哒哒" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Astro酷哒哒.png" group-title="新马",Astro 酷哒哒
-https://o11.163189.xyz/stream/live/test/
 #EXTINF:-1 tvg-id="Astro 爱奇艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/iQIYI.png" group-title="新马",Astro 爱奇艺
 https://o11.163189.xyz/stream/live/iqiyi/
 
