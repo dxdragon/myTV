@@ -156,11 +156,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226407/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225484/2/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山西卫视.png" group-title="卫视",山西卫视
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.211:5140
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225507/index.m3u8
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226419/index.m3u8
 #EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.223:5140
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/四川卫视4K.png" group-title="卫视",四川卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226424/2/index.m3u8
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225487/2/index.m3u8
@@ -181,8 +178,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226395/2/index.
 http://154.17.19.44:7088/udp/239.11.0.78:1025
 #EXTINF:-1 tvg-id="海峡卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/海峡卫视.png" group-title="卫视",海峡卫视
 http://wine600.i234.me:4567/udp/239.61.2.151:8894
-#EXTINF:-1 tvg-id="农林卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/农林卫视.png" group-title="卫视",农林卫视
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226335/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/三沙卫视.png" group-title="卫视",三沙卫视
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.172:5140
 http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/HD-4000k-1080P-sanshastv/index.m3u8
@@ -323,8 +318,6 @@ http://jasonzhangnas.f3322.net:7088/udp/233.18.204.44:5140
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.45:5140
 #EXTINF:-1 tvg-id="金色学堂" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海金色学堂.png" group-title="上海",金色学堂
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.66:5140
-#EXTINF:-1 tvg-id="劲爆体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海劲爆体育.png" group-title="上海",劲爆体育
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226389/index.m3u8
 #EXTINF:-1 tvg-id="上海教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海教育.png" group-title="上海",上海教育
 http://jasonzhangnas.f3322.net:7088/udp/233.18.204.63:5140
 
@@ -415,20 +408,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226328/2/index.
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://live.ottiptv.cc/mcp/guoxue.m3u8?userid=1509682429&sign=3b535a112865882667f6a0472fdf1455666c05fdf1217ace822fd29bc5576e74e06e7c2d93aa29a187bb29db2899dfa5dd84d949c8f55442da6f769028481cdbdd9c0633ae316b30736abf33242f&auth_token=0cc129f1466d676528e6ae0f292c64b9
 
-#陕西
-#EXTINF:-1 tvg-id="陕西新闻资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/陕西新闻资讯.png" group-title="陕西",陕西新闻资讯
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225500/index.m3u8
-#EXTINF:-1 tvg-id="陕西都市青春" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/陕西都市青春.png" group-title="陕西",陕西都市青春
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225830/index.m3u8
-#EXTINF:-1 tvg-id="陕西银龄" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/陕西银龄.png" group-title="陕西",陕西银龄
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226331/index.m3u8
-#EXTINF:-1 tvg-id="陕西秦腔" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/陕西秦腔.png" group-title="陕西",陕西秦腔
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226334/index.m3u8
-#EXTINF:-1 tvg-id="陕西体育休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/陕西体育休闲.png" group-title="陕西",陕西体育休闲
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226093/index.m3u8
-#EXTINF:-1 tvg-id="陕西西部电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/陕西西部电影.png" group-title="陕西",陕西西部电影
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226332/index.m3u8
-
 #内蒙古
 #EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
 http://play1-qk.nmtv.cn/live/2360general.m3u8
@@ -460,7 +439,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/重温经典.png" group-title="数字",重温经典
 http://8.138.7.223/tv/cwjd.php
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 
 #NewTV
 #EXTINF:-1 tvg-id="newtv炫舞未来" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
@@ -684,10 +662,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
 https://brat-samsung-us.amagi.tv/playlist.m3u8
 
 #纪录
-#EXTINF:-1 tvg-id="Discovery" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Discovery.png" group-title="纪录",Discovery
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226463/index.m3u8
-#EXTINF:-1 tvg-id="National Geographic" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NatGeo.png" group-title="纪录",National Geographic
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226466/index.m3u8
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/LoveNature.png" group-title="纪录",Love Nature
 https://pb-ehs1glsha1juy.akamaized.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-ehs1glsha1juy/f2141f37-1f48-475b-ba54-b9efb62346db/0.m3u8
 https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
@@ -752,8 +726,6 @@ https://gusto-xumo.amagi.tv/1080p-cc/index.m3u8
 https://jamieoliver-xumo.amagi.tv/1080p/index.m3u8
 
 #运动
-#EXTINF:-1 tvg-id="Star Sports" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StarSports.png" group-title="运动",Star Sports
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226446/index.m3u8
 #EXTINF:-1 tvg-id="PAC 12 Insider" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PAC12Insider.png" group-title="运动",PAC 12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 https://pac12-firetv.amagi.tv/playlistR1080p.m3u8
@@ -814,8 +786,6 @@ https://d3f4oii5n0oeqi.cloudfront.net/11701/88814559/hls/master.m3u8?ads.xumo_ch
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
 #EXTINF:-1 tvg-id="INFAST" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/INFAST.png" group-title="综合",INFAST
 https://lifestyle-rakuten.amagi.tv/playlist1080-p.m3u8
-#EXTINF:-1 tvg-id="NHK" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NHK.png" group-title="综合",NHK
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226449/index.m3u8
 #EXTINF:-1 tvg-id="Mythbusters" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Mythbusters.png" group-title="综合",Mythbusters
 https://amg00627-amg00627c14-rakuten-uk-4802.playouts.now.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-id="Inside Crime" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/InsideCrime.png" group-title="综合",Inside Crime
@@ -848,12 +818,6 @@ https://aenetworks-mysterytv-rakuten.amagi.tv/playlist.m3u8
 https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 
 #影视
-#EXTINF:-1 tvg-id="AXN" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/AXN.png" group-title="影视",AXN
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226429/index.m3u8
-#EXTINF:-1 tvg-id="HBO" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HBO.png" group-title="影视",HBO
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226423/index.m3u8
-#EXTINF:-1 tvg-id="Star Movies" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/StarMovies.png" group-title="影视",Star Movies
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MyTimeMovie.png" group-title="影视",MyTime Movie
 https://mytimeuk-rakuten-samsung.amagi.tv/1080p/index.m3u8
 https://appletree-mytimeau-samsung.amagi.tv/1080p/index.m3u8
@@ -965,8 +929,6 @@ https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/playlist/amg0
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
 #EXTINF:-1 tvg-id="France24" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/France24.png" group-title="新闻",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
-#EXTINF:-1 tvg-id="CNBC" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CNBC.png" group-title="新闻",CNBC
-http://[240e:97d:2000:1109::25]/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226426/index.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CNA.png" group-title="新闻",CNA
 http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-id="RT News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTNews.png" group-title="新闻",RT News
