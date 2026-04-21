@@ -226,7 +226,7 @@ http://play-a2.quklive.com/live/1744277411242065.m3u8
 http://play-sh13.quklive.com/live/1753663315049013.m3u8?auth_key=2079618218-43a81f8882264506923871b82faf8326-0-1b2ac19fffa1a603da6cb6e67161ac25
 
 #江苏
-#EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏财富天下.png" group-title="江苏",江苏财富天下
+#EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏财富天下.png" group-title="江苏",财富天下
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226336/2/index.m3u8
 #EXTINF:-1 tvg-id="苏州4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/苏州4K.png" group-title="江苏",苏州4K
 http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
@@ -269,13 +269,13 @@ http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
 
 #河南
-#EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南梨园频道.png" group-title="河南",河南梨园频道
+#EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南梨园频道.png" group-title="河南",梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
-#EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南武术世界.png" group-title="河南",河南武术世界
+#EXTINF:-1 tvg-id="武术世界" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南武术世界.png" group-title="河南",武术世界
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8
-#EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南文物宝库.png" group-title="河南",河南文物宝库
+#EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南文物宝库.png" group-title="河南",文物宝库
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226328/2/index.m3u8
-#EXTINF:-1 tvg-id="国学" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南国学频道.png" group-title="河南",河南国学频道
+#EXTINF:-1 tvg-id="国学" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南国学频道.png" group-title="河南",国学频道
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://live.ottiptv.cc/mcp/guoxue.m3u8?userid=1509682429&sign=3b535a112865882667f6a0472fdf1455666c05fdf1217ace822fd29bc5576e74e06e7c2d93aa29a187bb29db2899dfa5dd84d949c8f55442da6f769028481cdbdd9c0633ae316b30736abf33242f&auth_token=0cc129f1466d676528e6ae0f292c64b9
 
@@ -490,6 +490,7 @@ https://yahoo-vizio.amagi.tv/1080p-cc/index.m3u8
 https://d1ewctnvcwvvvu.cloudfront.net/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="Bloomberg" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Bloomberg.png" group-title="财经",Bloomberg
 https://d3h4bmiab2fzqu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Bloomberg-kr-prod/index.m3u8
+https://aegis-cloudfront-1.tubi.video/de29234d-1a53-4cf9-b6ba-9cf412b66d76/playlist.m3u8
 
 #少儿
 #EXTINF:-1 tvg-id="Ryan and Friends" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RyanandFriends.png" group-title="少儿",Ryan and Friends
@@ -520,10 +521,16 @@ https://wildearth-xumo.amagi.tv/masterR1080p.m3u8
 https://wildearth-plex.amagi.tv/masterR1080p.m3u8
 #EXTINF:-1 tvg-id="BBC Earth" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BBCEarth.png" group-title="纪录",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist1080p.m3u8
+https://aegis-cloudfront-1.tubi.video/bb1fc6ad-9948-42ea-aaf3-20acfcdeecac/playlist.m3u8
 #EXTINF:-1 tvg-id="Nature Time" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NatureTime.png" group-title="纪录",Nature Time
 https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
 https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8
 https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist1080-p.m3u8
+#EXTINF:-1 tvg-id="Terra Mater Wild" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TerraMaterWild.png" group-title="纪录",Terra Mater Wild
+https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
+#EXTINF:-1 tvg-id="History Hit" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HistoryHit.png" group-title="纪录",History Hit
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RT Documentary" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTDoc.png" group-title="纪录",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
@@ -545,11 +552,14 @@ https://amg01258-raycomsports-powernationau-samsungau-18bwc.amagi.tv/playlist.m3
 
 #时尚
 #EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/FashionTV.png" group-title="时尚",Fashion TV
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6490c01f3b3ce9e1aaad95be/?X-Plex-Token=LaJ4zAWLyADt-3moyHdZ
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
+https://1722840738.rsc.cdn77.org/manifest.m3u8
 #EXTINF:-1 tvg-id="The Design Network" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TheDesignNetwork.png" group-title="时尚",The Design Network
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist/amg00441-thedesignnetworkllcfast-thedesignnetwork-rakutenus/playlist.m3u8
 https://amg00441-amg00441c1-rakuten-us-6050.playouts.now.amagi.tv/playlist.m3u8
+https://d4483wsd7yl91.cloudfront.net/The_Design_Network.m3u8
 
 #美食
 #EXTINF:-1 tvg-id="Bon Appétit" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/BonAppétit.png" group-title="美食",Bon Appétit
@@ -559,6 +569,7 @@ https://itv-hellskitchen-rakuten.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-id="Tastemade" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Tastemade.png" group-title="美食",Tastemade
 https://tastemade-aus-tmina-rakuten.amagi.tv/playlist1080-p.m3u8
 https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+https://tastemade-tdint-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Gusto TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/GustoTV.png" group-title="美食",Gusto TV
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01077-gustoworldwidem-gustotvnz-samsungnz/playlist.m3u8
 https://amg01077-gusto-gustous-firetv.amagi.tv/1080p-cc/index.m3u8
@@ -567,7 +578,7 @@ https://gusto-xumo.amagi.tv/1080p-cc/index.m3u8
 https://jamieoliver-xumo.amagi.tv/1080p/index.m3u8
 
 #运动
-#EXTINF:-1 tvg-id="PAC 12 Insider" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PAC12Insider.png" group-title="运动",PAC 12 Insider
+#EXTINF:-1 tvg-id="PAC-12 Insider" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PAC12Insider.png" group-title="运动",PAC-12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 https://pac12-firetv.amagi.tv/playlistR1080p.m3u8
 https://pac12-roku-us.amagi.tv/playlistR1080p.m3u8
@@ -586,6 +597,8 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/a9fb7059-0e09-45d6-a75e-7740c2bf8316/1.m3u8
 #EXTINF:-1 tvg-id="beIN SPORTS XTRA" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/beINSPORTSXTRA.png" group-title="运动",beIN SPORTS XTRA
 https://bein-xtra-xumo.amagi.tv/playlistR1080p.m3u8
+https://d9ssxzmclhfo4.cloudfront.net/bein_sports.m3u8
+https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ACC Digital Network" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/ACCDN.png" group-title="运动",ACC Digital Network
 https://raycom-accdn-firetv.amagi.tv/1080p-cc/index.m3u8
 #EXTINF:-1 tvg-id="PGA Tour" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PGATour.png" group-title="运动",PGA Tour
@@ -658,8 +671,13 @@ https://fast-channels.sinclairstoryline.com/THENEST/index.m3u8
 #EXTINF:-1 tvg-id="MyTime Movie" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MyTimeMovie.png" group-title="影视",MyTime Movie
 https://appletree-mytimeau-samsung.amagi.tv/1080p/index.m3u8
 https://mytimeuk-rakuten-samsung.amagi.tv/1080p/index.m3u8
+#EXTINF:-1 tvg-id="MyTime Movie East" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MyTimeMovie.png" group-title="影视",MyTime Movie East
+https://mytime-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MovieSphere.png" group-title="影视",MovieSphere
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlist/amg00353-lionsgatefilmsi-moviesphereaus-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-id="MovieSphere" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/MovieSpherebyLionsgate.png" group-title="影视",MovieSphere by Lionsgate
+https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
 #EXTINF:-1 tvg-id="Universal Action" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/UniversalAction.png" group-title="影视",Universal Action
 https://xumo-xumoent-ch828-w6val.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="Universal Crime" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/UniversalCrime.png" group-title="影视",Universal Crime
@@ -758,6 +776,8 @@ https://live-gbnews.simplestreamcdn.com/s3/gbnews/index.m3u8
 https://rakutenaa-lightning-gbnews-rakuten-ccoa9.amagi.tv/playlist/rakutenAA-lightning-gbnews-rakuten/playlist.m3u8
 https://amg01076-lightningintern-gbnewsse-samsungse-q7qjc.amagi.tv/playlist/amg01076-lightningintern-gbnewsse-samsungse/playlist.m3u8
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8
+#EXTINF:-1 tvg-id="Sky News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/SkyNews.png" group-title="新闻",Sky News
+https://xumo-drct-skynews-nc91a.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 tvg-id="France24" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/France24.png" group-title="新闻",France 24
 https://live.france24.com/hls/live/2037218/F24_EN_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-id="CNA" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CNA.png" group-title="新闻",CNA
@@ -767,6 +787,8 @@ https://rt-glb.rttv.com/live/rtnews/playlist_4500Kb.m3u8
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-id="TV Brics" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TVBrics.png" group-title="新闻",TV Brics
 https://chibrics.mediacdn.ru/cdn/brics/chinese/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="NHK World" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NHKWorld.png" group-title="新闻",NHK World
+https://masterpl.hls.nhkworld.jp/hls/w/live/smarttv.m3u8
 #EXTINF:-1 tvg-id="Arirang TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/Arirang.png" group-title="新闻",Arirang TV
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 tvg-id="Wion News" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/WionNews.png" group-title="新闻",Wion News
