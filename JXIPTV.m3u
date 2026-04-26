@@ -214,14 +214,12 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226412/2/index.
 http://218.95.14.41:8000/hls/stream0.m3u8
 #EXTINF:-1 tvg-id="瑞金综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/瑞金综合.png" group-title="江西",瑞金综合
 http://play-a2.quklive.com/live/1760408109205119.m3u8
-#EXTINF:-1 tvg-id="宁都综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁都综合.png" group-title="江西",宁都综合
-http://play-a2.quklive.com/live/1775553405482262.m3u8
 #EXTINF:-1 tvg-id="南康综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南康综合频道.png" group-title="江西",南康综合频道
 http://play-a2.quklive.com/live/1758525653004384.m3u8
-#EXTINF:-1 tvg-id="大余综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大余综合.png" group-title="江西",大余综合
-http://play-a2.quklive.com/live/1757066245476057.m3u8
 #EXTINF:-1 tvg-id="龙南综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙南综合.png" group-title="江西",龙南综合
 http://p2hs.vzan.com/1670294060/707321619705783642/live.m3u8
+#EXTINF:-1 tvg-id="大余综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大余综合.png" group-title="江西",大余综合
+http://play-a2.quklive.com/live/1757066245476057.m3u8
 #EXTINF:-1 tvg-id="九江新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226417/2/index.m3u8
 #EXTINF:-1 tvg-id="九江公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江公共频道.png" group-title="江西",九江公共频道
@@ -622,6 +620,8 @@ https://cdn.163189.xyz/163189/now
 https://cdn.163189.xyz/163189/rthk31
 #EXTINF:-1 tvg-id="RTHK32" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTHK32.png" group-title="港澳",RTHK32
 https://cdn.163189.xyz/163189/rthk32
+#EXTINF:-1 tvg-id="HOY76" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HOY76.png" group-title="港澳",HOY国际财经台
+https://cdn11.163189.xyz/163189/2c86601a7180416e
 #EXTINF:-1 tvg-id="HOY77" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HOY77.png" group-title="港澳",HOY TV
 https://cdn6.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="HOY78" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HOY78.png" group-title="港澳",HOY资讯台
@@ -749,8 +749,8 @@ https://amg00090-amgnaturetimeemea-rakuten.amagi.tv/playlist1080-p.m3u8
 #EXTINF:-1 tvg-id="Terra Mater Wild" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TerraMaterWild.png" group-title="纪录",Terra Mater Wild
 https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="History Hit" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HistoryHit.png" group-title="纪录",History Hit
-https://lds-timeline-plex.amagi.tv/playlist.m3u8
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+https://lds-timeline-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="RT Documentary" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/RTDoc.png" group-title="纪录",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist_4500Kb.m3u8
