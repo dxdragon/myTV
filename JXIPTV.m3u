@@ -131,7 +131,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225483/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226413/2/index.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河北卫视.png" group-title="卫视",河北卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225610/2/index.m3u8
-#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南卫视·春.png" group-title="卫视",河南卫视
+#EXTINF:-1 tvg-id="河南卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南卫视·夏.png" group-title="卫视",河南卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225611/2/index.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225586/2/index.m3u8
@@ -259,6 +259,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226313/2/index.
 #EXTINF:-1 tvg-id="北京文艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京文艺.png" group-title="北京",北京文艺
 http://r.xace.fun:4999/udp/239.3.1.242:8000
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/btime.js?id=54db6gi5vfj8r8q1e6r89imd64s
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/btime.js?id=54db6gi5vfj8r8q1e6r89imd64s
 #EXTINF:-1 tvg-id="北京影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京影视.png" group-title="北京",北京影视
 http://r.xace.fun:4999/udp/239.3.1.158:8000
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/btime.js?id=50mqo8t4n4e8gtarqr3orj9l93v
@@ -451,10 +452,8 @@ http://51nb.top:9022/udp/239.125.2.172:4161
 http://play1-qk.nmtv.cn/live/2331general.m3u8
 http://play1-qk.nmtv.cn/live/2345general.m3u8
 http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
-http://ltech.0471tv.org.cn:8088/xwzh/xinwenzonghe.m3u8
 #EXTINF:-1 tvg-id="呼和浩特影视娱乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/呼和浩特影视娱乐.png" group-title="内蒙古",呼和浩特影视娱乐
 http://51nb.top:9022/udp/239.125.2.175:4164
-http://ltech.0471tv.org.cn:8088/ysyl/yingshiyule.m3u8
 
 #数字
 #EXTINF:-1 tvg-id="纯享4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/纯享4K.png" group-title="数字",纯享4K
