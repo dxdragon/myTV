@@ -44,6 +44,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226232/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226335/2/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226422/index.m3u8
 https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=1509682429&sign=2a674d4a91c7d4187bc09c8f7189e27e061aa9a2a4c935a9e88a028ac539c20c24a127dba9b6615dfce3702ae33b791e2134e7232aca16582e1e9182e64aaf97a9d5feacd586270388dbe922fd99&auth_token=0cc129f1466d676528e6ae0f292c64b9
 #EXTINF:-1 tvg-id="CCTV8K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
@@ -204,8 +205,6 @@ http://play-a2.quklive.com/live/1760408109205119.m3u8
 http://play-a2.quklive.com/live/1758525653004384.m3u8
 #EXTINF:-1 tvg-id="龙南综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/龙南综合.png" group-title="江西",龙南综合
 http://p2hs.vzan.com/1670294060/707321619705783642/live.m3u8
-#EXTINF:-1 tvg-id="大余综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大余综合.png" group-title="江西",大余综合
-http://play-a2.quklive.com/live/1757066245476057.m3u8
 #EXTINF:-1 tvg-id="九江新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226417/2/index.m3u8
 #EXTINF:-1 tvg-id="九江公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江公共频道.png" group-title="江西",九江公共频道
@@ -310,7 +309,7 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226308/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.m3u8
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/重温经典.png" group-title="数字",重温经典
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-https://other.ottiptv.cc/cwjd.m3u8?userid=1509682429&sign=ca4cdb40e836df51027bd0bc31851e2f11cf75bbd8af283ed5aa9261640d69d7df8bfb5dc3b9ea5d0305a5df0d61ed9d80d42abacf3921677f881ac18666e749773127e3f407d7651c7a9597&auth_token=0cc129f1466d676528e6ae0f292c64b9
+https://live.ottiptv.cc/other/cwjd.m3u8?userid=1509682429&sign=cb3af3008985daab025d1f6bbf5c582a06c7b99616bb0139b2139980ccdffbef15d1d702289531346c9a0a9fefc71a95c57e8c91c8f56c39b16ebe3e305cd0e74ba398f4fd217c2197e92bc2&auth_token=0cc129f1466d676528e6ae0f292c64b9
 https://cdn13.178.indevs.in/163189/21d79187db6e9793
 
 #NewTV
