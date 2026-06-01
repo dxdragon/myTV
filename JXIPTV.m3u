@@ -342,6 +342,15 @@ https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/j
 #EXTINF:-1 tvg-id="吉林综艺文化" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉林综艺文化.png" group-title="吉林",吉林综艺·文化
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jl.js?id=jlzywh
 https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jl.js?id=jlzywh
+#EXTINF:-1 tvg-id="长春综合" tvg-logo="file:///storage/emulated/0/TV/logo/长春综合.png" group-title="吉林",长春综合
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jlcc.js?id=cczh
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jlcc.js?id=cczh
+#EXTINF:-1 tvg-id="长春文旅体育" tvg-logo="file:///storage/emulated/0/TV/logo/长春文旅体育.png" group-title="吉林",长春文旅体育
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jlcc.js?id=ccwlty
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jlcc.js?id=ccwlty
+#EXTINF:-1 tvg-id="长春市民生活" tvg-logo="file:///storage/emulated/0/TV/logo/长春市民生活.png" group-title="吉林",长春市民生活
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jlcc.js?id=ccsmsh
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jlcc.js?id=ccsmsh
 
 #数字
 #EXTINF:-1 tvg-id="纯享4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/纯享4K.png" group-title="数字",纯享4K
