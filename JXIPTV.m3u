@@ -46,11 +46,11 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226335/2/index.
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 #EXTKU9OPT:HEADERS={"User-Agent":"okHttp/Mod-1.5.0.0"}
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226422/index.m3u8
-http://82.156.243.185:36888/av3a/cctv4k.m3u8
+http://82.156.243.185:36888/av3a/cctv4kn.m3u8
 https://live.ottiptv.cc/mcp/cctv4k.m3u8?userid=1509682429&sign=2a674d4a91c7d4187bc09c8f7189e27e061aa9a2a4c935a9e88a028ac539c20c24a127dba9b6615dfce3702ae33b791e2134e7232aca16582e1e9182e64aaf97a9d5feacd586270388dbe922fd99&auth_token=0cc129f1466d676528e6ae0f292c64b9
 #EXTINF:-1 tvg-id="CCTV8K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
-http://82.156.243.185:36888/av3a/cctv8k.m3u8
+http://82.156.243.185:36888/av3a/cctv8kn.m3u8
 https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=1509682429&sign=81dc8dc0c1a5228e41b807de6e7631145bb139e29af03c36def235cb95364657f46ff611a8b70bfcf235591099ed398f1027fb1cbd8e644691587007fa7372c9f4df1e8a066071575870b65fc09b&auth_token=0cc129f1466d676528e6ae0f292c64b9
 #EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV电视指南.png" group-title="央视",CCTV-电视指南
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226359/2/index.m3u8
