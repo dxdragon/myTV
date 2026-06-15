@@ -310,7 +310,7 @@ http://pplee.vicp.net:4022/udp/233.18.204.53:5140?fcc=124.75.25.211:7777
 http://pplee.vicp.net:4022/udp/233.18.204.54:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="都市剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海都市剧场.png" group-title="上海",都市剧场
 http://pplee.vicp.net:4022/udp/233.18.204.48:5140?fcc=124.75.25.211:7777
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海欢笑剧场4K.png" group-title="上海",欢笑剧场4K
+#EXTINF:-1 tvg-id="多彩文体4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海多彩文体4K.png" group-title="上海",多彩文体4K
 http://pplee.vicp.net:4022/udp/233.18.204.50:5140?fcc=124.75.25.211:7777
 #EXTINF:-1 tvg-id="动漫秀场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上海动漫秀场.png" group-title="上海",动漫秀场
 http://pplee.vicp.net:4022/udp/233.18.204.46:5140?fcc=124.75.25.211:7777
@@ -487,29 +487,6 @@ https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/j
 #EXTINF:-1 tvg-id="长春市民生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/长春市民生活.png" group-title="吉林",长春市民生活
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jlcc.js?id=ccsmsh
 https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/zj.js?id=ccsmsh
-
-#四川
-#EXTINF:-1 tvg-id="成都新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都新闻综合.png" group-title="四川",成都新闻综合
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdxw
-https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/sccd.js?id=cdxw
-#EXTINF:-1 tvg-id="成都经济资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都经济资讯.png" group-title="四川",成都经济资讯
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdjj
-https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/sccd.js?id=cdjj
-#EXTINF:-1 tvg-id="成都都市生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都都市生活.png" group-title="四川",成都都市生活
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdsh
-https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/sccd.js?id=cdsh
-#EXTINF:-1 tvg-id="成都影视文艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都影视文艺.png" group-title="四川",成都影视文艺
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdys
-https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/sccd.js?id=cdys
-#EXTINF:-1 tvg-id="成都公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都公共.png" group-title="四川",成都公共
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdgg
-https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/sccd.js?id=cdgg
-#EXTINF:-1 tvg-id="成都少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都少儿.png" group-title="四川",成都少儿
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdse
-https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/sccd.js?id=cdse
-#EXTINF:-1 tvg-id="成都蓉城先锋" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都蓉城先锋.png" group-title="四川",成都蓉城先锋
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdrc
-https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/sccd.js?id=cdrc
 
 #数字
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC影迷电影.png" group-title="数字",CHC影迷电影
