@@ -98,7 +98,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226298/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226334/2/index.m3u8
 #EXTINF:-1 tvg-id="中国交通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中国交通.png" group-title="央视",中国交通
 http://home.airengine.net:9003/udp/228.1.1.222:8002
-http://r.xace.fun:4999/udp/239.3.1.188:8001
 
 #卫视
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -217,10 +216,6 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226419/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226416/2/index.m3u8
 #EXTINF:-1 tvg-id="丰城新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/丰城新闻综合.png" group-title="江西",丰城新闻综合
 http://play-sh13.quklive.com/live/1753663315049013.m3u8?auth_key=2079618218-43a81f8882264506923871b82faf8326-0-1b2ac19fffa1a603da6cb6e67161ac25
-#EXTINF:-1 tvg-id="新余新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新余新闻综合.png" group-title="江西",新余新闻综合
-http://175.178.86.156:8001/hls/w_MGyzT4AuoD4I3TRAoQxjGRQwg74r0M/playlist.m3u8
-#EXTINF:-1 tvg-id="新余教育频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/新余教育频道.png" group-title="江西",新余教育频道
-http://175.178.86.156:8001/hls/EjS3mAHmjLkHp_QRbjPFmrHrjM3zm2rsa/playlist.m3u8
 
 #北京
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京纪实科教.png" group-title="北京",纪实科教
@@ -233,43 +228,30 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226330/2/index.
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226313/2/index.m3u8
 #EXTINF:-1 tvg-id="北京文艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京文艺.png" group-title="北京",北京文艺
 http://home.airengine.net:9003/udp/228.1.1.116:8000
-http://r.xace.fun:4999/udp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="北京影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京影视.png" group-title="北京",北京影视
 http://home.airengine.net:9003/udp/228.1.1.190:8000
-http://r.xace.fun:4999/udp/239.3.1.158:8000
 #EXTINF:-1 tvg-id="北京财经" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京财经.png" group-title="北京",北京财经
 http://home.airengine.net:9003/udp/228.1.1.197:8000
-http://r.xace.fun:4999/udp/239.3.1.116:8000
 #EXTINF:-1 tvg-id="北京体育休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京体育休闲.png" group-title="北京",北京体育休闲
 http://home.airengine.net:9003/udp/228.1.1.117:8000
-http://r.xace.fun:4999/udp/239.3.1.243:8000
 #EXTINF:-1 tvg-id="北京生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京生活.png" group-title="北京",北京生活
 http://home.airengine.net:9003/udp/228.1.1.198:8000
-http://r.xace.fun:4999/udp/239.3.1.117:8000
 #EXTINF:-1 tvg-id="北京新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京新闻.png" group-title="北京",北京新闻
 http://home.airengine.net:9003/udp/228.1.1.189:8000
-http://r.xace.fun:4999/udp/239.3.1.159:8000
 #EXTINF:-1 tvg-id="北京国际" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京国际.png" group-title="北京",北京国际
 http://home.airengine.net:9003/udp/228.1.1.111:8000
-http://r.xace.fun:4999/udp/239.3.1.235:8000
 #EXTINF:-1 tvg-id="北京重温经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京重温经典.png" group-title="北京",北京重温经典
 http://home.airengine.net:9003/udp/228.1.1.237:8002
-http://r.xace.fun:4999/udp/239.3.1.25:8001
 #EXTINF:-1 tvg-id="萌宠TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京萌宠TV.png" group-title="北京",萌宠TV
 http://home.airengine.net:9003/udp/228.1.1.135:8002
-http://r.xace.fun:4999/udp/239.3.1.102:8001
 #EXTINF:-1 tvg-id="淘Baby" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京淘Baby.png" group-title="北京",淘Baby
 http://home.airengine.net:9003/udp/228.1.1.128:8001
-http://r.xace.fun:4999/udp/239.3.1.238:8001
 #EXTINF:-1 tvg-id="淘剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京淘剧场.png" group-title="北京",淘剧场
 http://home.airengine.net:9003/udp/228.1.1.126:8001
-http://r.xace.fun:4999/udp/239.3.1.95:8001
 #EXTINF:-1 tvg-id="淘娱乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京淘娱乐.png" group-title="北京",淘娱乐
 http://home.airengine.net:9003/udp/228.1.1.133:8001
-http://r.xace.fun:4999/udp/239.3.1.100:8001
 #EXTINF:-1 tvg-id="淘电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京淘电影.png" group-title="北京",淘电影
 http://home.airengine.net:9003/udp/228.1.1.124:8001
-http://r.xace.fun:4999/udp/239.3.1.250:8001
 
 #湖南
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/湖南金鹰卡通.png" group-title="湖南",金鹰卡通
@@ -396,7 +378,8 @@ http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226319/2/index.
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 #EXTKU9OPT:HEADERS={"User-Agent":"okHttp/Mod-1.5.0.0"}
 https://live.ottiptv.cc/other/cwjd.m3u8?userid=1509682429&sign=cb3af3008985daab025d1f6bbf5c582a06c7b99616bb0139b2139980ccdffbef15d1d702289531346c9a0a9fefc71a95c57e8c91c8f56c39b16ebe3e305cd0e74ba398f4fd217c2197e92bc2&auth_token=0cc129f1466d676528e6ae0f292c64b9
-https://cdn6.163189.xyz/163189/cwjd
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/cwjd.js
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/cwjd.js
 
 #NewTV
 #EXTINF:-1 tvg-id="炫舞未来" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
@@ -736,7 +719,7 @@ https://amg00353-lionsgatefilmsi-moviesphereaus-samsungau-7qzhf.amagi.tv/playlis
 https://aegis-cloudfront-1.tubi.video/8b127a5b-3054-4f39-93a2-1c4aab9ef5ff/playlist.m3u8
 #EXTINF:-1 tvg-id="EbonyTVbyLionsgate" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/EbonyTVbyLionsgate.png" group-title="影视",Ebony TV by Lionsgate
 https://aegis-cloudfront-1.tubi.video/a0ad4b53-ab3a-48dd-be12-bc7f533c372c/playlist.m3u8
-#EXTINF:-1 tvg-id="OuterSphere" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/OuterSphere.png" group-title="影视",OuterSphere
+#EXTINF:-1 tvg-id="OuterSphere" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/OuterSphere.png" group-title="影视",OuterSphere by Lionsgate
 https://aegis-cloudfront-1.tubi.video/27de4f2e-7f9c-418a-9b0d-e4b35b0843a0/playlist.m3u8
 https://d3o593mz1glx8d.cloudfront.net/OuterSphere_US.m3u8
 #EXTINF:-1 tvg-id="Universal Action" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/UniversalAction.png" group-title="影视",Universal Action
