@@ -137,8 +137,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226298/index.m3u8
 #EXTINF:-1 tvg-id="中国天气" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中国天气.png" group-title="央视",中国天气
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226334/index.m3u8?fmt=ts2hls
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226421/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="中国交通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中国交通.png" group-title="央视",中国交通
-http://home.airengine.net:9003/udp/228.1.1.222:8002
 
 #卫视
 #EXTINF:-1 tvg-id="安徽卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/安徽卫视.png" group-title="卫视",安徽卫视
@@ -281,6 +279,10 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226412/index.m3u8?fmt=
 http://218.95.14.41:8000/hls/stream0.m3u8
 #EXTINF:-1 tvg-id="瑞金综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/瑞金综合.png" group-title="江西",瑞金综合
 http://play-a2.quklive.com/live/1760408109205119.m3u8
+#EXTINF:-1 tvg-id="南康综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南康综合频道.png" group-title="江西",南康综合频道
+http://play-a2.quklive.com/live/1758525653004384.m3u8
+#EXTINF:-1 tvg-id="信丰一套" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/信丰一套.png" group-title="江西",信丰一套
+http://play-a2.quklive.com/live/1761874123034214.m3u8
 #EXTINF:-1 tvg-id="九江新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226417/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="九江公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江公共频道.png" group-title="江西",九江公共频道
