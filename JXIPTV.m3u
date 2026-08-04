@@ -248,6 +248,7 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226395/index.m3u8?fmt=
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大湾区卫视.png" group-title="卫视",大湾区卫视
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/itv.js?cid=hnbblive&id=2000000003000000045
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/itv.js?cid=ystenlive&id=1000000002000011619
+http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/SD-4000k-576P-nanfangstv/index.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/三沙卫视.png" group-title="卫视",三沙卫视
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/itv.js?cid=bestzb&id=5000000011000288016
 http://zxrr.jx.chinamobile.com:8080/ysten-businessmobile/live/HD-4000k-1080P-sanshastv/index.m3u8
@@ -286,13 +287,15 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226412/index.m3u8?fmt=
 #EXTINF:-1 tvg-id="章贡综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/章贡综合.png" group-title="江西",章贡综合
 http://218.95.14.41:8000/hls/stream0.m3u8
 #EXTINF:-1 tvg-id="瑞金综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/瑞金综合.png" group-title="江西",瑞金综合
-http://play-a2.quklive.com/live/1760408109205119.m3u8
+http://115.190.252.60/qukan.php?id=1760408109205119
 #EXTINF:-1 tvg-id="宁都综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁都综合.png" group-title="江西",宁都综合
 http://115.190.252.60/qukan.php?id=1775696284668325
+#EXTINF:-1 tvg-id="大余综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大余综合.png" group-title="江西",大余综合
+http://115.190.252.60/qukan.php?id=1778834121181242
 #EXTINF:-1 tvg-id="南康综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南康综合频道.png" group-title="江西",南康综合频道
-http://play-a2.quklive.com/live/1758525653004384.m3u8
+http://115.190.252.60/qukan.php?id=1758525653004384
 #EXTINF:-1 tvg-id="信丰综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/信丰综合.png" group-title="江西",信丰综合
-http://play-a2.quklive.com/live/1761874123034214.m3u8
+http://115.190.252.60/qukan.php?id=1761874123034214
 #EXTINF:-1 tvg-id="九江新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226417/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="九江公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江公共频道.png" group-title="江西",九江公共频道
@@ -303,8 +306,10 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226423/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226419/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="上饶经济旅游" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上饶经济旅游频道.png" group-title="江西",上饶经济·旅游频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226416/index.m3u8?fmt=ts2hls
+#EXTINF:-1 tvg-id="广丰综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广丰综合.png" group-title="江西",广丰综合
+http://115.190.252.60/qukan.php?id=1778463699013144
 #EXTINF:-1 tvg-id="丰城新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/丰城新闻综合.png" group-title="江西",丰城新闻综合
-http://play-sh13.quklive.com/live/1753663315049013.m3u8?auth_key=2079618218-43a81f8882264506923871b82faf8326-0-1b2ac19fffa1a603da6cb6e67161ac25
+http://115.190.252.60/qukan.php?id=1753663315049013
 
 #北京
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京纪实科教.png" group-title="北京",纪实科教
@@ -705,6 +710,8 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssdz.m3u8?auth=testpub
 http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="邵氏武侠" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏武侠.png" group-title="港澳",邵氏武侠
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
+#EXTINF:-1 tvg-id="澳门莲花" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门莲花.png" group-title="港澳",澳门莲花
+http://115.190.252.60/qukan.php?id=1780907795235397
 
 #财经
 #EXTINF:-1 tvg-id="Yahoo! Finance" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/YahooFinance.png" group-title="财经",Yahoo! Finance
