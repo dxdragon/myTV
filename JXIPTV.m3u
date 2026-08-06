@@ -286,13 +286,16 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226412/index.m3u8?fmt=
 #EXTINF:-1 tvg-id="章贡综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/章贡综合.png" group-title="江西",章贡综合
 http://218.95.14.41:8000/hls/stream0.m3u8
 #EXTINF:-1 tvg-id="瑞金综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/瑞金综合.png" group-title="江西",瑞金综合
-http://115.190.252.60/qukan.php?id=1760408109205119
+http://play-a2.quklive.com/live/1760408109205119.m3u8
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/qukan.js?id=rjzh
 #EXTINF:-1 tvg-id="宁都综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/宁都综合.png" group-title="江西",宁都综合
-http://115.190.252.60/qukan.php?id=1775696284668325
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/qukan.js?id=ndzh
 #EXTINF:-1 tvg-id="南康综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南康综合频道.png" group-title="江西",南康综合频道
-http://115.190.252.60/qukan.php?id=1758525653004384
+http://play-a2.quklive.com/live/1758525653004384.m3u8
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/qukan.js?id=nkzh
 #EXTINF:-1 tvg-id="信丰综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/信丰综合.png" group-title="江西",信丰综合
-http://115.190.252.60/qukan.php?id=1761874123034214
+http://play-a2.quklive.com/live/1761874123034214.m3u8
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/qukan.js?id=xfzh
 #EXTINF:-1 tvg-id="九江新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226417/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="九江公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江公共频道.png" group-title="江西",九江公共频道
@@ -303,10 +306,12 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226423/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226419/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="上饶经济旅游" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/上饶经济旅游频道.png" group-title="江西",上饶经济·旅游频道
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226416/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="广丰综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广丰综合.png" group-title="江西",广丰综合
-http://115.190.252.60/qukan.php?id=1778463699013144
+#EXTINF:-1 tvg-id="广丰新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/广丰新闻综合.png" group-title="江西",广丰新闻综合
+http://play-sh13.quklive.com/live/1778463699013144.m3u8?auth_key=1786030687-d1223b267d824ca082acc756ff3040c4-0-ad260ed86c4a34ad8afb823dd3d358de
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/qukan.js?id=gfxwzh
 #EXTINF:-1 tvg-id="丰城新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/丰城新闻综合.png" group-title="江西",丰城新闻综合
-http://115.190.252.60/qukan.php?id=1753663315049013
+http://play-sh13.quklive.com/live/1753663315049013.m3u8?auth_key=2079618218-43a81f8882264506923871b82faf8326-0-1b2ac19fffa1a603da6cb6e67161ac25
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/qukan.js?id=fcxwzh
 
 #北京
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/北京纪实科教.png" group-title="北京",纪实科教
@@ -363,27 +368,35 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=
 #EXTINF:-1 tvg-id="钱江都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
 http://ali-xwl.cztv.com/live/channel021080Pnew.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjqj
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/zj.js?id=zjqj
 #EXTINF:-1 tvg-id="浙江经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
 http://ali-xwl.cztv.com/live/channel031080Pnew.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjjjsh
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/zj.js?id=zjjjsh
 #EXTINF:-1 tvg-id="浙江教科影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
 http://ali-xwl.cztv.com/live/channel041080Pnew.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjjkys
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/zj.js?id=zjjkys
 #EXTINF:-1 tvg-id="浙江民生休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
 http://ali-xwl.cztv.com/live/channel061080Pnew.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjmsxx
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/zj.js?id=zjmsxx
 #EXTINF:-1 tvg-id="浙江新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江新闻.png" group-title="浙江",浙江新闻
 http://ali-xwl.cztv.com/live/channel071080Pnew.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjxw
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/zj.js?id=zjxw
 #EXTINF:-1 tvg-id="浙江少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江少儿.png" group-title="浙江",浙江少儿
 http://ali-xwl.cztv.com/live/channel081080Pnew.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjse
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/zj.js?id=zjse
 #EXTINF:-1 tvg-id="浙江国际" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江国际.png" group-title="浙江",浙江国际
 http://ali-xwl.cztv.com/live/channel101080Plxw.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjgj
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/zj.js?id=zjgj
 #EXTINF:-1 tvg-id="之江纪录" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江之江纪录.png" group-title="浙江",浙江之江纪录
 http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjzjjl
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/zj.js?id=zjzjjl
 
 #河南
 #EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南梨园频道.png" group-title="河南",梨园频道
@@ -402,45 +415,59 @@ http://play1-qk.nmtv.cn/live/2360general.m3u8
 http://play1-qk.nmtv.cn/live/2325general.m3u8
 http://play1-qk.nmtv.cn/live/2316general.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/nm.js?id=nmxwzh
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/nm.js?id=nmxwzh
 #EXTINF:-1 tvg-id="内蒙古经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古经济生活.png" group-title="内蒙古",内蒙古经济生活
 http://play1-qk.nmtv.cn/live/2326general.m3u8
 http://play1-qk.nmtv.cn/live/2317general.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/nm.js?id=nmjjsh
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/nm.js?id=nmjjsh
 #EXTINF:-1 tvg-id="内蒙古少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古少儿频道.png" group-title="内蒙古",内蒙古少儿频道
 http://play1-qk.nmtv.cn/live/2327general.m3u8
 http://play1-qk.nmtv.cn/live/2318general.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/nm.js?id=nmse
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/nm.js?id=nmse
 #EXTINF:-1 tvg-id="内蒙古文体娱乐" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古文体娱乐.png" group-title="内蒙古",内蒙古文体娱乐
 http://play1-qk.nmtv.cn/live/2328general.m3u8
 http://play1-qk.nmtv.cn/live/2319general.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/nm.js?id=nmwtyl
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/nm.js?id=nmwtyl
 #EXTINF:-1 tvg-id="内蒙古农牧" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古农牧频道.png" group-title="内蒙古",内蒙古农牧频道
 http://play1-qk.nmtv.cn/live/2329general.m3u8
 http://play1-qk.nmtv.cn/live/2320general.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/nm.js?id=nmnm
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/nm.js?id=nmnm
 #EXTINF:-1 tvg-id="呼和浩特新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/呼和浩特新闻综合.png" group-title="内蒙古",呼和浩特新闻综合
 http://play1-qk.nmtv.cn/live/2331general.m3u8
 http://play1-qk.nmtv.cn/live/2345general.m3u8
 http://play1-qk.nmtv.cn/live/1735545967595013.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/nm.js?id=hhht1
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/nm.js?id=hhht1
 
 #吉林
 #EXTINF:-1 tvg-id="吉林都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉林都市.png" group-title="吉林",吉林都市
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jl.js?id=jlds
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jl.js?id=jlds
 #EXTINF:-1 tvg-id="吉林生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉林生活.png" group-title="吉林",吉林生活
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jl.js?id=jlsh
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jl.js?id=jlsh
 #EXTINF:-1 tvg-id="吉林影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉林影视.png" group-title="吉林",吉林影视
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jl.js?id=jlys
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jl.js?id=jlys
 #EXTINF:-1 tvg-id="吉林乡村" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉林乡村.png" group-title="吉林",吉林乡村
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jl.js?id=jlxc
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jl.js?id=jlxc
 #EXTINF:-1 tvg-id="吉林综艺文化" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/吉林综艺文化.png" group-title="吉林",吉林综艺·文化
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jl.js?id=jlzywh
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jl.js?id=jlzywh
 #EXTINF:-1 tvg-id="长春综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/长春综合.png" group-title="吉林",长春综合
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jlcc.js?id=cczh
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jlcc.js?id=cczh
 #EXTINF:-1 tvg-id="长春文旅体育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/长春文旅体育.png" group-title="吉林",长春文旅体育
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jlcc.js?id=ccwlty
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jlcc.js?id=ccwlty
 #EXTINF:-1 tvg-id="长春市民生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/长春市民生活.png" group-title="吉林",长春市民生活
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jlcc.js?id=ccsmsh
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jlcc.js?id=ccsmsh
 
 #数字
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC影迷电影.png" group-title="数字",CHC影迷电影
@@ -541,7 +568,8 @@ http://38.75.136.137:98/gslb/dsdqpub/lbssxj.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="邵氏武侠" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏武侠.png" group-title="港澳",邵氏武侠
 http://38.75.136.137:98/gslb/dsdqpub/lbsswx.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="澳门莲花" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/澳门莲花.png" group-title="港澳",澳门莲花
-http://115.190.252.60/qukan.php?id=1780907795235397
+https://play-sh.quklive.com/live/1780907795235397.m3u8
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/qukan.js?id=lhws
 
 #财经
 #EXTINF:-1 tvg-id="Yahoo! Finance" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/YahooFinance.png" group-title="财经",Yahoo! Finance
