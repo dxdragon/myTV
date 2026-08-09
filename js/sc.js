@@ -1,15 +1,15 @@
 /*
 四川,#genre#
-四川卫视4K,http://P/ku9/js/sc.js?id=10
-四川卫视,http://P/ku9/js/sc.js?id=1
-四川新闻,http://P/ku9/js/sc.js?id=2
-四川经济,http://P/ku9/js/sc.js?id=3
-四川文化旅游,http://P/ku9/js/sc.js?id=4
-四川影视文艺,http://P/ku9/js/sc.js?id=5
-四川妇女儿童,http://P/ku9/js/sc.js?id=6
-四川乡村,http://P/ku9/js/sc.js?id=8
-康巴卫视,http://P/ku9/js/sc.js?id=9
-四川星空购物,http://P/ku9/js/sc.js?id=7
+四川卫视4K,http://PLTV/ku9/js/sc.js?id=10
+四川卫视,http://PLTV/ku9/js/sc.js?id=1
+四川新闻,http://PLTV/ku9/js/sc.js?id=2
+四川经济,http://PLTV/ku9/js/sc.js?id=3
+四川文化旅游,http://PLTV/ku9/js/sc.js?id=4
+四川影视文艺,http://PLTV/ku9/js/sc.js?id=5
+四川妇女儿童,http://PLTV/ku9/js/sc.js?id=6
+四川乡村,http://PLTV/ku9/js/sc.js?id=8
+康巴卫视,http://PLTV/ku9/js/sc.js?id=9
+四川星空购物,http://PLTV/ku9/js/sc.js?id=7
 */
 function main(item) {
     var id = item.id || 1 ;
