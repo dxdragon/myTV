@@ -1,48 +1,35 @@
 function main(item) {
-    const cid = ku9.getQuery(item.url, "cid");
-    const id = ku9.getQuery(item.url, "id");
-    const bk = parseInt(ku9.getQuery(item.url, "bk")) || 0;
-    if (!cid || !id) return { url: "" };
+    const url = item.url || "";
 
-    const cacheKey = "itv_auth";
-    const baseParams = `channel-id=${cid}&Contentid=${id}&livemode=1&stbId=m`;
-    let authInfo = "", domain = "";
+    // 1. 取参数
+    let cid = item.cid || ku9.getQuery(url, "cid") || "ystenlive";
+    let id  = item.id  || ku9.getQuery(url, "id") || ku9.getQuery(url, "id");
 
-    const cached = ku9.getCache(cacheKey);
-    if (cached) {
-        try {
-            const data = JSON.parse(cached);
-            if (data.expires > Date.now() && data.cid === cid && data.id === id) {
-                authInfo = data.authInfo;
-                domain = data.domain;
-            }
-        } catch(e) {}
-    }
+    if (!id) return { url: "Contentid 不能为空" };
 
-    if (!authInfo) {
-        const reqUrl = `http://221.181.100.26/gslbserv.itv.cmvideo.cn/1.m3u8?${baseParams}`;
-        const res = ku9.request(reqUrl, "GET", {}, null, false);
-        const location = res.headers["Location"] || "";
-        authInfo = (location.match(/[?&]AuthInfo=([^&]+)/) || [])[1] || "";
-        domain = (location.match(/http:\/\/([^\/:]+)/) || [])[1] || "";
-        ku9.setCache(cacheKey, JSON.stringify({ cid, id, authInfo, domain, expires: Date.now() + 10500000 }));
-    }
+    // 2. 真实边缘节点 IP（你给的样例 IP，可按省份替换）
+    const edgeIp = "27.185.221.234";
 
-    const baseUrl = `http://jscbn.zj-cdn.gitv.tv/000000001000/${id}`;
-    const backSec = bk || (cid === "bestzb" ? 60 : 50);
-    const startTime = Date.now() - backSec * 1000;
+    // 3. 拼 m3u8 地址（你这个格式的固定规律）
+    const m3u8 =
+        `http://${edgeIp}/000000001000/${id}/1.m3u8` +
+        `?channel-id=${cid}` +
+        `&Contentid=${id}` +
+        `&livemode=1` +
+        `&stbId=m` +
+        `&domain=cache.ott.wasulive.itv.cmvideo.cn`;
 
-    let m3u8 = "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-TARGETDURATION:10\n";
-    m3u8 += `#EXT-X-MEDIA-SEQUENCE:${Math.floor(startTime / 10000)}\n`;
+    // 4. 把 CDN 域名绑到边缘 IP（酷9 会走这个 host 解析）
+    const host = {
+        "cache.ott.wasulive.itv.cmvideo.cn": edgeIp
+    };
 
-    for (let i = 0; i < 2; i++) {
-        const ts = new Date(startTime + i * 10000 + 8 * 3600000);
-        const yyyymmdd = `${ts.getUTCFullYear()}${String(ts.getUTCMonth() + 1).padStart(2, "0")}${String(ts.getUTCDate()).padStart(2, "0")}`;
-        const hh = String(ts.getUTCHours()).padStart(2, "0");
-        const mm = String(Math.floor(ts.getUTCMinutes() / 10) * 10).padStart(2, "0");
-        const segNum = Math.floor(((ts.getUTCMinutes() % 10) * 60 + ts.getUTCSeconds()) / 10) + 1;
-        m3u8 += `#EXTINF:10.000,\n${baseUrl}/${id}_1500000_${yyyymmdd}_${hh}${mm}00_${segNum}.ts?${baseParams}&AuthInfo=${authInfo}&domain=${domain}\n`;
-    }
-
-    return { m3u8 };
+    return {
+        url: m3u8,
+        host: host,
+        headers: {
+            "User-Agent": "Mozilla/5.0",
+            "Referer": "http://www.itv.cmvideo.cn/"
+        }
+    };
 }
