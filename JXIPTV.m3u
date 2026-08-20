@@ -447,6 +447,34 @@ http://ali-xwl.cztv.com/live/channel121080Pnew.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjzjjl
 https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/zj.js?id=zjzjjl
 
+#江苏
+#EXTINF:-1 tvg-id="江苏城市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏城市.png" group-title="江苏",江苏城市
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jstv.js?id=jscspro
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jstv.js?id=jscspro
+#EXTINF:-1 tvg-id="江苏新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏新闻.png" group-title="江苏",江苏新闻
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jstv.js?id=jsxwpro
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jstv.js?id=jsxwpro
+#EXTINF:-1 tvg-id="江苏综艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏综艺.png" group-title="江苏",江苏综艺
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jstv.js?id=jszypro
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jstv.js?id=jszypro
+#EXTINF:-1 tvg-id="江苏影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏影视.png" group-title="江苏",江苏影视
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jstv.js?id=jsyspro
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jstv.js?id=jsyspro
+#EXTINF:-1 tvg-id="江苏教育" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏教育.png" group-title="江苏",江苏教育
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jstv.js?id=jsjypro
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jstv.js?id=jsjypro
+#EXTINF:-1 tvg-id="江苏体育休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏体育休闲.png" group-title="江苏",江苏体育·休闲
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jstv.js?id=jsxxpro
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jstv.js?id=jsxxpro
+#EXTINF:-1 tvg-id="优漫卡通" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏优漫卡通.png" group-title="江苏",优漫卡通
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jstv.js?id=ymktpro
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jstv.js?id=ymktpro
+#EXTINF:-1 tvg-id="江苏国际" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏国际.png" group-title="江苏",江苏国际
+javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jstv.js?id=jsgjpro
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jstv.js?id=jsgjpro
+#EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏财富天下.png" group-title="江苏",财富天下
+http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226336/2/index.m3u8
+
 #河南
 #EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南梨园频道.png" group-title="河南",梨园频道
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225581/2/index.m3u8
