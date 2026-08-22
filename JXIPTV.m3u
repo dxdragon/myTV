@@ -474,6 +474,9 @@ javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/j
 https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/jstv.js?id=jsgjpro
 #EXTINF:-1 tvg-id="财富天下" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/江苏财富天下.png" group-title="江苏",财富天下
 http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226336/2/index.m3u8
+#EXTINF:-1 tvg-id="苏州4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/苏州4K.png" group-title="江苏",苏州4K
+http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
+http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
 
 #河南
 #EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南梨园频道.png" group-title="河南",梨园频道
@@ -543,7 +546,7 @@ https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/j
 #EXTINF:-1 tvg-id="成都新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都新闻综合.png" group-title="四川",成都新闻综合
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdxw
 https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/sccd.js?id=cdxw
-#EXTINF:-1 tvg-id="成都经济资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都经济资讯.png" group-title="四川",成都经济资讯
+#EXTINF:-1 tvg-id="成都经济资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都经济资讯服务.png" group-title="四川",成都经济资讯服务
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdjj
 https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/sccd.js?id=cdjj
 #EXTINF:-1 tvg-id="成都都市生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都都市生活.png" group-title="四川",成都都市生活
