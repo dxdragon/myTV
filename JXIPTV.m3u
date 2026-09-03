@@ -693,6 +693,51 @@ https://play-sh.quklive.com/live/1780907795235397.m3u8
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/qukan.js?id=lhws
 https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/k-web/ku9/js/qukan.js?id=lhws
 
+#台湾
+#EXTINF:-1 tvg-id="中视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中视.png" group-title="台湾",中视
+http://220.135.241.47:8301/0.ts
+http://211.72.174.95:8113/0.ts
+#EXTINF:-1 tvg-id="中视新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中视新闻.png" group-title="台湾",中视新闻
+http://220.135.241.47:8302/0.ts
+#EXTINF:-1 tvg-id="中视经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中视经典.png" group-title="台湾",中视经典
+http://220.135.241.47:8321/0.ts
+#EXTINF:-1 tvg-id="中视菁采" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/中视菁采.png" group-title="台湾",中视菁采
+http://220.135.241.47:8322/0.ts
+#EXTINF:-1 tvg-id="台视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/台视.png" group-title="台湾",台视
+http://220.135.241.47:8313/0.ts
+#EXTINF:-1 tvg-id="台视财经" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/台视财经.png" group-title="台湾",台视财经
+http://220.135.241.47:8315/0.ts
+#EXTINF:-1 tvg-id="台视综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/台视综合.png" group-title="台湾",台视综合
+http://220.135.241.47:8316/0.ts
+#EXTINF:-1 tvg-id="台视新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/台视新闻.png" group-title="台湾",台视新闻
+http://220.135.241.47:8314/0.ts
+#EXTINF:-1 tvg-id="华视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/华视.png" group-title="台湾",华视
+http://220.135.241.47:8317/0.ts
+http://211.72.174.95:8114/0.ts
+#EXTINF:-1 tvg-id="华视新闻资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/华视新闻资讯.png" group-title="台湾",华视新闻资讯
+http://220.135.241.47:8319/0.ts
+#EXTINF:-1 tvg-id="华视教育体育文化" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/华视教育体育文化.png" group-title="台湾",华视教育体育文化
+http://220.135.241.47:8318/0.ts
+#EXTINF:-1 tvg-id="民视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/民视.png" group-title="台湾",民视
+http://220.135.241.47:8308/0.ts
+http://211.72.174.95:8115/0.ts
+#EXTINF:-1 tvg-id="民视新闻台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/民视新闻台.png" group-title="台湾",民视新闻台
+http://211.72.174.95:8117/0.ts
+#EXTINF:-1 tvg-id="民视台湾台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/民视台湾台.png" group-title="台湾",民视台湾台
+http://220.135.241.47:8311/0.ts
+#EXTINF:-1 tvg-id="民视第一台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/民视第一台.png" group-title="台湾",民视第一台
+http://220.135.241.47:8309/0.ts
+#EXTINF:-1 tvg-id="公视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/公视.png" group-title="台湾",公视
+http://220.135.241.47:8305/0.ts
+#EXTINF:-1 tvg-id="公视台语台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/公视台语台.png" group-title="台湾",公视台语台
+http://220.135.241.47:8306/0.ts
+#EXTINF:-1 tvg-id="小公视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/小公视.png" group-title="台湾",小公视
+http://220.135.241.47:8312/0.ts
+#EXTINF:-1 tvg-id="客家电视台" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/客家电视台.png" group-title="台湾",客家电视台
+http://220.135.241.47:8307/0.ts
+#EXTINF:-1 tvg-id="原视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/原视.png" group-title="台湾",原视
+http://220.135.241.47:8303/0.ts
+
 #财经
 #EXTINF:-1 tvg-id="Yahoo! Finance" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/YahooFinance.png" group-title="财经",Yahoo! Finance
 https://yahoo-samsung.amagi.tv/playlist.m3u8
