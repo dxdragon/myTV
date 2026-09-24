@@ -76,7 +76,13 @@ function main(item) {
 
     if (!json1.data || !json1.data.url) return { url: "Step1 Data Empty" };
 
-    let firstUrl = json1.data.url + '&t=1&v=204';
+    // v2 修复：正确处理 URL 参数拼接，避免无 ? 时产生非法 URL
+    let firstUrl = json1.data.url;
+    if (firstUrl.indexOf("?") >= 0) {
+        firstUrl += '&t=1&v=204';
+    } else {
+        firstUrl += '?t=1&v=204';
+    }
 
     // --- 第二步：解析 URI 并请求最终地址 ---
     // 兼容性处理：如果 ku9.Uri 报错，使用正则手动截取 Path + Query
