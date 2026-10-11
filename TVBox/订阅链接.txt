@@ -19,4 +19,4 @@ file://TVBox/api.json
 
 ★在线订阅链接★
 
-https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/TVBox/main/star.json
+https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/TVBox/star.json

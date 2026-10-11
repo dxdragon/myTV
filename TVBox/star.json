@@ -1,7 +1,7 @@
 {
-  "spider": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/TVBox/main/spider.jar",
+  "spider": "./spider.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "logo": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/TVBox/main/logo.png",
+  "logo": "./logo.png",
   "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
   "sites": [
     {
@@ -821,7 +821,7 @@
         "港台动漫",
         "海外动漫"
       ],
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/TVBox/main/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "量子",
@@ -856,7 +856,7 @@
         "港台动漫",
         "海外动漫"
       ],
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/TVBox/main/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "暴风",
@@ -949,7 +949,7 @@
         "足球",
         "篮球"
       ],
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/TVBox/main/jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
+      "jar": "./jar/Yoursmile.jar;md5;97796a79a781055669f2d5442439dc5f"
     },
     {
       "key": "无尽",
