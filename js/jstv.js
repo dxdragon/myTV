@@ -1,8 +1,5 @@
 function main(item) {
-    // 从地址参数中获取频道 ID，默认江苏卫视
-    var id = ku9.getQuery(item.url, "id") || 'jswspro';
-
-    // 频道映射（用于校验，非必需）
+    // ========== 频道列表 ==========
     var channels = {
         "jswspro": "江苏卫视",
         "jsws4kpro": "江苏卫视4K",
@@ -15,26 +12,138 @@ function main(item) {
         "jsgjpro": "江苏国际",
         "ymktpro": "优漫卡通"
     };
-    if (!channels[id]) {
+
+    // ========== 备用密钥（内置当前有效密钥）==========
+    var FALLBACK_KEY = "L3DC4PN2NTcmJoaXNaZTJ0RjNOM1pHUE4=NKW";
+
+    // ========== 动态密钥获取模块 ==========
+    var __LIVE_SECRET_KEY = FALLBACK_KEY;
+    var _keyLoaded = false;
+
+    (function() {
+        try {
+            var JS_URL = "https://live.jstv.com/assets/js/311.cfbea0d1.js";
+
+            // 方法1: fetch API（异步，不阻塞）
+            if (typeof fetch === 'function') {
+                fetch(JS_URL).then(function(resp) {
+                    return resp.text();
+                }).then(function(text) {
+                    var key = _extractKey(text);
+                    if (key) __LIVE_SECRET_KEY = key;
+                }).catch(function() {});
+            }
+
+            // 方法2: XMLHttpRequest 同步请求
+            if (typeof XMLHttpRequest !== 'undefined') {
+                try {
+                    var xhr = new XMLHttpRequest();
+                    xhr.open('GET', JS_URL, false);
+                    xhr.send();
+                    if (xhr.status === 200) {
+                        var key = _extractKey(xhr.responseText);
+                        if (key) __LIVE_SECRET_KEY = key;
+                    }
+                } catch(e) {}
+            }
+
+            // 方法3: 尝试从缓存读取
+            try {
+                var cached = ku9.getCache('jstv_secret_key');
+                if (cached && cached.length > 20) {
+                    __LIVE_SECRET_KEY = cached;
+                }
+            } catch(e) {}
+
+        } catch(e) {}
+    })();
+
+    // 密钥提取函数
+    function _extractKey(text) {
+        try {
+            // 尝试多种可能的密钥位置
+            var patterns = [
+                'x("',
+                "x('",
+                'secretKey:"',
+                'secretKey:"',
+                '"secretKey":"',
+                "'secretKey':'",
+                'appSecret:"',
+                "appSecret:'",
+                '"appSecret":"',
+                "'appSecret':'",
+            ];
+            for (var i = 0; i < patterns.length; i++) {
+                var idx = text.indexOf(patterns[i]);
+                if (idx !== -1) {
+                    var start = idx + patterns[i].length;
+                    var end = text.indexOf('"', start);
+                    if (end === -1) end = text.indexOf("'", start);
+                    if (end > start) {
+                        var key = text.substring(start, end);
+                        if (key.length > 20) {
+                            // 缓存成功获取的密钥
+                            try { ku9.setCache('jstv_secret_key', key, 86400000); } catch(e) {}
+                            return key;
+                        }
+                    }
+                }
+            }
+            // 兜底：搜索 Base64 风格的长字符串
+            var b64Match = text.match(/"[A-Za-z0-9+\/=]{20,}={0,2}"/);
+            if (b64Match) {
+                var candidate = b64Match[0].replace(/"/g, '');
+                if (candidate.length > 20 && candidate.indexOf('/') === -1 && candidate.indexOf('+') === -1) {
+                    try { ku9.setCache('jstv_secret_key', candidate, 86400000); } catch(e) {}
+                    return candidate;
+                }
+            }
+        } catch(e) {}
+        return null;
+    }
+
+    // ========== 判断模式：列表模式 vs 播放模式 ==========
+    var chId = ku9.getQuery(item.url, "id") || item.id || '';
+
+    // 如果没有 id 参数，返回频道列表（列表模式）
+    if (!chId) {
+        var list = "#EXTM3U\n";
+        for (var key in channels) {
+            if (channels.hasOwnProperty(key)) {
+                list += '#EXTINF:-1 tvg-name="' + channels[key] + '" group-title="江苏电视台",'+ channels[key] + '\n';
+                list += 'js://channel/jstv.js?id=' + key + '\n';
+            }
+        }
+        return list;
+    }
+
+    // ========== 播放模式：动态计算密钥并返回流地址 ==========
+    if (!channels[chId]) {
         return { error: '频道不存在，可用ID：' + Object.keys(channels).join(', ') };
     }
 
-    // 硬编码密钥（取自 PHP 中的 $RAW_KEY）
-    var RAW_KEY = "M3bW5PdEphbkFIa3lHdGFpZmFRRzRkV2U=NQR";
+    // 获取密钥（优先使用动态获取的，否则用备用）
+    var secretKeyRaw = __LIVE_SECRET_KEY;
+
     // 提取中间部分（去掉前6位和后3位）并 Base64 解码
-    var encoded = RAW_KEY.substring(6, RAW_KEY.length - 3);
+    var encoded = secretKeyRaw.substring(6, secretKeyRaw.length - 3);
     var secretKey = ku9.decodeBase64(encoded);
+
+    if (!secretKey) {
+        return { error: '密钥解码失败，请检查密钥是否有效' };
+    }
 
     // 生成签名参数（有效期 180 秒）
     var expire = Math.floor(Date.now() / 1000) + 180;
     var txTime = expire.toString(16);          // 十六进制
-    var txSecret = ku9.md5(secretKey + id + txTime).toLowerCase();
+    var txSecret = ku9.md5(secretKey + chId + txTime).toLowerCase();
 
     // 构造最终 m3u8 播放地址
-    var baseUrl = "https://litchi-play-encrypted-site.jstv.com/applive/" 
-                  + id + ".m3u8?txSecret=" + txSecret + "&txTime=" + txTime;
+    var baseUrl = "https://litchi-play-encrypted-site.jstv.com/applive/"
+                  + chId + ".m3u8?txSecret=" + txSecret + "&txTime=" + txTime;
 
-    // 返回播放地址并携带必要请求头（播放器将自动应用至所有分片请求）
+    // 返回播放地址
     return {
         url: baseUrl,
         headers: {
