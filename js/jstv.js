@@ -13,12 +13,21 @@ function main(item) {
         "ymktpro": "优漫卡通"
     };
 
+    // ========== 防盗链签名有效期（核心修改点） ==========
+    // 腾讯云 CDN A 型鉴权：服务端只判断 当前时间 < txTime 且 md5 校验通过。
+    // 因此只要密钥正确，URL 能活多久完全由这里的偏移量决定，
+    // 客户端把 txTime 往后推多久，链接就有效多久。
+    // 单位：秒。默认 7 天。设得越长，长时间观看越不会因为签名过期而中断，
+    // 也就不再依赖播放器的"断线重连"功能。
+    // 注意：若源站对 A 型鉴权配置了最大 TTL 上限，超出会被拒（返回 403），
+    //      此时把这个值调小到不超过服务端上限即可（例如 3600 / 86400）。
+    var SIGN_TTL = 7 * 24 * 3600;
+
     // ========== 备用密钥（内置当前有效密钥）==========
     var FALLBACK_KEY = "L3DC4PN2NTcmJoaXNaZTJ0RjNOM1pHUE4=NKW";
 
     // ========== 动态密钥获取模块 ==========
     var __LIVE_SECRET_KEY = FALLBACK_KEY;
-    var _keyLoaded = false;
 
     (function() {
         try {
@@ -61,11 +70,9 @@ function main(item) {
     // 密钥提取函数
     function _extractKey(text) {
         try {
-            // 尝试多种可能的密钥位置
             var patterns = [
                 'x("',
                 "x('",
-                'secretKey:"',
                 'secretKey:"',
                 '"secretKey":"',
                 "'secretKey':'",
@@ -83,14 +90,12 @@ function main(item) {
                     if (end > start) {
                         var key = text.substring(start, end);
                         if (key.length > 20) {
-                            // 缓存成功获取的密钥
                             try { ku9.setCache('jstv_secret_key', key, 86400000); } catch(e) {}
                             return key;
                         }
                     }
                 }
             }
-            // 兜底：搜索 Base64 风格的长字符串
             var b64Match = text.match(/"[A-Za-z0-9+\/=]{20,}={0,2}"/);
             if (b64Match) {
                 var candidate = b64Match[0].replace(/"/g, '');
@@ -106,24 +111,23 @@ function main(item) {
     // ========== 判断模式：列表模式 vs 播放模式 ==========
     var chId = ku9.getQuery(item.url, "id") || item.id || '';
 
-    // 如果没有 id 参数，返回频道列表（列表模式）
+    // 列表模式
     if (!chId) {
         var list = "#EXTM3U\n";
         for (var key in channels) {
             if (channels.hasOwnProperty(key)) {
-                list += '#EXTINF:-1 tvg-name="' + channels[key] + '" group-title="江苏电视台",'+ channels[key] + '\n';
+                list += '#EXTINF:-1 tvg-name="' + channels[key] + '" group-title="江苏电视台",' + channels[key] + '\n';
                 list += 'js://channel/jstv.js?id=' + key + '\n';
             }
         }
         return list;
     }
 
-    // ========== 播放模式：动态计算密钥并返回流地址 ==========
+    // ========== 播放模式 ==========
     if (!channels[chId]) {
         return { error: '频道不存在，可用ID：' + Object.keys(channels).join(', ') };
     }
 
-    // 获取密钥（优先使用动态获取的，否则用备用）
     var secretKeyRaw = __LIVE_SECRET_KEY;
 
     // 提取中间部分（去掉前6位和后3位）并 Base64 解码
@@ -134,8 +138,8 @@ function main(item) {
         return { error: '密钥解码失败，请检查密钥是否有效' };
     }
 
-    // 生成签名参数（有效期 180 秒）
-    var expire = Math.floor(Date.now() / 1000) + 180;
+    // 生成签名参数（有效期由 SIGN_TTL 控制，默认 7 天）
+    var expire = Math.floor(Date.now() / 1000) + SIGN_TTL;
     var txTime = expire.toString(16);          // 十六进制
     var txSecret = ku9.md5(secretKey + chId + txTime).toLowerCase();
 
@@ -143,7 +147,6 @@ function main(item) {
     var baseUrl = "https://litchi-play-encrypted-site.jstv.com/applive/"
                   + chId + ".m3u8?txSecret=" + txSecret + "&txTime=" + txTime;
 
-    // 返回播放地址
     return {
         url: baseUrl,
         headers: {
