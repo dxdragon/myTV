@@ -456,20 +456,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226328/index.m3u8?fmt=
 #EXTVLCOPT:http-user-agent=okHttp/Mod-1.5.0.0
 https://live.ottiptv.cc/mcp/guoxue.m3u8?userid=1509682429&sign=3b535a112865882667f6a0472fdf1455666c05fdf1217ace822fd29bc5576e74e06e7c2d93aa29a187bb29db2899dfa5dd84d949c8f55442da6f769028481cdbdd9c0633ae316b30736abf33242f&auth_token=0cc129f1466d676528e6ae0f292c64b9
 
-#四川
-#EXTINF:-1 tvg-id="成都新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都新闻综合.png" group-title="四川",成都新闻综合
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdxw
-#EXTINF:-1 tvg-id="成都经济资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都经济资讯服务.png" group-title="四川",成都经济资讯服务
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdjj
-#EXTINF:-1 tvg-id="成都都市生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都都市生活.png" group-title="四川",成都都市生活
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdsh
-#EXTINF:-1 tvg-id="成都影视文艺" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都影视文艺.png" group-title="四川",成都影视文艺
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdys
-#EXTINF:-1 tvg-id="成都公共" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都公共.png" group-title="四川",成都公共
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdgg
-#EXTINF:-1 tvg-id="成都少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/成都少儿.png" group-title="四川",成都少儿
-javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/sccd.js?id=cdse
-
 #内蒙古
 #EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/nm.js?id=nmxwzh
@@ -678,9 +664,9 @@ https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/04
 
 #纪录
 #EXTINF:-1 tvg-id="Love Nature" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/LoveNature.png" group-title="纪录",Love Nature
+https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 https://d2wh06mmk97552.cloudfront.net/playlist/bamusaAAA-bamus-lovenature-lg/playlist.m3u8
-https://pb-ehs1glsha1juy.akamaized.net/Love_Nature_4K.m3u8
 #EXTINF:-1 tvg-id="Wild Earth" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/WildEarth.png" group-title="纪录",Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 https://wildearth-plex.amagi.tv/master.m3u8
@@ -694,8 +680,6 @@ https://amg00090-blueantllc-lovenature-au-samsungau-wggcn.amagi.tv/playlist/amg0
 https://amg00090-blueantllc-lovenatureau-samsungnz-r3iaz.amagi.tv/playlist/amg00090-blueantllc-lovenatureau-samsungnz/playlist.m3u8
 https://bamusa-naturetime-emea-eng-rakuten.amagi.tv/playlist.m3u8
 https://amg00090-blueantmedia-naturetime-samsungse-axgcn.amagi.tv/playlist/amg00090-blueantmedia-naturetime-samsungse/playlist.m3u8
-#EXTINF:-1 tvg-id="Terra Mater Wild" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/TerraMaterWild.png" group-title="纪录",Terra Mater Wild
-https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="History Hit" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/HistoryHit.png" group-title="纪录",History Hit
 https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
 https://lds-timeline-plex.amagi.tv/playlist.m3u8
@@ -793,7 +777,6 @@ https://bein-beinxtrasports-firetv.amagi.tv/playlist.m3u8
 https://aegis-cloudfront-1.tubi.video/a1e671ae-d1c2-4e39-99c7-889e83056fd2/playlist.m3u8
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="PGA Tour" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/PGATour.png" group-title="运动",PGA Tour
-https://aegis-cloudfront-1.tubi.video/9c59800e-fa9a-4539-b8e5-5769918e7c5a/playlist.m3u8
 https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
 
 #户外
@@ -933,8 +916,6 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist1080.m3u8
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 #EXTINF:-1 tvg-id="Vevo Pop" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/VevoPop.png" group-title="音乐",Vevo Pop
 https://amg00056-amg00056c9-rakuten-fr-3243.playouts.now.amagi.tv/playlist/amg00056-vevotvfast-vevopopfr-rakutenfr/playlist.m3u8
-#EXTINF:-1 tvg-id="Vevo Latino" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/VevoLatino.png" group-title="音乐",Vevo Latino
-https://amg00056-amg00056c13-rakuten-es-3246.playouts.now.amagi.tv/1080p/index.m3u8
 #EXTINF:-1 tvg-id="LIVExLIVE" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/LIVExLIVE.png" group-title="音乐",LIVExLIVE
 https://livestream.liveone.com/lc1/p1.m3u8
 #EXTINF:-1 tvg-id="Qwest TV" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/QwestTV.png" group-title="音乐",Qwest TV
