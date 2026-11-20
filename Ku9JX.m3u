@@ -89,9 +89,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225907/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225908/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226422/index.m3u8
-#EXTINF:-1 tvg-id="CCTV8K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV8K.png" group-title="央视",CCTV-8K 超高清
-#EXTKU9OPT:HEADERS={"User-Agent":"okHttp/Mod-1.5.0.0"}
-https://live.ottiptv.cc/mcp/cctv8k.m3u8?userid=1509682429&sign=ace4c263b5e29f8d2d2d10e4c3555899de002ae0952477d2ed2c08c2206f61993e2153e4c207a77fb2b55d571602b46afe026673b656bcaae0e68ffe50c280447d8020cd8a01d7825da263bf7f04&auth_token=0cc129f1466d676528e6ae0f292c64b9
 #EXTINF:-1 tvg-id="电视指南" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV电视指南.png" group-title="央视",CCTV-电视指南
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226359/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="风云剧场" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CCTV风云剧场.png" group-title="央视",CCTV-风云剧场
@@ -220,9 +217,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226407/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225484/index.m3u8?fmt=ts2hls
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225697/index.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/山西卫视.png" group-title="卫视",山西卫视
-#EXTKU9OPT:HEADERS={"User-Agent":"okHttp/Mod-1.5.0.0"}
+py://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/py/socks5.py?u=http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236264/index.m3u8
 http://pplee.vicp.net:4022/udp/233.18.204.211:5140?fcc=124.75.25.211:7777
-https://live.ottiptv.cc/mcp/shanxi.m3u8?userid=1509682429&sign=93001194b1c769dff51948abe768a76cdf69158174bcbfc4b56fd63198ab9f23e90777b6ac013fae82a07c6003317292e13df284fd511db5d8cb1bd0ceca838492962dbe508cab3af7bef03fe664&auth_token=0cc129f1466d676528e6ae0f292c64b9
 #EXTINF:-1 tvg-id="陕西卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/陕西卫视.png" group-title="卫视",陕西卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/四川卫视4K.png" group-title="卫视",四川卫视
@@ -434,14 +430,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226336/index.m3u8?fmt=
 #EXTINF:-1 tvg-id="苏州4K" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/苏州4K.png" group-title="江苏",苏州4K
 http://live-auth.51kandianshi.com/szgd/csztv4k_4k.m3u8
 http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
-#EXTINF:-1 tvg-id="扬州新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/扬州新闻.png" group-title="江苏",扬州新闻
-js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jsyz.js?id=yzxw
-#EXTINF:-1 tvg-id="扬州民生" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/扬州民生.png" group-title="江苏",扬州民生
-js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jsyz.js?id=yzms
-#EXTINF:-1 tvg-id="扬州邗江" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/扬州邗江.png" group-title="江苏",扬州邗江
-js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jsyz.js?id=yzhj
-#EXTINF:-1 tvg-id="扬州江都" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/扬州江都.png" group-title="江苏",扬州江都
-js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/jsyz.js?id=yzjd
 
 #河南
 #EXTINF:-1 tvg-id="梨园频道" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南梨园频道.png" group-title="河南",梨园频道
@@ -450,9 +438,6 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225581/index.m3u8?fmt=
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225508/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="文物宝库" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南文物宝库.png" group-title="河南",文物宝库
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226328/index.m3u8?fmt=ts2hls
-#EXTINF:-1 tvg-id="国学" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/河南国学频道.png" group-title="河南",国学频道
-#EXTKU9OPT:HEADERS={"User-Agent":"okHttp/Mod-1.5.0.0"}
-https://live.ottiptv.cc/mcp/guoxue.m3u8?userid=1509682429&sign=ef7f284fbb91a04f871906b95e0812d164e26dc68859b758cdf24ab612c2ba66e7144bc1d937d1158f63bb60f0ccfc62d18545782a24e511ce99543765ea34ac57a12828673626cb229b2819d87b&auth_token=0cc129f1466d676528e6ae0f292c64b9
 
 #内蒙古
 #EXTINF:-1 tvg-id="内蒙古新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/内蒙古新闻综合.png" group-title="内蒙古",内蒙古新闻综合
@@ -494,9 +479,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226308/index.m3u8?fmt=
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/CHC家庭影院.png" group-title="数字",CHC家庭影院
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226319/index.m3u8?fmt=ts2hls
 #EXTINF:-1 tvg-id="重温经典" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/重温经典.png" group-title="数字",重温经典
-#EXTKU9OPT:HEADERS={"User-Agent":"okHttp/Mod-1.5.0.0"}
+py://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/py/socks5.py?u=http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236436/849829896.smil/index.m3u8?fmt=ts2hls
 js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/cwjd.js
-https://live.ottiptv.cc/other/cwjd.m3u8?userid=1509682429&sign=4cc348b33dab4bbb932ba660aea1c6a0efcb1a62f252de9640540c7e5224350bfce53f4c1e8455fa713634562c5c2e1832a77bc40b0689f3e08f6f46732dbebff5c62bb61ff056f85a047d68&auth_token=0cc129f1466d676528e6ae0f292c64b9
 
 #NewTV
 #EXTINF:-1 tvg-id="炫舞未来" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/NewTV炫舞未来.png" group-title="NewTV",炫舞未来
@@ -615,6 +599,8 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226248/index.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/凤凰卫视资讯台.png" group-title="港澳",凤凰卫视资讯台
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226274/index.m3u8
+#EXTINF:-1 tvg-id="香港卫视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/香港卫视.png" group-title="港澳",香港卫视
+js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/hkstv.js?id=hkstv
 #EXTINF:-1 tvg-id="邵氏电影" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏电影.png" group-title="港澳",邵氏电影
 http://38.75.136.137:98/gslb/dsdqpub/lbssdy.m3u8?auth=testpub
 #EXTINF:-1 tvg-id="邵氏动作" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/邵氏动作.png" group-title="港澳",邵氏动作
