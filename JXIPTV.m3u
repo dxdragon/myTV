@@ -392,16 +392,22 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=
 
 #浙江
 #EXTINF:-1 tvg-id="钱江都市" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江钱江都市.png" group-title="浙江",浙江钱江都市
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233005/1/index.m3u8?fmt=ts2hls
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjqj
 #EXTINF:-1 tvg-id="浙江经济生活" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江经济生活.png" group-title="浙江",浙江经济生活
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233008/1/index.m3u8?fmt=ts2hls
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjjjsh
 #EXTINF:-1 tvg-id="浙江教科影视" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江教科影视.png" group-title="浙江",浙江教科影视
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233002/1/index.m3u8?fmt=ts2hls
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjjkys
 #EXTINF:-1 tvg-id="浙江民生休闲" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江民生休闲.png" group-title="浙江",浙江民生休闲
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221232996/1/index.m3u8?fmt=ts2hls
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjmsxx
 #EXTINF:-1 tvg-id="浙江新闻" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江新闻.png" group-title="浙江",浙江新闻
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233052/1/index.m3u8?fmt=ts2hls
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjxw
 #EXTINF:-1 tvg-id="浙江少儿" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江少儿.png" group-title="浙江",浙江少儿
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233011/1/index.m3u8?fmt=ts2hls
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjse
 #EXTINF:-1 tvg-id="浙江国际" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/浙江国际.png" group-title="浙江",浙江国际
 javascript://https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/zj.js?id=zjgj
