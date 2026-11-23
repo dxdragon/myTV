@@ -286,6 +286,8 @@ js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/q
 js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/qukan.js?id=ndzh
 #EXTINF:-1 tvg-id="南康综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/南康综合频道.png" group-title="江西",南康综合频道
 js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/qukan.js?id=nkzh
+#EXTINF:-1 tvg-id="大余综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/大余综合.png" group-title="江西",大余综合
+js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/qukan.js?id=dyzh
 #EXTINF:-1 tvg-id="信丰综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/信丰综合.png" group-title="江西",信丰综合
 js://PLTV/https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/js/qukan.js?id=xfzh
 #EXTINF:-1 tvg-id="九江新闻综合" tvg-logo="https://gh-proxy.com/raw.githubusercontent.com/dxdragon/myTV/main/logo/九江新闻综合频道.png" group-title="江西",九江新闻综合频道
